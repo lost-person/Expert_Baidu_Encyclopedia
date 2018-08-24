@@ -1,0 +1,17 @@
+朱诗亮，男，出生于1970年3月。教育部长江学者特聘教授，国家杰出青年基金获得者。1992年于南京大学获学士学位；1995年于华南师范大学获硕士学位；2001年在香港大学获博士学位。现为南京大学物理学院物理学系教授。
+
+朱诗亮，男，出生于1970年3月。1992年毕业于，获学士学位。1995年毕业于中山大学
+，获硕士学位。2001年在获博士学位。1995年~2013年华南师范大学教师，2003年晋升为教授，博士导师。2013年8月任南京大学物理学院物理系教授。
+。曾在香港大学物理系、意大利ISI研究所、美国密歇根大学物理系从事博士后研究。他长期从事量子物理及其在超冷原子和量子信息领域的应用研究，注重理论和实验研究的结合。他和合作者在量子模拟和量子计算领域做出了系列重要理论工作。提出可用光晶格的冷原子实现Dirac方程的理论，并发现各向异性的晶格可诱导拓扑量子相变，被美国、瑞士和法国的科学家分别做的三个实验证实（美国、瑞士实验同期发表于Nature，法国实验发表于Phys. Rev. Lett.）。2006年首次提出了原子自旋霍尔效应，2013年被美国国家标准局科学家在Nature发表的实验实现。提出了非绝热和非常规几何量子计算理论，被国内外5个实验组发表于Nature/PRL/PRA等的7篇实验论文实现。他目前已发表SCI论文70余篇，其中Phys. Rev. Lett. 15篇 (第一或通信作者)，Phys. Rev. A/B/E 31篇。
+主要从事量子物理及其应用到超冷原子和量子信息领域的应用研究。1）基于冷原子的量子模拟。超冷原子可以用来模拟凝聚态物理和量子场论等，此方向我们主要研究超冷原子中的新奇物态。2）量子信息，主要从事量子信息和量子计算的基础理论。3）量子模拟和量子网络的实验研究。
+
+近年来主要从事量子计算（量子模拟）与量子信息、几何相位、凝聚态物理等领域的基础理论及其应用研究。在国际重要学术期刊上发表论文二十多篇，其中有11篇论文以第1作者或通讯作者发表在《Physical Review Letters》上；16篇论文发表在《Physical Review A/B》上。论文曾被Science、Physics Reports、PRL/PRA/PRB 等国际重要学术期刊上发表的论文他引超过六百余次。经常应邀为PRL, PRA/B, JPA,PLA, Physica B等重要学术杂志审稿。目前感兴趣的研究领域包括：量子计算,量子模拟与量子信息；几何位相的理论及其应用；凝聚态理论等。入选2004年度教育部“新世纪优秀人才支持计划”、入选2006年度“新世纪”国家级学术带头人。2007年作为第一获奖人获教育部高等学校自然科学一等奖; 2008年获香港大学颁发的以华裔诺贝尔物理学奖得主崔琦教授命名的崔琦Fellowship。2008年起任广东省高等学校量子信息技术重点实验室主任。2008年获教育部长江学者特聘教授、香港大学Daniel Tsui Fellowship；获2011年度国家自然科学基金-杰出青年基金、广东省自然科学奖一等奖。2012年全国五一劳动奖章。他领导的研究团队获得2012年度教育部创新团队。 与香港大学物理系汪子丹教授合作，取得丰硕成果。合作研究成果“量子几何相位及其相关问题研究”荣获2013年度国家自然科学奖二等奖。 
+1 Delocalization of Relativistic Dirac Particles in Disordered One-Dimensional Systems and Its Implementation with Cold AtomsS.L.Zhu, D.W. Zhang, and Z. D. Wang, Phys. Rev. Lett. 102, 210403 (2009)2 Realizing and Detecting the Quantum Hall Effect without Landau Levels by Using Ultracold AtomsL.B. Shao, S.L. Zhu, L. Sheng, D.Y. Xing, and Z.D. Wang, Phys. Rev. Lett. 101, 246810 (2008)3 Quantum Jumps between Macroscopic Quantum States of a Superconducting Qubit Coupled to a Microscopic Two-Level SystemY. Yu, S.L. Zhu, G. Sun, X. Wen, N. Dong, J. Chen, P. Wu, and S. Han, Phys. Rev. Lett. 101, 157001 (2008)4 Simulation and Detection of Dirac Fermions with Cold Atoms in an Optical LatticeS.L.Zhu, B.Wang, and L.M.Duan, Phys.Rev.Lett. 98, 260402 (2007).5 Spin Hall Effects for Cold Atoms in a Light-Induced Gauge PotentialS.L.Zhu,H.Fu,C.J.Wu,S.C.Zhang, and L.M.Duan, Phys. Rev. Lett. 97, 240401 (2006)6 Ion trap quantum computing with transverse phonon modesS. L. Zhu, C. Monroe, and L. M. Duan, Phys. Rev. Lett. 97,050505 (2006)7 Scaling of geometric phases close to quantum phase transition in the XY chainS. L. Zhu, Phys. Rev. Lett.96, 077206 (2006).8 Geometric quantum computation and multiqubit entanglement with superconducting qubits inside a cavityS. L. Zhu, Z. D. Wang, and P. Zanardi, Phys. Rev. Lett. 94, 100502 (2005).9 Unconventional geometric quantum computationS. L. Zhu, Z. D. Wang, Phys. Rev. Lett. 91, 187902 (2003).10 Implementation of universal quantum gates based on nonadiabatic geometric phasesS. L. Zhu and Z. D. Wang, Phys. Rev. Lett. 89, 097902 (2002).11 Nonadiabatic noncyclic geometric phase and ensemble average spectrum of conductance in disordered mesoscopic rings with spin-orbit couplingS. L. Zhu and Z. D. Wang, Phys. Rev. Lett. 85, 1076 (2000). 
+
+
+
+南京大学 香港大学   
+
+
+
+百千万人才工程 

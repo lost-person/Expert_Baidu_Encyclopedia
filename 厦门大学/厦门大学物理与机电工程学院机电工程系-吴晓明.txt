@@ -1,0 +1,5 @@
+吴晓明，男，1963年生
+武汉水利电力学院 理学学士（数学）；厦门大学 理学硕士（计算数学）；吉林大学 工学博士（固体力学）2007年 1月至今，厦门大学　机电工程系　副教授。从事结构动力学、机构设计优化和仿真分析的算法研究与应用。参与中国客车学会车身结构评审，《AIAA Journal》审稿。近期主持大型客车结构优化，港口起重机关键结构分析检测等横向课题。【1】Epsilon算法在汽车结构设计分析中的应用，吴晓明, 陈塑寰 黄志东，吉林大学学报工学版（增刊），2006，36（3）：8-11【2】多工况下客车顶棚结构静态拓扑优化，杨志军，吴晓明，陈塑寰，孟树兴，吉林大学学报工学版（增刊），2006，36（3）：12-15【3】Epsilon算法在结构模态重分析中的应用，吴晓明，陈塑寰，吉林大学学报工学版，2006，36（4）：447-450【4】面向对象有限元快速算法——Ⅱ快速算法,杨志军, 陈塑寰,吴晓明，吉林大学学报工学版，2005. vol.35(2):195-198【5】结构静态拓扑重分析的迭代组合近似方法, 杨志军,陈塑寰,吴晓明，力学学报, 2004,36(5):611-616【6】Su Huan Chen, Xiao Ming Wu, Zhi Jun Yang, Eigenvalue Reanalysis of Modified Structures Using Epsilon-algorithm, International Journal for Numerical Methods in Engineering, 2006,66:2115-2130
+【7】Xiao Ming Wu, Su Huan Chen, Zhi Jun Yang, Static Displacement Reanalysis of Modified Structures Using Epsilon-algorithm, Journal of AIAA,Vol. 45, No. 8 (2007), pp. 2083-2086.
+【8】Yang ZJ, Chen SH, Wu XM, A method for modal reanalysis of topological modifications of structures, Int. J. Number. Meth. Engng., 2006, 65: 220
+3-2220    

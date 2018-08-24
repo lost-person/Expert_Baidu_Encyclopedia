@@ -1,0 +1,6 @@
+男，1963年生于山东县，数学教授、计算机软件设计师。南佛罗里达大学数学专业，研究领域为特殊函数论和正交多项式，渐进分析，逼近论，生物数学，计算机代数。学士(1979.8-1983.7), 应用数学专业；硕士(1985.9-1987.8)， 亚里桑那州立大学数学专业, 研究方向－特殊函数论；博士(1987.8-1993.5), 南佛罗里达大学数学专业,研究方向－特殊函数论。
+· 教师(1983.8-1985.9)，;· 助教(1985.9－1987.7)，美国亚里桑那州立大学;· 助教(1987.8－1993.5),;· 博士后(1993.5－1994.5), ;· 博士后(1994.9－1996.5), ;· 资深软件开发员(1996.12－2000.7), 加拿大U|Force公司;· 计算机软件设计师(2000.7－2001.4)， 加拿大Basis100公司;· 计算机软件设计师(2001.5－2003.7)， 加拿大CollectBid Systems公司。· 数学研究员(2005.9－2010.1)，中国;· 数学教授(2010.3－现在), 中国西北农林科技大学。
+特殊函数论和正交多项式，渐进分析，逼近论，生物数学，计算机代数。兴趣学科：解析数论，组合数学，数学物理，算子理论；软件工具：Maxima, Maple, Mathematica,LyX。
+操作系统：Linux, Solaris, Windows应用服务器：Weblogic, Websphere；数据库：Oracle, MySql；编程语言:Java, SQL, XML,C/C++, Python, Make Script, Perl, Javascript, Bash Script；编程工具：Eclipse,JBuilder,Together Control Center, Emacs, Vi。
+UBuilder Studio—VOIP应用程序开发环境（U|Force Inc.);TSE Fixed Income Trading Engine-多伦多股市固定收益交易系统引擎（Basis 100 Inc.);CollectBid Fixed Income Trading System-CollectBid固定收益交易系统(CollectBid System Inc.)。
+博兴中国海洋大学 西北农林科技大学美国南佛罗里达大学加拿大多伦多大学加拿大约克大学广西师范大学    

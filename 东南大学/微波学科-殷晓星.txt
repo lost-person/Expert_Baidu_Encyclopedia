@@ -1,0 +1,17 @@
+殷晓星，男，现为东南大学毫米波国家重点实验室研究员，博士生导师
+，军用微组装研究中心专家1993年至1998年在石油大学工作，从事物理教学工作和石油测井技术的研究工作，2001年起在东南大学从事电磁场与微波技术专业的教学和研究工作，现主要研究方向为微波毫米波电路及系统、天线和计算电磁学，完成了包括 “973”二级课题、国家自然科学基金、国家“863”、预研等项目。在国内外发表论文三十余篇，获六项发明专利和三十多项实用新型授权，并已申报五十余项发明专利。殷晓星，男，教授、，生于1963年10月。1987年毕业于南京工学院，获工学学士学位。1989年和2001年在东南大学分别获工学硕士学位和工学博士学位1983年至1998年在石油大学工作，从事物理教学工作和石油测井技术的研究工作，2001年起在东南大学从事电磁场与微波技术专业的教学和研究工作。现主要研究方向为微波毫米波电路及系统、天线和计算电磁学，完成了包括 “973”二级课题、国家自然科学基金、国家“863”、预研等项目。在国内外发表论文三十余篇，获六项发明专利和三十多项实用新型授权，并已申报五十余项发明专利。从事电磁场与微波技术专业的教学和研究工作，主要研究方向为天线、微波毫米波电路和计算电磁学1、Xiaoxing Yin; Xinyu Zai; Wei Hong; Xiaowei Zhu, "A fast algorithm based on MEI and FMM for field prediction in urban mobile communications,", vol.2, no., pp.1384,1387 vol.2, 11-16 July 1999
+2、Xiaoxing Yin; Wei Hong; Qin Jiang; Tie Jun Cui, "A scattering model for field prediction of multiple transmitting antennas in urban environments,", vol.2, no., pp.539,542 vol.2, 22-27 June 2003
+3、Xiaoxing Yin; Zhiguo Su; Wei Hong; Cui, Tie-Jun, "A delay-line loaded tapered slot antenna,", vol.1B, no., pp.422,425 vol. 1B, 2005
+4、Xiaoxing Yin; Ziguo Su; Wei Hong; Cui, Tie-Jun, "An ultra wideband tapered slot antenna,", vol.2A, no., pp.516,519 vol. 2A, 3-8 July 2005
+5、Xiaoxing Yin; Wei Hong, "An efficient mixed algorithm of L-MEI and DDM for the wave scattering by a concave cylinder,", vol.12, no.2, pp.63,65, Feb. 2002
+6、Yin, X.X.; Yin, L.; Hong, W., "A measured absorbing boundary condition for electromagnetic scattering problems,", vol., no., pp.983,986, 2000
+7、Xiaoxing Yin; Lei Yin; Wei Hong, "A efficient mixed algorithm of L-MEI and DDM for the wave scattering by a cylinder,", vol., no., pp.202,205, 15-18 Aug. 2000
+8、殷晓星,孙忠良,朱成钰等.槽孔导体板滤波器简易设计方法[J].微波学报,2008,24(5):53-57.
+9、 赵洪新,殷晓星,孙忠良等.采用自适应信号处理技术的低成本回波抵消器[J].现代雷达,2008,30(10):82-85.DOI:10.3969/j.issn.1004-7859.2008.10.021.
+10、殷晓星,何昉,时鹏鹏等.微带线时域响应的横向不均匀性研究[J].微波学报,2007,23(6):17-20.DOI:10.3969/j.issn.1005-6122.2007.06.004.
+11、 殷晓星,朱淮城,郑力昭等.毫米波微带偶极子天线阵列[J].现代雷达,2007,29(11):80-82,88.DOI:10.3969/j.issn.1004-7859.2007.11.021.
+12、 殷晓星,王群,洪伟等.目标雷达散射截面的高频适用条件[J].现代雷达,2007,29(1):6-8,19.DOI:10.3969/j.issn.1004-7859.2007.01.002.
+13、殷晓星,王群,王春和等.一种探地雷达用的渐变槽线加载天线[J].现代雷达,2006,28(11):58-60,68.DOI:10.3969/j.issn.1004-7859.2006.11.017.
+14、殷晓星,宰昕宇,洪伟等.电大尺寸多柱体电磁散射问题的一种快速混合算法--MEI+FMM[J].通信学报,2000,21(2):15-22.DOI:10.3321/j.issn:1000-436X.2000.02.003.
+15、 殷晓星,洪伟.MEI系数的快速算法[J].电波科学学报,2000,15(1):30-36.DOI:10.3969/j.issn.1005-0388.2000.01.006.
+1. “电磁场与电磁波”东南大学四系本科生课程2. “天线理论与技术”东南大学硕士研究生课程3. “微波毫米波工程设计”东南大学硕士研究生课程 博士生导师               

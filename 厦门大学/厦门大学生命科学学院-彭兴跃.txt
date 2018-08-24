@@ -1,0 +1,26 @@
+教授
+，厦门大学学生交响乐团艺术总监、团长及常任指挥。1984年毕业于重庆育才中学，1988年在厦门大学化学系获得分析化学学士学位，1993年在厦门大学海洋系获得海洋化学硕士学位，1996年在厦门大学环境科学研究中心获得理学博士学位。1998年为副教授，2010年为教授。2012年创建了并于2013年7月首演。1978-1984，重庆育才中学1984-1988，分析化学专业，学士1990-1993，厦门大学海洋系海洋化学专业，硕士1993-1996，厦门大学环境科学研究中心，博士1998，访问（Research Fellow）1998-2010，，副教授2003-2004，访问（Visiting Professor）2010至今，，教授分离基本单元进行实验研究是科学探索的基本方法;细胞对于生命科学正如原子对于化学;原子是完全重复的单元，细胞却是完全不重复的单元;细胞的生命过程决定于其内部过程及其微环境;生命科学的需要单细胞实验的技术;单细胞实验只能在单细胞芯片中完成。我们的研究重点是发展细胞芯片的技术，将细胞在芯片中进行微环境可控的培养及实验，最终为生命科学的研究提供新的研究平台。　　Biological cells are normally arranged into high levels of organized structures, such as tissues and organs. Biological cells can also be singled out for in-depth studies of structures and functions. Sometimes cells, even of the same type, but in a batch, might be different in functions and responses, and so there is a need to examine the single cell. The study of single cells provides new information which might be obscured by the averaging effect of numerous cells in a batch. In order to keep track of a single cell during experiments, we first need to culture the single cell. We explored the development of a platform on a microchip for single-cell cultures, on which experiments can be subsequently applied on the cell. In interactive communication, “Human-Machine Conversation” means the interaction between human and machine, which in turn requires interface components, such as monitor screen and keyboard. Research in the life sciences may need a similar approach, which we call “Human- Cell Conversation”. The single cell microchip is a platform actually designed for this kind of experiment1. Xing Yue (Larry) Peng,A micro surface tension pump (MISPU) in a glass microchip., 2011, , 132–138
+2. Xing Yue (Larry) Peng, et al. A micro surface tension alveolus (MISTA) in a glass microchip. , 2009, , 3251–3254
+3. Xing Yue (Larry) Peng *, Ling Qiao Li and Hua Sheng Hong. A vast-range speed control microchip for retention of all cell types. , 2009, , 3012–3015
+4. Xing Yue (Larry) Peng. Li P. C.H., Yu H.Z., Parameswaran M. (A) , Chou W.L.(J)., Spiral microchannels on a CD for DNA hybridizations
+, . 2007,, 64–69
+5. Xing Yue (Larry) Peng and Paul C. H. Li Extraction of pure cellular fluorescence by cell scanning in a single-cell microchip. , 2005,,1298-1302
+6. Xing Yue (Larry) Peng and Paul C. H. Li A Three-Dimensional Flow Control Concept for Single-Cell Experiments on a Microchip. 1. Cell Selection, Cell Retention, Cell Culture, Cell Balancing, and Cell Scanning.  2004, (18), 5273-5281
+7. Xing Yue (Larry) Peng and Paul C. H. Li. A Three-Dimensional Flow Control Concept for Single-Cell Experiments on a Microchip. 2. Fluorescein Diacetate Metabolism and Calcium Mobilization in a Single Yeast Cell As Stimulated by Glucose and pH Changes. 2004, (18), 5282-5292.
+8. 彭兴跃,洪再展2004,溶解氧测定探头式与经典滴定法的互校及无氧水零点校正法，，Vol 28 No.8, 23-27
+9. 彭兴跃（科普翻译），拯救蓝鳍金枪鱼，（），2008年第4期38-45。ISSN 1673--5153。译自Richard Ellis, The Bluefin in Peril, , March 2008, 33-39. ISSN 0036-8733
+10. 彭兴跃，2006, 研究生创新能力的培养需要加强仪器课程的教学，，2006, No.2, (总第66期)，119~123
+11. 何学佳,彭兴跃,2003应用流式细胞仪研究铅对海洋微藻生长的影响，，Vol.22,No.1,1-5
+12. 彭兴跃 何学佳 邵寒娟,2002流式细胞仪压力进样流速的即时标定及误差分析，，VOL.26/NO.12,5-8
+13. 彭兴跃 洪海征 黄 明何学佳2002厦门港海水光合色素特征,,V21(1)78-85 Peng Xingyue . (2002).
+14. 彭兴跃,陈钢 2000 单个体浮游动物脂肪酸的气相色谱分析, , Vol.19 No.4,454-459
+15. 刘占飞,彭兴跃,徐立,洪华生. 台湾海峡1997年夏季和1998年冬季两航次颗粒有机碳研究,, Vol.19 No.1 95-101 2000
+16. 王大志,彭兴跃,李少菁,程兆第,金德祥,1999 海水小球藻脂肪酸组成研究,,1999,Vol23 No4,68-70
+17. 李东辉,彭兴跃,叶东,许金钩.荧光各向异性法研究酸度对四磺基酞菁与牛血清白蛋白相互作用的影响,,Vol.20 No.8 1218-1220 1998
+18. 彭兴跃等,台湾海峡悬浮颗粒中的甲藻指示物.  Vol.37,No.4, 563-568 1998年7月
+19. 彭兴跃等,毫克级微藻样品中脂肪酸的分离及测定， Vol.22, No.3, 289-293 1998年9月
+20. 彭兴跃等,14C标记现场测定海洋初级生产力培养方法比较研究  Vol.16, No.1, 67-74 1997年3月
+21. 彭兴跃等, 厦门西海域表层沉积物中甾醇的模糊聚类分析.  Vol.17,No.4, 399-406 1997年10月
+22. 陈钢,李少菁,彭兴跃, 台湾海峡桡足类的化学元素组成分析 中国海洋学文集 No.7,142-145 1997年11月 海洋出版社23. 彭兴跃等,台湾海峡真光层有机碳动力学研究－DOC大幅度的日变化 .  Vol.19,No.3, 57-65 1997年5月
+24.李玉桂, 林庆梅, 彭兴跃, 洪华生. 厦门港沉积物中甾醇的GC-MS鉴定， Vol.35,No.4, 563-568 1996年
+厦门大学生命科学学院 厦门大学生命科学学院厦门大学学生交响乐团厦门大学化学系香港城市大学厦门大学生物系加拿大西蒙弗雷泽大学厦门大学生物系        海洋科学 环球科学 高等理科教育 海洋环境科学 海洋科学 台湾海峡 台湾海峡 台湾海峡 海洋科学 高等学校化学学报 厦门大学学报 台湾海峡 台湾海峡 环境科学学报 海洋学报 厦门大学学报 

@@ -1,0 +1,3 @@
+沈一栋，中国科学院软件研究所研究员、博士生导师，计算机科学国家重点实验室主任。1991年获重庆大学计算机科学博士学位，1992-1993年法国Valenciennes理工学院博士后，1995-1996年美国Maryland大学高级计算机研究所访问学者，1998-2002年加拿大Alberta大学和Simon Fraser大学计算机系访问教授。1993-2002年任重庆大学教授，2002年起任中科院软件所研究员，2011年起任澳大利亚Griffith大学兼职教授。1998年入选国家人事部百千万人才工程第一、二层次人选，1999年入选教育部跨世纪优秀人才培养计划。
+主要研究数据挖掘 (如 Association, Classification, Clustering 和 Relational Data Mining)、人工智能（如 Bayesian Networks 和 Logic Reasoning）以及逻辑程序设计的理论、方法、系统及应用。主持973、863以及国家自然科学基金等课题多项，在Artificial Intelligence（AIJ）、ACM Transactions on Computational Logic（TOCL）、IEEE Transactions on Data and Knowledge Engineering（TKDE）、Journal of Automated Reasoning、Theoretical Computer Science等国际学术期刊以及AAAI、IJCAI、KDD、ICDM、WWW等国际学术会议发表论文多篇。曾担任AAAI、IJCAI、KDD、KR、ISWC等重要国际学术会议程序委员会委员。
+  

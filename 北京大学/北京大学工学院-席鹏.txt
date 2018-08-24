@@ -1,0 +1,37 @@
+，北京大学工学院研究员。致力于光学超分辨成像技术的研究，发展了一系列新型超分辨技术。2015年当选美国光学学会资深会员，和中国光学学会生物医学光学分会常务委员。现担任四份SCI收录国际学术期刊的编委：Scientific Reports, Microscopy Research and Techniques, Micron, 和Chinese Optics Letters。同时担任多个国际著名学术期刊如Nat. Comm., OL, OE, BOE 等的审稿人。在Light: Science&Applications, ACS Nano, Laser & Photonic Research, Opt. Expr., Opt. Lett.等国际一流期刊发表SCI收录期刊论文49篇，总影像因子超过240。2013年获得绿叶生物医药杰出青年学者奖。2016年获得中国光学重要成果奖。已授权美国专利2项，中国专利8项，编辑专著2部。多次被OSA和SPIE组织的国际会议邀请作大会邀请报告。2003.8 – 2004.12 电子工程系 2005.2 – 2006.11 美国 2006.12 – 2007.12 美国Michigan State University 2008.1 – 2009.11  2009.12 – 现在  超分辨光学显微，超短脉冲多光子成像，新型成像技术1）在国际上首次提出利用反射-干涉增强STED的分辨率，可同时提升横向和轴向分辨率，利用该方法实现了19nm的分辨率，刷新了STED在生物样品上的分辨率记录（Light， IF 14.6）
+。首次提出利用贝塞尔-高斯光束结合的STED，实现了155微米的深层超分辨成像，创造了超分辨的探测深度新纪录（LPR，IF 8，封面文章）
+。2）利用逆复用多色量子点实现了高速、高标记密度的超分辨（Sci.Rep, IF 5.5）
+；利用多焦共聚焦实现了三维超分辨(Nano Res., IF 6.9)
+；合作开发了适合超分辨的单体荧光蛋白（ACS Nano, IF 12.8）
+。被评为美国光学会资深会员
+和OSA成像技术组组长
+，及中国光学学会生物医学分会常务委员。担任四份SCI期刊编辑（Scientific Reports
+, Micron
+, Microscopy Research and Techniques
+, Chinese Optics Letters
+），以及Focus On Microscopy组委会委员
+。Y. Liu, Y. Lu*, X. Yang, X. Zheng, S. Wen, F. Wang, X. Vidal, T. Zhao, D. Liu, Z. Zhou, C. Ma, J. Zhou, J. Piper,, and D. Jin*, “Amplified stimulated emission in upconversion nanoparticles for super resolution nanoscopy,”Nature(2017) doi: 10.1038/nature21366.
+这一工作得到Chem期刊的点评
+。K. Zhanghao, L. Chen, X. Yang, M. Wang, Z. Jing, H. Han, M. Q. Zhang, D. Jin*, J. Gao*,, “Super-resolution with dipole orientation mapping”,Light: Science and Applications (2016).
+这一工作得到Nature Methods的重点报道（Highlight）
+。X. Yang, K. Zhanghao, H. Wang, Y. Liu, F. Wang, X. Zhang, K. Shi, J. Gao, D. Jin, , “Versatile application of fluorescent quantum dot labels in super-resolution fluorescence microscopy”, , doi: 10.1021/acsphotonics.6b00178 (2016).
+X. Yang, H. Xie, E. Alonas, Y. Liu, X. Chen, Q. Ren, P. J. Santangelo, , and D. Jin, “Mirror enhanced axial narrowing super-resolution microscopy”,  doi:10.1038/lsa.2016.134 (2016).
+ [2015 Impact factor:14.603]这一工作得到Nature Photonics 2016年7月的重点报道(highlight)
+.W. Yu, Z. Ji, D. Dong, X. Yang, Y. Xiao, Q. Gong , K. Shi*, “Super-resolution deep imaging with hollow Bessel beam STED microscopy”, (2015) doi: 10.1002/lpor.201500151.
+X. Zhang, X. Chen, Z. Zeng, M. Zhang, Y. Sun, , J. Peng*, and P. Xu*, “Development of a reversibly switchable protein for super-resolution optical fluctuation imaging”, , 9(3) 2659-2667 (2015).
+ 这一工作得到Science等期刊的多次引用
+。X. Chen, Z. Zeng, H. Wang, and , "Three dimensional multimodal sub-diffraction imaging with spinning-disk confocal microscopy using blinking/fluctuation probes," , 8(7) 2251-2260 (2015).Z. Zeng, X. Chen, H. Wang, N. Huang, C. Shan, H. Zhang, J. Teng, , "Fast Super-Resolution Imaging with Ultra-High Labeling Density Achieved by Joint Tagging Super-Resolution Optical Fluctuation Imaging,"  5, 8359 (2015).
+ 这一工作得到Chem. Soc. Rev.等期刊的高度评价
+。X. Yang, Y.-K. Tzeng, Z. Zhu, Z. Huang, X. Chen, Y. Liu, H.-C. Chang, L. Huang, W.-D. Li, and , "Sub-diffraction imaging of nitrogen-vacancy centers in diamond by stimulated emission depletion and structured illumination,"  4, 11305–11310, (2014).
+ 该工作得到Chem. Soc. Rev. (IF=34.09)
+，Adv. Opt. Photon.
+(IF=12.368)等期刊的多次引用。H. Xie, D. Jin, J. Yu, T. Peng, Y. Ding, C. Zhou, , “Schlieren confocal microscopy for phase-relief imaging”, , 39(5), 1238-1241, (2014).
+Y. Lu, J. Zhao, R. Zhang, Y. Liu, D. Liu, E. M. Goldys, X. Yang, , A. Sunna, J. Lu, Y. Shi, R. C. Leif, Y. Huo, J. Shen, J. A. Piper, J. P. Robinson, and D. Jin, "Tunable lifetime multiplexing using luminescent nanocrystals,"  8, 32-36 (2014).
+J. Zhao, D. Jin, E. P. Schartner, Y. Lu, Y. Liu, A. V. Zvyagin, L. Zhang, J. M. Dawes,  J. A. Piper, E. M. Goldys, and T. M. Monro, “Single nanocrystal sensitivity achieved by enhanced upconversion ” 8(10), 729-734 (2013) doi:10.1038/nnano.2013.171.
+Y. Liu, Y. Ding, E. Alonas, W. Zhao, P. J. Santangelo, D. Jin, J. A. Piper,J. Teng, Q. Ren, , “Achieving λ/10 Resolution CW STED Nanoscopy with a Ti:Sapphire Oscillator” ,  7(6) e40003, 2012 (DOI: 10.1371/ journal. Pone. 0040003).
+ 这一工作被评述为“创建了中国第一套STED超分辨系统”。
+Y. Ding, H. Xie, T. Peng, Y. Lu, D. Jin, J. Teng, Q. Ren, , “Laser Obique Scanning Optical Microscopy (LOSOM) for Phase Relief Imaging” , 20 (13), 14100-14108 (2012).
+席鹏在超分辨方面的工作得到Science
+, Nature Photonics
+, Chemical Society Review
+等期刊的多次引用和高度评价。香港科技大学Purdue University上海交通大学北京大学共聚焦                                    

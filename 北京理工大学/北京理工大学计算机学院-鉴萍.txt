@@ -1,0 +1,4 @@
+姓名：鉴萍所在学科：计算机科学与技术—应用鉴萍，博士，讲师。2010年于中科院自动化所模式识别与智能系统国家重点实验室获得工学博士学位，当年进入北京理工大学计算机学院工作至今，从事自然语言处理领域的研究和教学工作。研究方向为机器学习，自然语言理解等。
+K. Chen,P. Jian,Z. Zhou,J. Guo andD. Zhang.Semantic annotationof high-resolution remote sensing images via gaussian process multi-instance multilabel learning. Geoscience and Remote Sensing Letters, IEEE.Volume: 10 , Issue: 6. 2013 , Page(s): 1285 – 1289.　　鉴萍, 宗成庆. 基于序列标注模型的分层式依存句法分析方法. 中文信息学报,2010, 24(6): 14-22.　　P. Jian and C. Zong. Layer-based Dependency Parsing. In Proceedings of the 23rd Pacific Asia Conference on Language, Information and Computation (PACLIC 23). 3-5 Dec. 2009, Hong Kong. Page(s): 230-239.　　P. Jian and C. Zong. Two-pass deterministic dependency parsing for long Chinese sentences. In Proceedings of the International Conference on Asian Language Processing (IALP). 7-9 Dec. 2009, Singapore, Page(s): 240-244.　　鉴萍, 宗成庆. 基于双向标注融合的汉语最长短语识别方法.智能系统学报, 2009, 4(5): 406-413.
+承担国家自然科学基金青年项目、国家重点实验室开放课题项目等。所获奖励社会兼职备注
+计算机   

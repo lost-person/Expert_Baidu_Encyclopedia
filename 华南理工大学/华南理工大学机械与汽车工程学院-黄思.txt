@@ -1,0 +1,17 @@
+黄 思，男，1962年5月出生，广西南宁人，汉族，博士，教授，博士生导师。1985年以来，任中国石油大学（北京）机电工程学院助教、讲师、副教授；日本国立资源环境研究所海洋工程研究室客座研究员；加拿大Toyo泥浆泵公司工程师；Sulzer（苏尔寿）泵公司加拿大分公司工程师等职。现任华南理工大学机械与汽车工程学院教授、博士生导师。     长期从事流体机械及工程的科研教学工作，先后参加、完成了“油田注水输油泵节能改造”、“三元叶轮离心泵在石油工业的推广应用”、“叶片式气液混输泵的研究开发”、“水力油水旋流分离器的研究开发”等部级科研攻关项目，为此荣获1992年国家教委科技进步一等奖、1995年石油部科技进步二等奖、2000年教育部科技进步三等奖。近年来主持完成了广州市2008年科技计划项目“高效节能型毕托泵的研制开发”、2008年亚热带建筑科学国家重点实验室开放基金项目“亚热带建筑小区室外热环境CFD模拟研究”、广东省现代控制与光机电技术公共实验室开放基金项目“人体呼吸气体流量的实时测量研究”、佛山市产学研项目“液环压缩机的流动性能分析”、华南理工大学回国人员基金项目“过程流体机械研究开发”等项目。共先后在国际杂志、国际会议、中文核心刊物上发表论文100余篇，其中多篇被SCI、EI收录，现担任国际科技刊物Computational Fluid Dynamics Journal编委，广东省企业科技特派员和广东省流体机械学会副理事长。
+1982年毕业于中山大学数力系，获学士学位；1985年毕业于研究生院机械系，获硕士学位；1995年毕业于日本机械系，获博士学位。1985年以来，任中国石油大学（北京）机电工程学院助教、讲师、副教授；日本国立资源环境研究所研究室客座研究员；加拿大Toyo公司工程师；Sulzer（苏尔寿）泵公司加拿大分公司工程师等职。现任教授、博士生导师。“的流动性能分析”、华南理工大学回国人员基金项目“过程流体机械研究开发”等项目。共先后在国际杂志、国际会议、中文核心刊物上发表论文100余篇，其中多篇被SCI、EI收录，现担任国际科技刊物Computational Fluid Dynamics Journal编委（2006-），广东省企业科技特派员（2010-），广东省流体机械学会副理事长（2013-）。近年来主持完成了广州市2008年科技计划项目“高效节能型毕托泵的研制开发”、2008年开放基金项目“亚热带建筑小区室外热环境CFD模拟研究”、开放基金项目“人体呼吸气体流量的实时测量研究”、佛山市产学研项目。代表性论著：流体机械数值仿真研究及应用，广州，华南理工大学出版社，2015.10。
+, Qiu G, Su X, et al. Performance prediction of a centrifugal pump as turbine using rotor-volute matching principle[J]. Renewable Energy, 2017, 108: 64-71.
+Su X,, Zhang X, et al. Numerical research on unsteady flow rate characteristics of pump as turbine[J]. Renewable Energy, 2016, 94: 488-495.
+, Su X and Qiu G. Transient numerical simulation for solid-liquid flow in a centrifugal pump by DEM-CFD coupling [J]. Engineering Applications of Computational Fluid Mechanics, 2015, 9(1): 411-418.
+, Su X, Yang F, et al. Numerical simulation of 3D unsteady flow in roto-jet pump by dynamic mesh technique [J]. Progress in Computational Fluid Dynamics, 2015, 15(4): 265-267.
+, Su X, Guo J, et al. Unsteady numerical simulation for gas–liquid two-phase flow in self-priming process of centrifugal pump [J]. Energy Conversion and Management, 2014, 85: 694-700.
+, Mohamad A A, Nandakumar K, et al. Numerical simulation of unsteady flow in a multistage centrifugal pump using sliding mesh technique [J]. Progress in Computational Fluid Dynamics, 2010, 10(4):239-245.
+, Mohamad A A. Modeling of cavitation bubble dynamics in multicomponent mixtures [J]. Journal of Fluids Engineering, 2009, (3):031301-031305.
+, Mohamad A, Nandakumar K.Numerical analysis of a two-phase flow and mixing process in a stirred tank [J]. International Journal of Chemical Reactor Engineering, 2008, 6(1):77-90.
+, Islam M F, Liu P. Numerical simulation of 3D turbulent flow through an entire stage in a multistage centrifugal pump [J]. International Journal of Computational Fluid Dynamics, 2006, 20(5): 309-314.
+. Numerical simulation of oil-water hydrocyclone using Reynolds-stress model for Eulerian multiphase flows [J]. Canadian Journal of Chemical Engineering, 2005, 83(5): 829-834.
+, Ihara A, Watanabe H, et al. Effects of solid particle properties on cavitation erosion in solid-water mixtures [J]. Journal of Fluids Engineering, 1996, 118(4):749-755.
+专利黄思，杨富翔：基于三维动网格的旋喷泵非定常流场的计算方法（类型：发明专利，ZL201310138337.4，授权日：2016-8-3）。
+黄思，陈志胜：基于三维动网格的旋转叶轮机械非定常流场的计算方法（类型：发明专利，ZL201310139562.X，授权日：2016-8-3）。
+黄思 等：高效节能型立式毕托泵（类型：，专利号：CN201827086U，授权时间：2011-05-11）
+。长期从事的科研教学工作，先后参加、完成了“油田注水节能改造”、“三元叶轮离心泵在石油工业的推广应用”、“叶片式气液混输泵的研究开发”、“水力油水旋流分离器的研究开发”等部级科研攻关项目，为此荣获1992年科技进步一等奖、1995年石油部科技进步二等奖、2000年教育部科技进步三等奖。 中国石油大学（北京）东北大学研究生院海洋工程泥浆泵华南理工大学机械与汽车工程学院液环压缩机亚热带建筑科学国家重点实验室广东省现代控制与光机电技术公共实验室              实用新型 黄博士流体机械及工程输油泵国家教委

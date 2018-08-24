@@ -1,0 +1,21 @@
+任政勇，男，博士，中南大学教授，博士生导师。主要从事地球物理重磁、电磁数值模拟研究。2017.10-至今，中南大学，地球科学与信息物理学院，教授
+2013.07-2017.09，中南大学，地球科学与信息物理学院，特聘副教授2008.09-2012.12，苏黎世联邦理工学院，地球物理系，博士研究生2004.09-2007.06，中南大学，地球探测与信息技术，硕士研究生2000.09-2004.06，中南大学，地质工程，本科生应用地球物理重力、磁法、电磁法数值模拟及其应用研究：1，三维电磁、直流电法、重力、磁法反演研究；2，三维电磁高精度、快速正演研究；3，三维直流电法高精度、快速正演研究；4，三维重力、磁法高精度、快速正演研究。18., Chen H, Tang J, et al. A volume-surface integral approach for direct current resistivity problems with topography. Geophysics, 2018, online.
+17., Zhong Y, Chen C, et al. Gravity Gradient Tensor of Arbitrary 3D Polyhedral Bodies with Horizontal and Vertical Mass Contrasts up to cubic order. Surveys in Geophysics, 2018, online.
+16., Chen H, Tang J. Accurate volume integral solutions of direct current resistivity potentials for inhomogeneous conductivities in half space. Journal of Applied Geophysics, 2018, 151(4): 40-46.
+15. Tang J, Hu S,*, et al. Localization of Multiple Underwater Objects With Gravity Field and Gravity Gradient Tensor. IEEE Geoscience and Remote Sensing Letters, 2018, 15(2): 247-251.
+14., Zhong Y, Chen C, et al. Gravity Anomalies of Arbitrary 3D Polyhedral Bodies with Horizontal and Vertical Mass Contrasts up to cubic order. Geophysics, 2018, 83(1): G1-G13.
+13., Qiu L, Tang J, et al. 3D direct current resistivity anisotropic modeling by goal-oriented adaptive finite element methods. Geophysical Journal International, 2018, 212(1): 76-87.
+12., Chen C, Tang J, et al. Closed-form formula for full magnetic gradient tensor of a homogeneous polyhedral body: a tetrahedral grid example. Geophysics, 2017, 82(6), WB21-WB28.
+11.Tang J, Hu S, *, et al. Analytical Formulas for Underwater and Aerial Object Localization by Gravitational Field and Gravitational Gradient Tensor. IEEE Geoscience and Remote Sensing Letters, 2017, 14(9): 1557-1560.
+10.Pan K, He D, Hu H, *. A new extrapolation cascadic multigrid method for three dimensional elliptic boundary value problems. Journal of Computational Physics, 2017, 344: 499-515.
+9., Chen C, Pan K, et al. Gravity Anomalies of Arbitrary 3D Polyhedral Bodies with Horizontal and Vertical Mass Contrasts. Surveys in Geophysics, 2017, 38(2): 479-502.
+8. , Tang J, Kalscheuer T, et al. Fast 3D large‐scale gravity and magnetic modeling using unstructured grids and an adaptive multi‐level fast multiple method. Journal of Geophysical Research: Solid Earth, 2017, 122(1): 79-109.
+7. Du H, *, Tang J. A finite-volume approach for 2D magnetotellurics modeling with arbitrary topographies. Studia Geophysica et Geodaetica, 2016, 60(2): 332-347.
+6., Tang J. A goal-oriented adaptive finite-element approach for multi-electrode resistivity system. Geophysical Journal International, 2014, 199(1): 136-145.
+5., Kalscheuer T, Greenhalgh S, et al. A finite-element-based domain-decomposition approach for plane wave 3D electromagnetic modeling. Geophysics, 2014, 79(6): E255-E268.
+4., Kalscheuer T, Greenhalgh S, et al. A hybrid boundary element-finite element approach to modeling plane wave 3D electromagnetic induction responses in the Earth. Journal of Computational Physics, 2014, 258: 705-717.
+3., Kalscheuer T, Greenhalgh S, et al. A goal-oriented adaptive finite-element approach for plane wave 3-D electromagnetic modelling. Geophysical Journal International, 2013: 194 (2): 700-718.
+2. , Kalscheuer T, Greenhalgh S, et al. Boundary element solutions for broad-band 3-D geo-electromagnetic problems accelerated by an adaptive multilevel fast multipole method . Geophysical Journal International, 2013: 192 (2): 473-499.
+1., Tang J. 3D direct current resistivity modeling with unstructured mesh by adaptive finite-element method. Geophysics, 2010, 75(1): H7-H17.1. 2017年获傅承义青年科技奖
+2. 2016年获第七届刘光鼎地球物理青年奖
+                    

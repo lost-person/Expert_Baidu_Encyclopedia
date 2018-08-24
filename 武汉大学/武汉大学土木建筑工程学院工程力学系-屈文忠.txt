@@ -1,0 +1,10 @@
+屈文忠，工程力学系教授、博士研究生导师。
+1996.03-1999.05，，工程力学系机械结构强度与振动国家重点实验室，博士2000.05- 2002.09，，航海工程学院兵器科学与技术博士后流动站2003.01- 2004.12，，航空航天学院力学博士后流动站2010.08-2011.09，美国，机械工程系智能材料与结构研究中心2004.12-至今，系，历任副教授、教授、博士研究生导师
+
+波在固体中的传播
+振动工程，1.QU Wenzhong, D.J. Inman. Time reversal DORT method applied to Lamb wave damage detection. International Symposium on: Smart Material and Nanotechnology, December 20112.QU Wenzhong, XIAO Li. Breathing crack detection using Lamb wave and DORT method. SPIE 2012.33.董君,屈文忠,肖黎. 基于自回归支持向量机的结构损伤诊断. 武汉大学学报(工学版), 20124.Xiao Li, Qu Wenzhong. Nonlinear Structural Damage Detection using Support Vector Machines，Conference on Health Monitoring of Structural and Biological Systems, 2012/3/12-2012/3/15, San Diego,CA, 20125.屈文忠, D.J. Inman. Lamb波结构损伤检测温度补偿方法仿真与实验研究.振动工程学报, 20136.屈文忠,肖黎.Lamb波时间反转分解损伤识别方法研究. 机械强度, 20137.Qu Wenzhong, Xiao Li, D.J. Inman. Lamb wave damage detection using time reversal DORT method. Smart Materials and Structures 22, 2013、子课题、国家重点科技工程等。
+武汉大学土木建筑工程学院 西安交通大学西北工业大学清华大学弗吉尼亚理工大学武汉大学工程力学 
+
+
+
+振动力学非线性振动 结构健康监测国家自然科学基金国防973 

@@ -1,0 +1,60 @@
+张志田，男，汉族，1974年生，博士，教授，。
+2001年3月～2004年7月，桥梁系，博士研究生，桥梁抗风方向，获博士学位；
+1998年9月～2001年3月，湖南大学土木工程学院，硕士研究生，结构工程方向，获硕士学位；
+2015年12月：任教，教授；
+2004年7月至2015年12月：湖南大学土木工程学院任教，先后任讲师、副教授；
+1995年7月～1998年8月：中国水利水电第八工程局，助理工程师，二滩大坝施工员。
+担任多个国际学术期刊的审稿人，包括Journal of Wind Engineeringand industrial Aerodynamics、ASCE Journal of Bridge Engineering、Wind and Structures等
+。（1）结构风致非线性振动；
+（2）湍流理论与湍流模型、计算流体动力学（）；
+（3）及程序开发；
+主持国家自然科学基金4项、土木工程防灾国家重点实验室开放课题重点基金项目1项、湖南省高校创新平台开放基金1项。主要研究方向有桥梁风致非线性振动、桥梁抗风理论与对策、湍流理论与计算流体动力学等；在国内外学术期刊上发表论文50余篇，其中期刊论文14篇。作为主要编写人员参加编写学术专著3本。培养研究生20余名，博士研究生6名。
+学术期刊论文[1] Z. T. Zhang, Z. Q. Chen, X. G. Hua, Y. J. Ge. “Investigation of Turbulence Effects on Torsional Divergence of Long-span Bridges by Using Dynamic Finite Element Method”. ASCE, Journal of bridge engineering, 2010, Vol.15 (6): 639-652.
+[2] Z. T. Zhang, Z. Q. Chen, Y. Y. Cai, Y. J. Ge. “Indicial functions for bridge aero-elastic forces and time-domain flutter analysis”. ASCE, Journal of bridge engineering, 2011, Vol.16 (4): 546-557.
+[3] C.G. Li, Z.Q. Chen, Z.T. Zhang. “Wind Tunnel Modeling of Flow over Mountainous Valley Terrain.” Wind and structure, 2010, Vol. 13 (3): 275-292.
+[4] Zhitian Zhang, Yaojun Ge, and Yongxin Yang. “Torsional stiffness degradation and aerostatic divergence of suspension bridge decks”, Journal of Fluids and Structures, 2013, Vol.40, 269-283.
+[5] ZHANG Zhi-tian, GE Yao-jun, ZHANG Wei-feng. Superposability of unsteady aerodynamic loads on bridge deck sections. Journal of central south university of technology, 2013, Vol. 20(11), 3202-3215.
+[6] Zhitian Zhang, Yaojun Ge, Zhenqing Chen. On the aerostatic divergence of suspension bridges: A cable-length-based criterion for the stiffness degradation, Journal of Fluids and Structures, 2015, Vol. 52, 118-129.
+[7] Zhitian Zhang, Xiaobo Wu, Zhenqing Chen, Yaojun Ge. Mechanism of a kind of hanger oscillation at suspension bridges: Buffeting induced resonance, ASCE Journal of Bridge Engineering, 2016, Vol. 21.
+[8] Zhitian Zhang, Yaojun Ge, and Zhengqing Chen. “Vortex-induced oscillations of bridges: linkages between sectional model tests and full bridge responses”, Wind and Structures, 2014, Vol. 19(3).
+[9] Zhang, Z. T., Zhang, W. F., 2017. “Sensitivity and vibration reduction of buffeting induced resonance of hangers.” Wind and Structures 25 (1): 39-61.
+[10] Zhang, Z. T., Zhang, X. X., Yang, Y. X., Ge, Y.J, 2017. “Nonlinear aerodynamic and energy input properties of a twin-box girder bridge deck section” Journal of Fluids and Structures 74 (10): 413-426.
+[11] Zhang, Z. T., Zhang, W. F., 2017. “Experimental investigation on relations between flutter derivatives and aerodynamic admittances”. ASCE Journal of Bridge Engineering, Vol. 22 (10).
+[12] Zhitian Zhang, Weifeng Zhang and Yaojun Ge, 2017. “ Aerodynamic admittances of bridge deck sections: Issues and wind field dependence.” Wind and Structures 25 (3): 283-299
+[13]Changqing Wu, Zhitian Zhang, Zhengqing Chen, 2017. Stiffness Degradation of Suspension Bridges and Refined Analysis of Aerodynamic Torsional Divergence. Advances in Structural Engineering.
+[14] Zhitian Zhang. Multi-stage indicial functions and post-flutter simulation of long-span bridges. ASCE Journal of Bridge Engineering, in press.
+[15] 张志田，葛耀君. “考虑抖振影响的大跨度桥梁静风稳定性分析”. 工程力学，2006年第8期.
+[16] 张志田，葛耀君. “基于气动新模型的大跨度桥梁频域抖振响应分析”. 工程力学，2006年第6期.
+[17] ，张志田. “钢筋混凝土箱梁横向受力有效分布宽度的非线性分析”. 工程力学，2006年第23卷，增刊1.
+[18] 方志，张志田，易伟建. “钢筋混凝土箱梁非线性有限元分析中几种C0型单元的探讨”.湖南大学学报，2003年第1期.
+[19] 方志，张志田. “钢筋混凝土变截面箱梁横向受力有效分布宽度分析”. 湖南大学学报，2003年第6期.
+[20] 张志田，葛耀君. “悬索桥静动力特性分析的有限板壳单元法”. 结构工程师，2003年第4期.
+[21] 张志田，葛耀君. “基于正交异性壳单元的悬索桥非线性静风稳定性分析”. 中国公路学报，2004年，第17卷，第4期.
+[22] 方志，张志田. “钢筋混凝土横向受力有效分布宽度的试验研究”. 中国公路学报，2001年，第14卷，第1期.
+[23] 李春光，张志田，陈政清. “桁架加劲梁悬索桥气动稳定措施试验研究”. 振动与冲击，2008年，第27卷，第9期.
+[24] 李春光，陈政清，张志田. “大跨度桁式加劲梁悬索桥气弹模型等效设计”. 振动与冲击，2009年，第28卷，第9期.
+[25] 张志田，陈政清，胡海波. “桥梁气动自激力阶跃函数及时域颤振的数值算法”. 土木工程学报，2011年，第44卷第2期: 99-107.
+[26] 张志田，陈政清. “桥梁节段与实桥涡激共振幅值的换算关系”，土木工程学报，2011年，第44卷第7期: 77-82.
+[27] 张志田，卿前志. “开口截面斜拉桥涡激共振风洞试验及减振措施研究”，湖南大学学报，2011年，第7期: 1-5.
+[28] 刘钥，张志田. “箱梁断面气动导数的CFD模拟研究”，振动与冲击，2011年，Vol.30(8): 133-137.
+[29] 周帅，张志田，陈政清. “大长细比钝体构件涡激共振与驰振的耦合研究.” 工程力学，2012年，第29卷，第1期: 176-186.
+[30] 张志田，陈政清，“桥梁断面几种气动导纳模型的合理性剖析”，土木工程学报，2012年，第45卷第8期: 104-113.
+[31] 卿前志,张志田,肖玮,朱明坤，基于ANSYS平台的桥梁时域颤振阶跃函数算法，重庆交通大学学报(自然科学版), 02期, pp 173-178, 2012.
+[32] 张志田，张伟峰. “悬索桥在紊流风场中的静风扭转发散机制”，土木工程学报，2013年第7期，Vol.46, 74-80.
+[33] 张志田，谢先浩. 变增量扫频法求解桥梁结构随机风振响应. 工程力学，2014年第8期，Vol.31(8):101-107.
+[34] 张志田，陈政清，李春光. “桥梁气动自激力时域表达式的瞬态与极限特性”. 工程力学，2011年，第28卷，第2期: 75-85.
+[35] 张志田，卿前志，陈政清. “桥梁颤振稳定峡谷效应时域分析”. 工程力学，2010年，第27卷，第11期：113-119.
+[36] 张志田，陈政清，葛耀君，华旭刚. “紊流中大跨桥梁的扭转发散特性”. 工程力学，2010年，第27卷，第2期: 108-116.
+[37] 张志田，吴肖波，葛耀君，陈政清. “悬索桥吊杆风致内共振及减振措施初探”湖南大学学报，第1期，2016.
+[38]吴长青，张志田，陈政清.“悬索桥静风扭转发散的影响因素研究”湖南大学学报，2016， Vol. (3), 15-22.
+[39] 张志田，张显雄，陈政清. “桥梁气动力CFD模拟中湍流模型的应用现状”工程力学，2016，Vol. 33(6)：1-8.
+[40] 吴长青，张志田. “悬索桥的静风扭转发散有限元精细化分析”. 湖南大学学报，2016，Vol. (9)：88-97.
+[41]吴长青, 张志田, 吴肖波. 抗风缆对人行悬索桥动力特性和静风稳定性的影响，桥梁建设，2017，47(3):77-82
+[42]陈政清主编，《桥梁风工程》，人民交通出版社，北京2005（编写第五、第七章）。
+[43]李跃，主编，《广州新光大桥-珠江上的彩虹》，人民交通出版社，北京2009年（编写第八章）。
+[44] 主编，工程结构的风致振动、稳定与控制，科学出版社，北京，2013年（编写第四、第九章）
+先后获得湖南省优秀硕士学位论文奖1项、上海市优秀博士学位论文奖1项、上海市科技进步一等奖1项、教育部自然科学奖二等奖1项。
+1．“大跨度拱桥抗风设计理论及其工程应用”，，一等奖，排名12，2009年11月27，颁发单位：
+2. “大跨度桥梁气动稳定的基本理论与灾变机理”， 高等学校科学研究优秀成果奖--自然科学奖，二等奖，排名2，2016年12月1日，颁发单位：
+3. “大跨度桥梁非线性抖振及其对抗风稳定性影响的研究”，上海市博士研究生优秀成果奖，2006年12月，颁发单位：、上海市学位委员会
+博士生导师 同济大学  湖南大学土木工程学院     CFD 结构有限元分析 SCI                 方志                           陈政清  上海市科学技术奖上海市人民政府 中华人民共和国教育部 上海市教育委员会 

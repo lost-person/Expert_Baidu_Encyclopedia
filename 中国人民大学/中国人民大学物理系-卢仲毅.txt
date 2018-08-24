@@ -1,0 +1,8 @@
+卢仲毅于1996年在意大利国际高等研究院(SISSA)获得凝聚态物理学博士学位。毕业后，先后在美国能源部Ames国家实验室、Vanderbilt大学物理系和Oak Ridge国家实验室计算机科学和数学部工作。2005年1月作为理论物理研究所百人计划入选者被聘为研究员和博士生导师。中国人民大学物理系主任。
+于2007年被聘为教授、材料计算与物质模拟团队学科责任教授、学校特聘教授，同年获得国家杰出青年基金。
+2012年获聘教育部长江学者特聘教授（凝聚态物理）。
+于1996年在意大利国际高等研究院(SISSA)获得凝聚态物理学哲学博士学位。
+先后在美国能源部Ames国家实验室、Vanderbilt大学物理系和Oak Ridge国家实验室计算机科学和数学部工作。2005年1月作为中国科学院理论物理研究所百人计划入选者被聘为研究员和博士生导师。2007年1月被聘为中国人民大学教授、物理系材料计算与物质模拟团队学科责任教授和召集人。
+主要从事电子结构计算方法及其并行化算法以及分子动力学模拟方法的研究以及这些方法在实际系统中的应用，并承担了多项基金委和科技部的科研项目。
+1. Fengjie Ma and Zhong-Yi LU,Phys. Rew. B 78，033111(2008)“Iron-based layered compound LaFeAsO is an antiferromagnetic semimetal”2. Fengjie Ma, Zhong-Yi LU, and Tao Xiang,Phys. Rew. B 78, 224517 (2008)“As-bridged antiferromagnetic superexchange interactions in LaFeAsO”3. Wei Ji, Zhong-Yi Lu, and Hongjun Gao,Phys. Rew. Lett. 97, 246101, (2006)“Electron core-hole interaction and its induced ionic structural relaxation in molecular systems underx-ray irradiation”4.Yan Wang, Zhong-Yi Lu, X.-G. Zhang, and X.-F. Han,Phys. Rew. Lett. 97, 087210 (2006)“First-principles theory of quantum well resonance in double barrier magnetic tunnel junctions”5.Zhong-Yi Lu, X.G. Zhang, and S. Pantelides,Phys. Rew. Lett. 94, 207210 (2005)“Spin-dependent resonant tunneling through quantum-well states in magnetic metallicthinfilms”
+中国科学院 中国人民大学      

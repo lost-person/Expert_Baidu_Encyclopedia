@@ -1,0 +1,3 @@
+段华贵，男，南开大学数学科学学院副教授，研究方向是非线性分析。
+发表文章及著作： [1] Huagui Duan, Yiming Long, Multiple closed geodesics on bumpy Finsler n-spheres. J. Differential Equations. 233 (2007), 221-240.
+[2] Huagui Duan, Yiming Long, Multiplicity and stability of closed geodesics on bumpy Finsler 3-spheres. Calc. Var. & Partial Differential Equations. 31 (2008), 483-496.[3] Yiming Long, Huagui Duan, Multiple closed geodesics on 3-spheres. Advances in Mathematics, 221 (2009), 1757-1803.[4] Huagui Duan, Yiming Long, The index growth and multiplicity of closed geodesics. J. Funct. Anal. 259 (2010)， 1850-1913.  

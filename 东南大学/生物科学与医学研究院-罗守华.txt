@@ -1,0 +1,5 @@
+罗守华，男，1989年毕业于北京航空航天大学自动控制系，1992年获东南大学机械系硕士学位 2004年获东南大学机械系博士学位。1. 2005-，南京东南大学生医学院信号与图像研究室
+2. 2004-2005，美国夏威夷大学博士后，图像处理及可视化研究图像处理技术研究
+可视化技术研究锥形束重建技术研究及产业化机电控制及自动化模式识别技术国家973项目 基于影像学的泡沫铝材料性能的定量分析和研究 项目负责人
+美国斯坦福大学医学院合作项目 基于频闪喉镜影像的声带分析和定量研究 核心研究成员江苏省卫生科研项目 心肌肌钙蛋白I检测试纸条定量分析系统 核心研究成员东南大学校内自研项目 Micro CT的重建算法及可视化研究实现 项目负责人横向课题 特检科波形信号及影像信号归档信息系统 项目负责人1. Shouhua Luo and Yuling Yan* Virtual Laryngoscopy: A Real-Time Exploration of Laryngeal System based on Rapid Reconstruction Algorithm，Proceedings of the 2005 IEEE Engineering in Medicine and Biology 27th Annual Conference， Shanghai, China, September 1-4, 2005
+2. Yan, Yuling PhD; Luo, Shouhua PhD; McWhorter, Andrew MD Virtual Laryngoscopy: a Noninvasive Tool for the Assessment of Laryngeal Tumor Extent. The Laryngoscope - June 2007, Volume 117, Issue 6    

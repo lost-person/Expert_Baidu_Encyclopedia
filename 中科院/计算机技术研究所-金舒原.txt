@@ -1,0 +1,3 @@
+金舒原，女，中华人民共和国公民，中科院计算所网络数据科学与技术重点实验室，研究员。姓名：金舒原
+职称：研究员分别于1996年和1998年，在哈尔滨工业大学计算机科学与工程系分别获得工学学士和工学硕士。其后，先后在南天电子信息股份（北京）有限公司和美国Sun Microsystems驻北京分公司任软件工程师。于2002年在香港理工大学电子计算学系攻读博士学位，并于2006年获得博士学位。目前在中科院计算所网络数据科学与技术重点实验室
+工作，研究员。网络安全与安全测评、入侵检测、脆弱性分析、安全态势评估、存取访问控制策略、机器学习及统计学习算法及应用担任下列期刊的评审：IEEE Journal on Selected Areas in Communications (JSAC)，IEEE Wireless Communications & Networking Conference (WCNC)，IEEE Transactions on Information Forensics & Security；担任国际会议IEEE International Conference on Systems, Man, and Cybernetics 2009年的session主席，以及 IEEE International Conference on Machine Learning and Cybernetics的组委会成员以及2003-2005年该会议的session主席  

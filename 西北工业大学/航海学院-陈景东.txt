@@ -1,0 +1,5 @@
+陈景东，教授，入选第三批“千人计划”，主要从事语音分析及合成。
+陈景东教授，男，1970年2月出生，曾任WeVoice公司(美国新泽西)首席科学家(Chief Scientist)。2010年入选第三批国家“”。陈景东博士1993年7月在西北工业大学航海工程学院获得学士学位，1995年3月在航海工程学院获硕士学位。先后在日本国际电气通信基础技术研究所(日本京都)、澳大利亚Griffith大学、美国贝尔实验室(美国新泽西)、WeVoice公司(美国新泽西)工作，现任WeVoice公司(美国新泽西)首席科 学家(Chief Scientist)。主要从事语音分析及合成方面的研究工作，在信号处理领域的国际著名刊物及会议上发表了近百篇论文。于2009和2010年两次获得美国国家宇航局(NASA)的技术创新奖(NASA Tech Brief Award)。曾担任The Open Signal Processing Journal的编委会成员。
+陈景东博士在信号处理和通信领域取得了突出的研究成果，合著及合编了《语音信号处理中的降噪技术》(Noise Reduction in Speech Processing, Springer-Verlag)，《麦克风阵列信号处理》(Microphone Array Signal Processing, Springer-Verlag)，《音声多输入多输出信号处理》(Acoustic MIMO Signal Processing, Springer-Verlag),《语音增强》(Speech Enhancement)和《语音处理及语音通信技术手册》(Springer Handbook on Speech Processing and Speech Communication) 等书。在信号处理领域的国际著名学术刊物及会议上发表了九十余篇论文。2009年荣获IEEE信号处理学会最佳论文奖(IEEE S
+PS Best Paper Award)，于2007和2009年两次获得贝尔实验室模范团队奖(Bell Labs Role Model Team Award), 于2009和2010年两次获得美国国家宇航局(NASA)的技术创新奖 (NASA Tech Brief Award)。现任IEEE Trans. Audio, Speech, and Language Processing的副主编及IEEE信号处理学会电声技术委员会委员。曾担任The Open Signal Processing Journal的编委会委员，美国及新加坡等多个科学基金会的评审专家，参与组织了多个国际学术会议，并长期担任数十个著名学术刊物的审稿人。
+西北工业大学 千人计划   

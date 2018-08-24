@@ -1,0 +1,59 @@
+刘心报，管理学院教授、博士生导师、决策科学与技术研究所所长，现任合肥工业大学校长助理
+、研究生院常务副院长
+，兼任中国系统工程学会常务理事
+、中国系统工程学会智能制造系统工程专业委员会主任委员
+。2017年度“长江学者奖励计划”建议人选。
+刘心报教授主要从事运筹与系统控制、决策科学与技术、智能决策支持系统及其应用、信息管理与决策支持系统、复杂产品生产制造过程优化与决策等方面的教学与研究工作。他是国家自然科学基金委创新研究群体“互联网与大数据环境下面向企业的决策理论与方法研究”负责人
+、国家高等学校学科引智基地（111计划）“复杂产品制造过程优化与决策创新引智基地”负责人，先后主持国家863项目、国家自然科学基金创新研究群体项目、国家自然科学基金重点项目、国家自然科学基金面上项目以及企事业单位委托重要项目20余项
+。在springer出版英文专著《Optimization and Management in Manufacturing Engineering》，在EJOR、IJPR、AOR、JORS、IEEE Transactions、计算机学报、系统工程理论与实践等国内外重要学术期刊和学术会议上发表学术论文150多篇
+。被评为安徽省高校学术拔尖人才，获国家科技进步二等奖2项，教育部自然科学一等奖1项，中国机械工业科技进步一等奖1项，安徽省科技进步一等奖1项，安徽省自然科学二等奖1项以及国家级教学成果奖二等奖1项。
+1981年-1985年：安徽师范大学数学系就读本科，获理学学士学位
+；1985年-1987年：吉林工业大学应用数学系就读研究生，获理学硕士学位；1998年-2002年：合肥工业大学管理学院在职攻读博士学位，获管理学博士学位；
+[1]面向机械制造业的连续多时段智能优化下料问题研究及其系统实现（主持，已结题）[1]互联网与大数据环境下面向企业的决策理论与方法研究（国家自然科学基金创新研究群体项目，主持，在研）　　[2]物联网资源协同优化与组织管理的理论与方法研究（国家自然科学基金重点项目，主持，已结题）　　[3]供应链环境下的离散制造企业多目标生产调度问题研究（面上项目，主持，已结题）　　[4]群决策理论与方法研究(国家自然科学基金重点项目,排名第二，已结题)　　[5]上市公司国有资产流动问题与保值增值动态系统研究(排名第二，已结题)　　[6]基于知识发现的综合决策支持系统研究(主要参加者，已结题)　　[7]不确定性供应链协调与量折扣研究(排名第二，已结题)　　[8]VMI中的群体决策机理探讨（主任基金项目，主持，已结题）　　[9]供方管理库存中的群体集结模式与集结方法研究(面上项目，主持，已结题)[1]马鞍山钢铁公司车轮公司生产系统决策模型与决策系统研究（主持，已结题）　　[2]江淮汽车股份有限公司研发成果评估及研发人员激励机制研究（主持，已结题）　　[3]合肥常青机械有限公司生产决策支持系统研究（主持，已结题）　　[4]江苏长发铝业股份有限公司优化调度系统研究（主持，已结题）　　[5]汽车整车产品数字化工程设计资源优化与调度系统， 安徽省科技攻关项目，（参与，已结题）　　[6]轿车整车自主开发系统的关键技术研究及其工程应用，奇瑞汽车有限公司（参与，已结题）　　[7]轿车整车开发系统平台、流程优化与工程管理， 奇瑞汽车有限公司（参与，已结题）获国家教学成果二等奖1项
+，参与建设的课程《管理信息学》被评为国家级精品课程，参与编写国家十五规划教材《管理信息学》，主编国家十一五规划教材《决策分析与决策支持系统》(2010年），负责建设的《运筹学》课程被评为省级精品课程。[1]轿车整车自主开发系统的关键技术研究及其工程应用，2008年，获国家科技进步二等奖，排序第7
+[2]铸铁材质参数液态在线智能检测与质量控制系统，2006年，获国家科技进步二等奖，排序第8
+[3]面向企业的智能决策理论与方法，2008年，获教育部自然科学一等奖，排序第4
+[4]轿车整车产品开发系统平台、流程优化与工程管理系统，2007年，获中国机械工业科技进步一等奖，排序第7
+[5]离散制造业生产优化与执行系统，2008年，获安徽省科技进步一等奖，排序第2
+[6]基于知识发现与定性推理的智能决策支持系统研究，2004年，获安徽省科学技术奖（自然科学）二等奖，排序第3
+[7]以创新型管理人才培养为目标的教学团队建设研究与实践，2014年，获国家级教学成果二等奖，排序第5
+[8]被评为安徽省高校学术拔尖人才，2004年，安徽省教育厅
+[1]
+Xinbao Liu, Jun Pei, Lin Liu, Hao Cheng, Mi Zhou, Panos M. Pardalos. Optimization and Management in Manufacturing Engineering: Resource Collaborative Optimization and Management through the Internet of Things. Springer, 2017.[2]
+Xinbao Liu, Shaojun Lu, Jun Pei, Panos M. Pardalos. A Hybrid VNS-HS Algorithm for a Supply Chain Scheduling Problem with Deteriorating Jobs. International Journal of Production Research. 2017. DOI: 10.1080/00207543.2017.1418986.　　[3]
+Xinbao Liu, Xiaofei Qian, Jun Pei, P.M. Pardalos. Security investment and information sharing in the market of complementary firms: impact of complementarity degree and industry size. Journal of Global Optimization, 2017, DOI: 10.1007/s10898-017-0585-y.　　[4]
+Jun Pei, Xinbao Liu*, Panos M. Pardalos, Shaojun Lu. A hybrid BA-VNS algorithm for coordinated serial-batching scheduling with deteriorating jobs, financial budget, and resource constraint in multiple manufacturers. Omega. 2017. DOI: 10.1016/j.omega.2017.12.003.　　[5]
+Jun Pei, Baiyi Cheng, Xinbao Liu*, Panos M. Pardalos, Min Kong. Single-machine and parallel-machine serial-batching scheduling problems with position-based learning effect and linear setup time. Annals of Operations Research, 2017, DOI: 10.1007/s10479-017-2481-8.　　[6]
+Jun Pei, Xinbao Liu*, P.M. Pardalos,Min Kong. Single-machine scheduling with learning effect and resource-dependent processing times in the serial-batching production. Applied Mathematical Modelling, 2017, DOI: 10.1016/j.apm.2017.07.028.　　[7]
+Xiaofei Qian, Xinbao Liu*, Jun Pei, P.M. Pardalos. A new game of information sharing and security investment between two allied firms. International Journal of Production Research, 2017,DOI:10.1080/00207543.2017.1400704.　　[8]
+Zhiping Zhou, Xinbao Liu*, Jun Pei, P.M. Pardalos, Hao Cheng. Competition of pricing and service investment between iot-based and traditional manufacturers. Journal of Industrial and Management Optimization.2017.Accepted.　　[9]
+Li Yu, Jun Pei, Xinbao Liu*, Wenjuan Fan, Panos M. Pardalos. The effect of yield rate in a general price-setting newsvendor model with a yield dependent secondary market. International Transactions in Operational Research, 2017, DOI: 10.1111/itor.12413.　　[10]
+Lu Jiang, Jun Pei, Xinbao Liu*, Panos M. Pardalos, Xiaofei Qian. Uniform parallel batch machines scheduling considering transportation using a hybrid DPSO-GA algorithm. International Journal of Advanced Manufacturing Technology, 2017, 89(5): 1887-1990.　　[11]
+Wenjuan Fan, Jun Pei, Xinbao Liu*, Panos M. Pardalos, Min Kong. Serial-batching group scheduling with release times and the combined effects of deterioration and truncated job-dependent learning. Journal of Global Optimization, Accept.　　[12]
+Chang Fang, Xinbao Liu, P.M. Pardalos, Jianyu Long, Jun Pei. A stochastic production planning problem in hybrid manufacturing and remanufacturing systems with resource capacity planning. Journal of Global Optimization, 2017, DOI: 10.1007/s10898-017-0500-6.　　[13]
+Lin Liu, Xinbao Liu, Jun Pei, Wenjuan Fan, P.M. Pardalos. A Study on Decision Making of Cutting Stock with Frustum of Cone Bars. Operational Research - An International Journal, 2017, 17(1): 187–204.　　[14]
+Zhiping Zhou, Xinbao Liu*, Jun Pei, P.M. Pardalos, Lin Liu, Chao Fu. Real options approach to explore the effect of organizational change on IoT development project. Optimization Letters, 2017, 11(5): 995–1011.　　[15]
+Jun Pei, Xinbao Liu, Panos M. Pardalos, Wenjuan Fan, Shanlin Yang. Scheduling deteriorating jobs on a single serial-batching machine with multiple job types and sequence-dependent setup times. Annals of Operations Research, 2017, 249(1): 175–195.　　[16]
+Jun Pei, Xinbao Liu, Panos M. Pardalos, Athanasios Migdalas, Shanlin Yang. Serial-batching Scheduling with Time-dependent Setup Time and Effects of Deterioration and Learning on a Single-machine. Journal of Global Optimization, 2017, 67(1): 251–262 .　　[17]
+Jun Pei, Xinbao Liu*, Panos M. Pardalos, Li Kai, Fan Wenjuan, Migdalas, A.. Single-machine serial-batching scheduling with a machine availability constraint, position-dependent processing time, and time-dependent set-up time. Optimization Letters, 2016, DOI:10.1007/s11590-016-1074-9.　　[18]
+Jun Pei, Xinbao Liu*, Wenjuan Fan, Panos M. Pardalos, Athanasios Migdalas, Boris Goldengorin, Shanlin Yang. Minimizing the makespan for a serial-batching scheduling problem with arbitrary machine breakdown and dynamic job arrival. International Journal of Advanced Manufacturing Technology, 2016, 86(9): 3315-3331.　　[19]
+Jun Pei, Xinbao Liu*, Wenjuan Fan, Panos M. Pardalos, Athanasios Migdalas, Shanlin Yang. Scheduling jobs on a single serial-batching machine with dynamic job arrivals and multiple job types. Annals of Mathematics and Artificial Intelligence, 2016, 76(1):215-228.　　[20]
+Xiaofei Qian, Xinbao Liu*, Jun Pei, Panos M. Pardalos, Lin Liu. A game-theoretic analysis of information security investment for multiple firms in a network. Journal of the Operational Research Society, 2016, DOI: 10.1057/s41274-016-0134-y.　　[21]
+Tianji Yang, Chao Fu, Xinbao Liu*, Jun Pei, Lin Liu, P.M. Pardalos. Closed-loop supply chain inventory management with recovery information of reusable containers. Journal of Combinatorial Optimization, 2016, DOI: 10.1007/s10878-015-9987-2.　　[22]
+Chang Fang, Xinbao Liu, Jun Pei, Wenjuan Fan, P.M. Pardalos. Optimal production planning in a hybrid manufacturing and recovering system based on the internet of things with closed loop supply chains. Operational Research - An International Journal, 2016, 16(3): 543–577.　　[23]
+Chang Fang, Xinbao Liu, P.M. Pardalos, Jun Pei. Optimization for a three-stage production system in the Internet of Things: Procurement, production and product recovery, and acquisition. International Journal of Advanced Manufacturing Technology, 2016, 83(5): 689-710.　　[24]
+Jun Pei, Xinbao Liu, Panos M. Pardalos, Wenjuan Fan, Ling Wang, Shanlin Yang. Solving a supply chain scheduling problem with non-identical job sizes and release times by applying a novel effective heuristic algorithm. International Journal of Systems Science, 2016, 47(4):765-776.　　[25]
+Jun Pei, Panos M. Pardalos, Xinbao Liu, Wenjuan Fan, Shanlin Yang. Serial batching scheduling of deteriorating jobs in a two-stage supply chain to minimize the makespan. European Journal of Operational Research, 2015, 244(1):13-25.　　[26]
+Jun Pei, Xinbao Liu, Panos M. Pardalos, Wenjuan Fan, Shanlin Yang. Single machine serial-batching scheduling with independent setup time and deteriorating job processing times. Optimization Letters, 2015, 9(1):91-104.　　[27]
+Jun Pei, Panos M. Pardalos, Xinbao Liu, Wenjuan Fan, Shanlin Yang, Ling Wang. Coordination of production and transportation in supply chain scheduling. Journal of Industrial and Management Optimization. 2015, 11(2): 399-419.　　[28]
+Jun Pei, Wenjuan Fan, Panos M. Pardalos, Xinbao Liu, Boris Goldengorin, Shanlin Yang. Preemptive scheduling in a two-stage supply chain to minimize the makespan. Optimization Methods and Software, 2015, 30(4): 727-747.　　[29]
+Jun Pei, Xinbao Liu, Wenjuan Fan, Athanasios Migdalas, Panos M. Pardalos. Future Research on Multi-objective Coordinated Scheduling Problems for Discrete Manufacturing Enterprises in Supply Chain Environments. Supply Chain Management and Logistics: Innovative Strategies and Practical Solutions, Taylor & Francis Group. 2015: 19-39.　　[30]
+Xiaofei Qian, Xinbao Liu, Shanlin Yang, & Chao Zuo. Security and Privacy Analysis of Tree-LSHB+ Protocol. Wireless Personal Communications. 2014, 77(4): 3125-3141.　　[31]
+ Jun Pei, Xinbao Liu, Panos M. Pardalos, Wenjuan Fan, Shanlin Yang, Ling Wang, Application of an effective modified gravitational search algorithm for the coordinated scheduling problem in a two-stage supply chain. International Journal of Advanced Manufacturing Technology, 2014, 70(1-4):335-348.　　[32]
+Ruonan Zhang, Xinbao Liu. IoT-Based Maintenance Process Design for Fusion Reactor Remote Handling System, Journal of Fusion Energy, 2014, 33(6): 653-657.　　[33]
+Ruonan Zhang, Xinbao Liu, Lin Liu, Xiazi Zhang. Research on an Intelligent Manufacturing System for Tokamak Machine. Journal of Fusion Energy, 2014, 33(5): 648-652.　　[34]
+Jie Min, Jian Ou,Yuanguang Zhong, Xinbao Liu. EOQ Model for Deteriorating Items with Stock-Level-Dependent Demand Rate and Order-Quantity-Dependent Trade Credit. Mathematical Problems in Engineering, 2014.　　[35]
+Jun Pei, Xinbao Liu, Wenjuan Fan, Panos M. Pardalos, Lin Liu. A Novel Hybrid Dynamic Programming Algorithm for A Two-Stage Supply Chain Scheduling Problem. Lecture Notes in Computer Science. 2014, 8426: 242-257.　　[36]
+Mi Zhou, Xinbao Liu, Jianbo Yang, Chang Fang, Group Evidential Reasoning Approach for MADA under Fuzziness and Uncertainties, International Journal of Computational Intelligent Systems, 2013, 6(3): 423-441.合肥工业大学学位评定委员会秘书长
+，中国系统工程学会常务理事、中国系统工程学会智能制造系统工程专业委员会主任委员
+，中国自动化学会过程控制专业委员会委员，国际运筹学与管理科学学会会员，信息系统学会中国分会理事，《预测》编委，以及 “International Conference on Data-driven Smart/Green Manufacturing”国际会议组织委员会主席，“International Workshop on Behavioral Operations Management”、 “World Congress on Global Optimization”、“International Conference on Energy, Sustainability and Climate Change”，“World Congress on Global Optimization”等国际学术会议的组委会成员。合肥工业大学                                                          

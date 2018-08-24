@@ -1,0 +1,29 @@
+张远波，男，信阳人，1978年7月出生，复旦大学物理系特聘教授、博士生导师。2000年于技术物理系获双学士学位，2006年于美国纽约获物理系博士学位，2006年-2009年在任Miller Research Fellowship从事博士后研究工作，2010年IBM Almaden Research Center做博士后研究员。
+2011入选首届“”青年人才
+，2013年获
+，2016年获首届 
+，2017年4月入选教育部“”特聘教授
+。
+1996年-2000年 学士 北京大学经济研究中心 双学士2000年-2006年 （Columbia University in the City of New York）物理系博士2006年-2009年 Miller Research Fellow2010年 IBM Almaden Research Center博士后研究员2011年-至今教授、博士生导师
+2011年入选首批“青年千人计划”
+2013年获
+2016年入选首届
+2016年12月入选“”特聘教授建议人选
+2017年4月入选教育部“”特聘教授
+。
+1）研究在石墨烯（graphene）中对电子影响，包括由此引起的（quantum Hall effect）、准自旋物理（pseudo-spin physics）等；发展新的样品制备方法提高样品质量，在这个基础上用精细测量方法探寻二维电子系中的电子-电子相互作用，以及可能由此引起的新的有序电磁结构。2）发展新的样品制备和探测手段来研究其它低维度系统的结构和电磁性质，这些系统包括（自然存在或人工生长的）单晶界面，的分子单层（self-assembled monolayer）等；根据它们不同的性质，研究内容涵盖广泛，从半导体物理，强关联体系，到最近受到很多关注的“材料（Dirac Material）”（石墨烯是其中的一种）。3）在极端物理条件下（极低温度，超强磁场）用电子输运的办法来观察所有这些低维电子体系的电磁特性，寻找可能存在的新的量子基态。与此同时发展低温超高真空中的和技术，在原子层级来研究低维度纳米结构里电子和自旋的有序量子态。基于这些研究，还将探索这些低维度结构作为新型纳米器件的可行性。
+2014年3月张远波教授课题组与教授课题组及陈仙辉教授课题组合作制备了基于新型二维晶体黑磷的场效应晶体管器件，相关学术论文在《Nature Nanotechnology》(DOI: 10.1038/nnano.2014.35)上发表，发现黑磷这一新型二维半导体材料是继石墨烯、二硫化钼之后的又一重要的进展，为二维晶体材料家族增添了一位新成员。
+2015年2月张远波课题组和中国科学技术大学教授等其它课题组另辟蹊径，发现1T-TaS2中的电荷密度波可以通过改变样品的维度来进行调控，由此发展了一个全新的电荷调控的实验方法：通过门电压对层状样品进行可控的锂插层，可以把样品电子浓度调控到前所未有的水平。基于这个新方法，观测到1T-TaS2二维材料中的以及相对电子浓度极其敏感，从而首次得到了1T-TaS2的完整相图，这项实验大大加深了当前对1T-TaS2中电荷密度波和超导相的理解和调控能力。相关研究成果发表于《Nature Nanotechnology》（Doi:10.1038/nnano.2014.323）.
+2015年5月陈仙辉教授课题组与张远波课题组合作，在继首次制备出二维黑磷场效应晶体管之后
+，再次在薄层黑磷晶体研究中取得进展，成功在这一体系中实现高迁移率（>1,000 cm2 V-1 s-1）二维电子气。这意味着黑磷已经成为在电子学领域有广泛应用前景的新型二维明星材料。相关研究成果以在线发表在《Nature Nanotechnology》（DOI: 10.1038/nnano.2015.91）杂志上。
+2015年10月张远波课题组与合作者的研究论文以题为“Gate-tunable Topological Valley Transport in Bilayer Graphene”在国际权威期刊《Nature Physics》（Doi:10.1038/nphys3485）在线发表，该最新研究成果介绍了实验中利用顶栅和背栅的栅极电压建立垂直的电场，破坏了双层的空间反演对称性，通过非局域的电学测量方法实现了对谷自旋的探测，并且最终实现了可由外电场调控的谷自旋信号观测。
+2016年4月张远波课题组与陈仙辉教授等课题组合作在器件的质量上取得突破，并首次在高迁移率的黑磷器件中观测到了，相关学术论文“Quantum Hall Effect in Black Phosphorus Two-dimensional Electron System”在《Nature Nanotechnology》（Doi:10.1038/nnano.2016.42）上发表。这一发现使黑磷成为了屈指可数的可用于研究量子输运现象的材料体系之一，为进一步研究黑磷中的新奇量子物理现象奠定了基础。
+2016年9月张远波课题组与美国加州大学伯克利分校王枫教授课题组、中国科学技术大学陈仙辉教授课题组等课题组合作完成的关于少层黑磷能带结构演变的文章发表于《Nature Nanotechnology》（Doi:10.1038/nnano.2016.171.）。研究人员用光学手段系统研究了黑磷能带结构随层数的变化，首先通过测量黑磷的光学吸收谱首次确定了单层、双层及三层黑磷的带隙，发现与硅的带隙和远程通讯光子能量相匹配；其次发现其发光峰能量与吸收谱中的吸收边能量高度重合，从实验上首次证明了黑磷的直接带隙特性，且其直接带隙特征不随层数发生变化；最后，在两层及多层的黑磷中，吸收光谱中高于带隙能量的位置发现了新的共振峰，从而揭示了黑磷能带结构随层数变化的过程，并由此得出了黑磷层间相互作用的强度信息。该项实验结果揭示了黑磷的巨大研究和应用潜力。黑磷随层数可调的带隙能量填补了其他二维材料的空白，覆盖了重要的光谱波段，而黑磷的直接带隙特性极大地提高了其光吸收效率，结合它本身的高载流子迁移率，使得黑磷在通讯及能源方面具有重要的潜在应用价值。
+L. Li, J. Kim, C. Jin, G. J. Ye, D. Y. Qiu, F. H. Jornada, Z. Shi, L. Chen, Z. Zhang, F. Yang, K. Watanabe, T. Taniguchi, W. Ren, S. G. Louie, X. H. Chen, *, F. Wang. "Direct Observation of Layer-Dependent Electronic Structure in Phosphorene".Nature Nanotechnology (2016) doi:10.1038/nnano.2016.171.
+L. Li, F. Yang, G. J. Ye, Z. Zhang, W. Lou, L. Li, K. Watanabe, T. Taniguchi, K. Chang, Y. Wang, X. H. Chen, . "Quantum Hall Effect in Black Phosphorus Two-dimensional Electron System".Nature Nanotechnology 11, 593-597 (2016).
+M. Sui, G. Chen, L. Ma, W. Shan, D. Tian, K. Watanabe, T. Taniguchi, X. Jin, W. Yao, D. Xiao,. "Gate-tunable Topological Valley Transport in Bilayer Graphene". Nature Physics11, 1027-1031 (2015).
+L. Li, G. J. Ye, V. Tran, R. Fei, H. Wang, J. Wang, K. Watanabe, T. Taniguchi, L. Yang, X. H. Chen,. "Quantum oscillations in a two dimensional electron gas in black phosphorus thin films".Nature Nanotechnology 10, 608-613 (2015).
+Y. Yu, F. Yang, X. F. Lu, Y. J. Yan, Y. H. Cho, L. Ma, X. Niu, S. Kim, Y. Son, D. Feng, S. Li, S. Cheong, X. H. Chen, . "Gate-tunable Phase Transitions in Thin Flakes of 1T-TaS2".Nature Nanotechnology 10, 270–276 (2015)
+L. Li, Y. Yu, G. J. Ye, Q. Ge, X. Ou, H. Wu, D. Feng, X. H. Chen,. "Black phosphorus field-effect transistors". Nature Nanotechnology 9, 372-377 (2014).
+Y. Zhang*, V. W. Brar*, C. Girit, A. Zettl and M. F. Crommie, “Spatial Charge Inhomogeneity in Graphene” Nature Physics, in press.Y. Zhang*, T.-T. Tang*, C. Girit, Z. Hao, M. C. Martin, A. Zettl, M. F. Crommie, Y. R. Shen and F. Wang, “Direct Observation of a Widely Tunable Bandgap in Bilayer Graphene” Nature 459, 820 (2009).Y. Zhang, V. W. Brar, F. Wang, C. Girit, Y. Yayon, M. Panlasigui, A. Zettl, M. F. Crommie, “Giant phonon-induced conductance in scanning tunneling spectroscopy of gate-tunable graphene” Nature Physics 4, 627 (2008).F. Wang, Y. Zhang, C. Tian, C. Girit, A. Zettl, M. F. Crommie, Y. R. Shen, “Gate-Variable Optical Transitions in Graphene” Science 320, 206 (2008).Y. Zhang, Z. Jiang et. al., “Landau Level Splitting in Graphene in High Magnetic Fields” Phys. Rev. Lett. 96, 136806 (2006).Y. Zhang, Y.-W. Tan, H. L. Stormer, P. Kim, “Experimental Observation of Quantum Hall Effect and Berry’s Phase in Graphene” Nature 438, 201 (2005).Y. Zhang, J. Small, M. Amori, P. Kim, “Electric Field Modulation of Galvanomagnetic Properties of Mesoscopic Graphite” Phys. Rev. Lett. 94, 176803 (2005).Y. Zhang, J. Small, W. Pontius, P. Kim, “Fabrication and Electric-field-dependent Transport Measurements of Mesoscopic Graphite Devices” Appl. Phys. Lett. 86, 073104 (2005).
+河南北京大学哥伦比亚大学加州大学伯克利分校 千人计划 求是杰出青年学者奖 中国优秀青年科技人才奖 长江学者奖励计划  北京大学技术物理系美国哥伦比亚大学加州大学伯克利分校复旦大学物理系  求是杰出青年学者奖 中国优秀青年科技人才奖 长江学者奖励计划 长江学者奖励计划  相对论效应量子反常霍尔效应自组装狄拉克扫描隧道显微镜原子力显微镜 复旦大学物理系封东来中国科学技术大学 陈仙辉二维材料电荷密度波超导 合肥微尺度物质科学国家实验室  石墨烯 中国科学技术大学黑磷量子霍尔效应         

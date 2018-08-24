@@ -1,0 +1,6 @@
+华中科技大学电子与信息工程系副教授1995年毕业于华中理工大学电力工程系，电机、电器及其自动化专业，本科。1998年毕业于华中理工大学电力工程系，电机专业。2001年至2002年赴香港城市大学参与合作研究，研究项目为《移动环境下的实时数据分发》。2004年毕业于华中科技大学电子与信息工程系，通信与信息系统专业，博士。微机原理、单片机原理等(校主讲教师)
+。电力信号处理; 系统集成及优化; 通信与信息系统; 生物医学.
+。董毅. 多个查询时选择区域更新策略的参数设定. 华中科技大学学报（自然科学版），2007,35(8)Dong Yi, Edward Chan. Deviation Based Update Strategies for Location Dependent Continuous Query，ISCA 15th International Conference on Parallel and Distributed Computing Systems (PDCS-2002), Kentucky, USA, September, 2002.Dong Yi, Edward Chan, Huang Zailu. Distance-Based Update Strategy in LDCQ，Journal of Electronics, 2004, 21(4): 337-341。
+无线环境下的实时数据分发－位置相关连续查询研究有线/无线Internet接入服务器开发生物医学自动分析软件Power signaling, communication and power quality.智能火灾疏散系统相关。
+研究工作主要集中在通信网络上，先后参加并完成了多个应用研究和预研项目。如《有线/无线Internet接入服务器开发》、《无线环境下的实时数据分发》、《荧光染色精子质量自动分析系统》等。在位置相关连续查询（Location Dependent Continuous Query，LDCQ）研究领域已有8篇论文发表，其中权威6篇，ISTP收录1篇。作为主要参编者编写教材《微型计算机原理与接口技术基础教程》。
+     

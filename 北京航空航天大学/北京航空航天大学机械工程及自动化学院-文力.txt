@@ -1,0 +1,21 @@
+1983年10月出生，机械工程及自动化学院副教授，博士生导师，北航青年拔尖人才。2005年获得北京理工大学学士学位，2011年获得北京航空航天大学博士学位。曾任美国哈佛大学George Lauder实验室博士后研究员。
+2005年在北京理工大学获得学士学位，2011年在北京航空航天大学获得博士学位。2011年6月至2013年7月在美国George Lauder实验室任博士后研究员，2013年12月至2014年2月为哈佛大学访问学者。
+主持重点项目“基于软体机器人的水下环境感知与目标抓取”、北京市自然科学基金项目等多项研究课题，担任国际著名仿生机器人Festo公司探索性软体机器人项目负责人。
+主要研究方向为仿生机器人、与比较。未来研究致力于融合生物力学、新材料、机器人控制、人工智能与机器学习的仿生软体机器人研究，构建低成本、可高效安全与人类、自然界交互的仿生智能软体机器人。
+文力以第一作者/通讯作者在机器人学与仿生学领域杂志发表封面文章
+, 封面文章
+，Soft Robotics, Physical review fluids，IEEE Transactions等刊物共发表 SCI/EI论文60余篇。部分研究成果达到国际水平，如：复合多材料3D打印相关研究成果发表在《Journal of Experimental Biology》封面文章（我国首篇JEB封面论文）
+，受到《Nature》、《Science》等杂志撰文报道
+。仿生软体吸盘鱼相关研究工作被选为期刊《Science》机器人子刊《》封面论文（我国首篇Science Robotics论文）获麻省理工科技评论（ Technology Review）
+等多家国际科技媒体报道。仿生章鱼触手软体机器人（德国公司仿生学习网络开展的亚洲首个国际合作研究）并在2017年的德国汉诺威展会上展出，获包括德国总理默克尔在内的多国领导人高度评价。仿生机器人方面的学术论文获ISOPE, CLAWAR, IEEE CYBER, ICIRA，等多个机器人国际会议论文奖，国家自然科学基金委水下机器人抓取大赛创新奖。担任IJARS、《机器人》杂志软体机器人专刊客座主编、《水下无人系统》编委。指导本科生获全国大学生挑战杯科技竞赛一等奖等多个奖项，已培养的博士/硕士研究生已在美国麻省理工学院，德国马普所等研究机构进一步深造
+。IEEE MemberSICB MemberISBE Member水下无人系统学报 编委《机器人》 客座主编International Journal of Robotics and System Guest Editor北京航空航天大学生物医学工程高精尖创新中心客座研究员国家自然科学基金信息学科/机械学科项目函评专家
+[1] 21届国际海洋与极地工程大会最佳学生论文奖(2010)；[2] 北京航空航天大学10佳学术会议论文奖(2011)；[3] “启先院士”奖学金(2011)；[4] 北京航空航天大学优秀博士学位论文(2012)；[5] 中国机械工程学会“上银”优秀博士学位论文佳作奖(2012)；[6] 美国综合与比较生物力学协会奖学金(2012)；[7] SICB (Society of Integrative Orgasmic Biology)会议差旅奖(2012)；[8] CLAWAR (Climbing and Walking Robotic Conference)最佳技术论文奖(2015)；[9] 全国挑战杯优秀指导教师(2015)；[10] 北京航空航天大学优秀硕士论文指导教师(2017)；[11] CYBER (International Conference on CYBER technology in Automation, Control, and Intelligent Systems)最佳论文奖(2017)；[12] ICIRA (International Conference on Intelligent Robotics and Applications) 最佳论文奖(2017)；[13] ROBIO (IEEE International Conference on Robotics and Biomimetics)最佳仿生学论文 奖(2017);
+1) , Ziyu Ren, Valentina Di Santo, Kainan Hu, Tao Yuan, Tianmiao Wang, George V. Lauder*."Understanding Fish Linear Acceleration Using a Undulatory Bio-robotic Model with Soft Fluidic Elastomer Actuated Morphing Median Fins". , 2018.
+2) Yufei Hao, Tianmiao Wang, Zhexin Xie, Wenguang Sun, Zemin Liu, Xi Fang, Mingxuan Yang and  A eutectic-alloy-infused soft actuator with sensing, tunable degrees of freedom, and stiffness properties. , 28 024004, 2018.
+3) Yueping Wang, Xingbang Yang, Yufeng Chen, Dylan K. Wainwright, Christopher P. Kenaley, Zheyuan Gong, Zemin Liu, HuanLiu, Juan Guan, Tianmiao Wang, James C. Weaver, Robert J. Wood and,"A biorobotic adhesive disc for underwater hitchhiking inspired by the remora suckerfish", , Vol. 2, Issue 10 (DOI: 10.1126/scirobotics.aan8072), 2017.4) George V. Lauder, Dylan K. Wainwright, August G. Domel, James C. Weaver, , and Katia Bertoldi, “Structure, biomimetics, and fluid dynamics of fish skin surfaces”,  1,060502, 2016.
+5) Ren Ziyu, Yang Xingbang, Wang Tianmiao and"Hydrodynamics of a robotic fish tail: effects of the caudal peduncle, fin ray motions and the flow speed". 11 (2016) 016008.
+6) , James Weaver, P M Thornycroft, George Lauder*, Hydrodynamic function of biomimetic shark skin: effect of denticle pattern and spacing,  10 (6), 066010, 2015.
+7) , James Weaver, George Lauder, “Biomimetic shark skin: design, fabrication and hydrodynamic function”.  217,1656-1666, 2014. 8) , T M Wang, G H Wu and J H Liang, “Quantitative Thrust Efficiency of a Self-Propulsive Robotic Fish: Experimental Method and Hydrodynamic Investigation”, . Vol.18, No.3 pp.1027-1038, 2013.
+9) and George Lauder“Understanding undulatory locomotion in fishesusing an inertia-compensated flapping foil robotic device”. , 8 (4):046013, 201310)Li Wen*, T M Wang, J H Liang and G H Wu, “Novel Method for the Modeling and Control Investigation of Efficient Swimming for Robotic Fish”,. Vol. 59, No. 8 pp. 3176-3188, 2012.11), T M Wang, G H Wu and J H Liang, “Hydrodynamic investigation of a self-propulsive robotic fish based on a force-feedback control method”, . Vol. 7 036012, 2012.
+12) J H LiangT M Wang and , “Development of a Two-Joint Robotic Fish for Real-World Exploration”,  Vol. 28, pp. 70~79, 2011.
+ 哈佛大学 国家自然科学基金 软体机器人生物力学 Science Robotics Journal of Experimental Biology   Science RoboticsMIT FestoROBIO           

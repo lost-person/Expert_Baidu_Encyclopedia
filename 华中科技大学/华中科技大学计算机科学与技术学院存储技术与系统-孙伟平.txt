@@ -1,0 +1,6 @@
+孙伟平，博士，华中科技大学计算机科学与技术学院存储所副教授。
+1996/09 – 2001/03 ，北京理工大学，应用数学系，博士（直博）。1992/09 –1996/ 07 ，北京理工大学，应用数学系，本科。
+2003/10 – 至今，华中科技大学，计算机科学与技术学院，副教授。2012/7月底 –2012/9月中旬 ，美国厄尔巴纳- 香槟分校(UIUC)，Beckman Institute forAdvanced Science，短期交流访问。2001/03 –2003/10，华中科技大学，计算机科学与技术学院博士后流动站，博士后。
+计算机视觉，多媒体技术，机器学习，模式识别。1、余胜生，代江华，孙伟平，郭红星，基于在线判别分析的鲁棒L1视觉跟踪，华中科技大学学报自然科学版，2014年，录用2、孙伟平，周围，胡政文，余胜生，基于稀疏系数分布的视觉跟踪遮挡研究, 第22届全国多媒体学术会议(HHME'13), 南昌, 20133、HonghongLiao, Jinhai Xiang, Weiping Sun, Jianghua Dai and Shengsheng Yu , AdaptiveInitialization Method Based on Spatial Local Information for K-means Algorithm,Mathematical Problems in Engineering，录用，2014年4、DejunWang, Weiping Sun, Yongtao Shi and Shengsheng Yu，Efficient Mean-Shift Tracking Using an Improved Weighted Histogram Scheme，KSII Transactions on Internet and Information Systems，录用，2014年5、孙伟平，冯庆，向金海，余胜生，基于局部模型的视频目标跟踪, 第21届全国多媒体学术会议(HHME'12), 广州, 20126、孙伟平, 向杰, 陈加忠, 余胜生，基于 GPU 的粒子滤波并行算法，华中科技大学学报自然科学版，2011 ，39（5）：63-667、孙伟平，向杰，廖红虹，周敬利，基于 GPU 的协方差矩阵粒子滤波算法, 第20届全国多媒体学术会议(HHME'11), 北京, 2011
+1、科研项目2014.1-2016.12 国家自然科学基金 “视觉跟踪中的数据驱动机制研究”（青年基金）。2014.1-2015.12 华中科技大学自主创新基金 “自然场景下对象表观表示方法研究”。2011.6-2012.12 华中科技大学自主创新基金 “面向社会管理的复杂场景下特定行为识别”。2009.1-2010.12 武汉市科技攻关项目 “交通监控系统视频行为分析与报警服务器开发”。2、教学项目2012年 华中科技大学本科教学协同计划 教师海外研修项目。2013年 华中科技大学优秀班主任。2009年 华中科技大学教学质量二等奖。2008年 华中科技大学教学质量二等奖。
+  伊利诺伊大学   

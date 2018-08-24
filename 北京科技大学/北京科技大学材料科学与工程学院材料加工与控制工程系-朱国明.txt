@@ -1,0 +1,8 @@
+朱国明，男，北京科技大学材加系副教授。
+1994-1998 东北大学金属压力加工系，本科；1998-2000 青岛钢铁股份有限责任公司第一线材厂，轧钢工；2000-2003 东北大学轧制技术及连轧自动化国家重点实验室，硕士研究生；2003-2004 ANSYS 公司广州办事处，软件技术工程师；2004-2005 GNS 公司上海分公司，软件技术工程师；2005-2009 北京科技大学材料科学与工程学院，博士研究生；2009-2011 北京科技大学冶金与生态学院，师资博士后；2009至今 北京科技大学材料科学与工程学院，教师 。
+1. 材料加工过程数值模拟及应用；2. 跨尺度数值模拟及应用；3. 产品全生命周期跨时域数值模拟及应用；4. 先进汽车用金属材料的开发、制备及应用；5. 型钢孔型设计及数值模拟。
+1. 国家863项目：高强高韧铸造铝镁合金及其在大型复杂结构件中的应用；2. 博士点基金：形变过程中Q&P 钢微观组织演变及应变强化关系的研究；3. 大型企业合作项目：型钢轧制过程数值模拟实验研究。
+1. 研究生课程：塑性加工过程数值模；2. 研究生课程：高精度轧制与控制冷却。
+作为主要完成人先后获得省部级科技进步二等奖3项（2011年中国冶金科技进步二等奖1项，2012年教育部科技进步二等奖1项，2013年中国有色金属工业技术发明奖二等奖1项）。
+[1] Guoming Zhu, Yonglin Kang, Chao Lu, and Shengci Li. Microstructure Evolution of Cold‐Rolled Dual Phase Steel Simulated by Cellular Automata. Steel Research International, 2014,85(6):1035-1046.[2] Zhu Guoming, Lv Chao, Kang Yonglin. A Quantitative Study of Precipitation Evolution during Annealing Treatments of a Ti-IF Steel. International Academic Conference on Machinery, Materials Science and Engineering Applications, 2011.7.15-16, Advanced Materials Research, 228-229 :1156-1162,WuHan, 2011.[3] Zhu Guoming*, Lv Chao, Kang Yonglin. Three Dimensional Prediction of Microstructure Evolution and Mechanical Properties of Hot Strips. International Conference on Advanced Engineering Materials and Technology, 2011.7.29-31, Advanced Materials Research, 291-294:455-464, Sanya, 2011.[4] Zhu Guoming*, Kang Yonglin, Ma Guangting. Simulation of Residual Stress in Hot Rolled Large Size H-beams. 6th International Conference on Physical and Numerical Simulation of Materials Processing, 2010.11.16-19, Materials Science Forum, 704-705:1370-1378, Guilin, 2012.
+       

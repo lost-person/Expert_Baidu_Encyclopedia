@@ -1,0 +1,13 @@
+副教授、硕士生导师。长期致力于信息安全和安全策略方面的教学和科研工作，主持了微软精品课程等方面的教学研究，并将课题研究的最新成果融合到本科“数据结构与算法设计”的教学工作中。任教期间以国家留学基金委公派访问学者身份赴美国普渡大学交流访学一年。
+1998年，学士学位，中国科技大学地球化学专业
+1998年，双学士学位，中国科技大学计算机软件专业
+2003年，博士学位，计算机专业
+基于策略的系统管理、物联网安全、信息安全、分布式系统
+《数据结构和算法基础》本科，每周4+2课时，每班55-70人《Web应用基础》本科，每周3+2课时，每班80-110人《信息安全》本科，每周3课时，每班50-60人《信息安全原理》研究生，每周3学时，每班60-100人
+每年指导本科生毕业论文4-5篇每年指导计算机软件与理论专业硕士研究生1-2名每年指导软件工程硕士5-8名
+《Web应用》课程研究，微软精品课程，2004.7~2005.7，项目负责人
+2007年获得复旦大学教学贡献奖指导本科生参加“花旗杯科技应用大赛”，在2006年获全国三等奖和2007年获全国二等奖
+《公钥环境下零知识组合性研究》，国家自然科学基金，2008.1~2010.12，第三《研创基于复杂性理论的可证明安全性新框架》，973子课题，2007.5~2012.5，第三《上海临港新城应用集成平台》，上海市科委重点项目，2004.7~2006.7，参与
+韩伟力，臧斌宇，朱东来，高珺。《应用系统开发导论》（主编），国家教育部十一五规划教材，清华大学出版社出版，2008年2月
+Weili Han, Chang Lei. A survey on policy languages in network and security management. Computer Networks, 2012, 56(1): 477-489.Ye Cao, Weili Han*, Yueran Le. Anti-phishing Based on Automated Individual White-List, the 4th ACM Workshop on Digital Identity Management, Collocated with ACM CCS2008, 2008, Fairfax, VA, USA: 51-60. (Corresponding Author)Weili Han, Xingdong Shi, Ronghua Chen. Process-Context Aware Matchmaking for Web Service Composition, Journal of Network and Computer Applications, 2008, Vol. 31(4): 559–576.Weili Han, Yi Wang, Ye Cao, Jipin Zhou, Lixing Wang. Anti-Phishing by Smart Mobile Device, IFIP International Conference on Network and Parallel Computing, 2007, Dalian, China: 295-300.Ting Chen, Weili Han, Haidong Wang, Yixun Zhou, Bin Xu, Binyu Zang. Content Recommendation System Based on Private Dynamic User Profile, International Conference of Machine Learning and Cybernetics (ICMLC) 2007, Hongkong, China: 2112-2118.Xingdong Shi, Weili Han*, Yinsheng Li, Ying Huang. Integrated Business-Process- Driven Design for Service-Oriented Enterprise Applications, International Journal of Pervasive Computing and Communications, 2007, 3(2): 175-189. (Corresponding Author)Xingdong Shi, Weili Han, Yinsheng Li, Ying Huang. Service-oriented Business Solution Development Driven by Process Model. The 5th International Conference on Computer and Information Technology (CIT 2005), Shanghai, China: 1086-1092.Han Weili, Zhang Junjing, Yao Xiaobo. Context-Sensitive Access Control Model and Implementation. The 5th International Conference on Computer and Information Technology (CIT 2005), Shanghai, China: 757-763.Han Weili, Shi Xingdong, Li Yinsheng. Constraint Access Control for Direct Authorization. The 9th International Conference on CSCW in Design (CSCWD2005), Convertry, UK, 2005, 69-73.
+复旦大学计算机科学技术学院   浙江大学         

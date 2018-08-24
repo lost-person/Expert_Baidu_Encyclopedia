@@ -1,0 +1,6 @@
+姚倡锋，男，博士，副教授，陕西户县人，1975年7月出生。2002年毕业于西北工业大学航海学院，获武器系统与运用工程硕士学位，2006年毕业于西北工业大学机电学院，获航空宇航制造工程博士学位并留校任教。计算机辅助技术、现代集成制造技术、表面完整性技术研究。主讲高速切削技术及应用专业课程。目前主持和参与国家973项目子专题、国家科技重大专项子课题、教育部科学技术研究重大项目、国家科技支撑计划项目子课题、863计划、航空科学基金、国家工艺攻关、XX计划等10余项科研项目；出版编著2部；获国家软件著作权登记3项。近年来，在国际期刊、国内核心刊物和国际会议上共发表科研论文20余篇，被 SCI 、EI收录10篇。为中国机械工程学会高级会员，《计算机集成制造系统》杂志审稿专家。（1）高速切削机理与工艺技术（2）表面完整性控制技术
+（1）姚倡锋，张定华，黄新春，杨振朝，任军学. TC11钛合金高速铣削的表面粗糙度及表面形貌研究.机械科学与技术，2011,30（9）：1573-1578
+（2）Changfeng Yao, ZhenchaoYang, Xinchun Huang, Junxue Ren, Dinghua Zhang. The Study of Residual Stresses in High-Speed Milling of Titanium Alloy TC11. Advanced Materials Research Vols. 443-444 (2012) pp 160-165
+（3）姚倡锋,张定华,卜昆.异地协同制造资源优化配置过程模型及实现.计算机集成制造系统,2008年,第3期.
+（4）Y. Changfeng, Z. Dinghua, P. Wenli, B. Kun.Research on Resources Optimization Deployment Model and Algorithm for Collaborative Manufacturing Process.International Journal of Production Research.2006,44(16):3279-3302.
+     

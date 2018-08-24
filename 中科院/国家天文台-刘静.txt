@@ -1,0 +1,34 @@
+刘静，1969年4月出生于云南宣威，生物传热学专家，生物医学工程系教授
+，双聘研究员
+。1992年刘静从本科毕业；1996年获得清华大学工程热物理专业工学博士学位；1998年入选；1999年从美国回来后进入工作，并创建了低温生物与医学实验室；2003年获得资助；2008年兼任清华大学医学院生物医学工程系教授，主持医学微系统技术实验室；2014年获得威廉·伯格奖，是首位获得此奖的中国科学家
+；2015年入选“中央电视台2015年度科技创新人物”；2017年获得
+。刘静的研究领域包括：低温生物医学工程学；常温及高温生物医学工程学；移动医疗与普适健康技术；微/纳米流体与热学技术；先进热管理技术：从芯片到系统；超常规能源技术
+。
+1987年7月，刘静从毕业
+，被清华大学热能工程系燃气轮机专业录取。大二下半学期，他选择了物理系现代应用物理专业作为第二学位
+。1992年7月，同时获得燃气轮机专业工学学士学位及物理系现代应用物理专业理学士学位，同年直攻博士，在导师建议下专攻生物传热学
+。
+1996年2月，获得清华大学工程热物理专业（生物传热学方向）工学博士学位后留校任教，此后前往美国进行博士后研究，并在当高级访问学者。1998年，入选。1999年6月，从美国回来后进入工作，并创建了（暨低温生物医学工程学北京市重点实验室）
+。2001年，出版了中国国内外首部《》。2003年，获得资助。4月在高级经理工商管理精选课程（2005年5月结业）。2008年7月，兼任生物医学工程系教授，主持医学微系统技术实验室，同时继续担任中科院理化技术研究所低温生物医学实验室课题组长。2014年8月，在日本京都召开的上获得威廉·伯格奖，这是中国科学家首次获得该奖项
+。2016年1月，入选中央电视台推选的2015年度十大科技创新人物
+。2017年5月，获得全国创新争先奖
+。刘静长期致力于生物医学工程、移动健康、液态金属与工程热物理等领域交叉科学问题研究。在生物传热传质学研究方面做出了系统的理论、技术与应用创新，建立有系列新型高、低温医疗方法及生物 热测试技术，研发的高低温复式肿瘤治疗装备 “ 康博刀” 获得重大临床应用。在新兴的液态金属领 域，发现系列全新科学现象、基础效应和变革性应用途径，开辟了液态金属在生命健康、柔性机器、信息（芯片冷却）、先进制造及能源等方面全新应用
+。2017年，刘静凭借冷冻消融技术成果获得2016年度北京市科学技术奖励一等奖，已成功实现临床转化应用。刘静团队联合海杰亚（北京）医疗器械有限公司共同开发的具有完全自主知识产权的高低温复式肿瘤治疗设备-“康博刀”2017年上半年通过国家食药总局“创新医疗器械特别审批”，获准注册上市。该设备在国际上首次实现了集深低温冷冻治疗与高温热疗功能于一体，突破了单一冷冻治疗或高温热疗的技术局限，已取得12项发明专利，技术达到国际领先水平，打破了美国和以色列在肿瘤微创低温冷冻治疗领域的市场垄断，被《中国科学院简报》评为“领跑国际的治癌新设备”
+。2001年，刘静开始寻找一种能让计算机芯片快速散热的材料，在多次的尝试后，刘静意识到液态金属具有超高的导热性，作为冷却液可将集成电路里的热量快速导出，就此他开始了在液态金属领域的研究。2013年夏，刘静和团队在世界上首次发现了电场控制下液态金属与水的复合体可在各种形态及运动模式之间发生转换的基本现象。紧接着又在世界上首先发现液态金属在吞食少量铝后能自主高速运动且能变形的奇异行为
+。2015年，在《Small》上在线发表的题为“基于自驱动液态金属马达群碰撞与融合行为的过渡态机器”（Transient state machine enabled from the colliding and coalescence of a swarm of autonomously running liquid metal motors）论文中，研究小组首次定义并证实了一种崭新的机器形态-过渡态机器，论文被选为期刊内封面故事
+。截至2011年，刘静承担了企业产业化项目，国家自然科学基金、“863”计划、国家科技支撑计划、北京市科技计划项目等多项，也获得了北京市科学技术奖
+、中国电子学会电子信息科学技术奖等
+。截至2011年，刘静先后出版9部跨学科前沿著作，多为国内外同主题首部著作，应邀撰写有14篇中英文著作章节。发表期刊论文300余篇，国际会议论文70余篇；申请专利100余项（已获授权60余项），一批成果转让企业
+。Y. Yu, J. Zhang, J. Liu*, Biomedical implementation of liquid metal ink as drawable ECG electrode and skin circuit, PLoS ONE, vol. 8(3), pp. e58771, 2013C. Jin, Z.-Z. He, J. Zhang, X.-Y. Yang, J. Liu*, Enhanced thermographic detection of skin cancer through combining laser scanning and biodegradable nanoparticles, ASME Journal of Nanotechnology in Engineering and Medicine, DOI: 10.1115/1.4024129, 2013.Z. Q. Sun, Y. Yang, and J. Liu*, Alternative cooling and heating as a novel minimally invasive approach for treating obesity, International Journal of Thermal Sciences, vol.64, pp. 29-39, 2013.X. Xue, Z.Z. He*, J. Liu*, Computational study of thermal effects of large blood vessels in human knee joint, Computers in Biology and Medicine, vol.43, pp. 63-72, 2013.S. F. Mei, Y. X. Gao, H. Y. Li, Z. S. Deng, and J. Liu*, Thermally induced porous structures in printed gallium coating to make transparent conductive film, Applied Physics Letters, vol. 102, pp. 041509-1-4, 2013.H. S. Ge, H. Y. Li, S. F. Mei, J. Liu*, Low melting point liquid metal as a new class of phase change material: An emerging frontier in energy area, Renewable and Sustainable Energy Reviews, vol. 21, pp. 331-346, 2013.X. Xue, Z. Z. He*, J. Liu*, Detection of water-ice phase transition based on Raman spectrum, Journal of Raman Spectroscopy, 2013Y. X. Gao, H. Y. Li and J. Liu*, Direct writing of flexible electronics through room temperature liquid metal ink, PLoS ONE, vol.7(9), pp. e45485(10 pages), 2012.D.-R. Di, Z.-Z. He, Z.-Q. Sun, and J. Liu*, A new nano-cryosurgical modality for tumor treatment using biodegradable MgO nanoparticles, Nanomedicine: Nanotechnology, Biology and Medicine, vol.8, pp. 1233-1241, 2012 (Feature Article & Cover Article).Q. Wang, L.P. Xie, Z.Z. He, D.R. Di, J. Liu*, Biodegradable magnesium nanoparticles enhanced laser hyperthermia therapy, International Journal of Nanomedicine, vol.7, pp. 4715-4725, 2012.Q. Wang, Z. S. Deng, J. Liu*, Theoretical evaluations of magnetic nanoparticle-enhanced heating on tumor embedded with large blood vessels during hyperthermia, Journal Nanopart Res, vol.14, pp. 974 (10 pages), 2012.Z. Sun，Y. Yang，J. Liu*, In vivo experiments and numerical investigations on nanocryosurgical freezing of target tissues with large blood Vessels, Journal of Biomedical Nanotechnology, 8(1), pp. 1-9, 2012.D. Dai, J. Liu*, Human powered wireless charger for low-power mobile electronic devices, IEEE Transactions on Consumer Electronics, vol.58(3), pp. 767-774, 2012.C. Jin, Z.Z. He, S.S. Zhang, M.C. Qi, Z.Q. Sun, D.R. Di, J. Liu*, A feasible method for measuring the blood flow velocity in superficial artery 3 based on the laser induced dynamicthermography, Infrared Physics & Technology, vol.55, pp. 462-468, 2012.C. Jin, Y. Yang, Z.-J. Xue, K.-M. Liu, J. Liu*, Study on an automated analysis method of knee osteoarthritis screening using medical infrared thermography, Journal of Medical and Biological Engineering, 2012.Q. Zhang, Y. Zheng, J. Liu*, Direct writing of electronics based on alloy and metal ink (DREAM Ink): A newly emerging area and its impact on energy, environment and health sciences, Frontiers in Energy, vol.6(4), pp. 311-340, 2012 (Invited Feature Article).D. Jia., W. Rao, C. Wang, C. Jin, S. Wang, D. Chen, M. Zhang, J. Guo, Z. Chang, J. Liu*, Inhibition of B16 murine melanoma metastasis and enhancement of immunity by fever-range whole body hyperthermia, International Journal of Hyperthermia, vol.27, pp. 275-285, 2011. (Cover Article)J. Xiao, Z.Z. He, Y. Yang, B.W. Chen, Z.S. Deng, J. Liu*, Investigation on three-dimensional temperature field of human knee considering anatomical structure, International Journal of Heat and Mass Transfer, vol. 54, pp. 1851–60, 2011.Y. Yang, J. Liu*, Detection of atherosclerosis through mapping skin temperature variation caused by carotid atherosclerosis plaques, ASME Journal of Thermal Science and Engineering Applications, vol.3, pp. 031005, 2011.Q. Wang, J. Liu*, Effects of nonuniform tissue properties on temperature prediction in magnetic nanohyperthermia, ASME Journal of Nanotechnology in Engineering and Medicine, vol.2, pp. 021012, 2011.截至2013年，刘静先后指导毕业41名硕士、博士生及24名本科毕业设计，其中有19人次获得院级及清华大学校级奖学金或竞赛奖，5人次入选全国优秀博士论文提名、优秀博士论文奖或提名；所指导研究生或助手中，已有3人成长为教授或研究员（1名入选中科院百人计划，1名入选教育部“”），1名入选北京市科技新星人才计划，4人被提升为副研究员或副教授。先后5次获得优秀研究生指导教师奖或优秀教师称号
+。1999年，担任低温生物医学工程学北京市重点实验室主任
+。刘静对促进中国生物医学工程与热科学新兴交叉学科领域的快速发展和人才培养作出重要贡献
+。刘静和他的同事们对液态金属的研究，是中国科学家在热点科学领域中的一个原创性科研成果，他们取得的一系列突破将被打上深深的中国烙印
+。清华大学医学院 中国科学院理化技术研究所 清华大学中国科学院百人计划中国科学院理化技术研究所国家杰出青年科学基金 全国创新争先奖  
+
+
+
+宣威市第一中学  清华大学热能工程系 
+
+
+
+普渡大学麻省理工学院中国科学院百人计划中国科学院理化技术研究所中国科学院低温生物与医学实验室 微米/纳米尺度传热学国家杰出青年科学基金清华大学经管学院清华大学医学院国际传热大会          中国科学院中国科学院新世纪优秀人才支持计划中国科学院    

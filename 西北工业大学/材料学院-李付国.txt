@@ -1,0 +1,6 @@
+李付国 ，1965年12月生，工学博士，教授，材料学与材料加工工程学科博士生导师。数值模拟与数据集成中心主任
+曾任陕西省航空航天材料实验教学示范中心主任。1991年硕士毕业后留校从事科研和教学工作，并在职攻读博士学位，1993年10月博士毕业，1995年破格晋升副教授职称，1998年破格晋升教授职称。陕西省有色金属学会理事；实验教学指导委员会委员；担任多家本学科领域知名学术期刊的编委或审稿人。
+主要从事材料成形及等方面研究工作。主要研究方向有：①“材料成形与计算机辅助设计”；②“材料成形设计与智能控制一体化技术”； ③“材料成形多尺度与多物理场耦合计算方法”；④“材料精密与微纳米成形理论与方法”。主持、参加国家项目（“”课题、等）5项，省部级课题等30余项。
+发表学术论文150余篇（SCI：100余篇，EI：100多篇，ISTP：5篇），出版教材、专著3本。1.基于修正DMNR模型的1060纯铝本构方程 , 2016,26(4),1079-1095 ,DOI:, ISSN:1003-6326　　2. Hardening and softening analysis of pure titanium based on the dislocation density during torsion deformation , Elsevier Ltd,2016,671,17-31 ,DOI:10.1016/j.msea.2016.06.046, ISSN:09215093　　3. 基于修正 DMNR 模型的1060纯铝本构方程 , Nonferrous Metals Society of China, B12 Fuxing Road, Beijing, 100814, China,2016,26(4),1079-1095 ,DOI:10.1016/S1003-6326(16)64205-X, ISSN:1003-6326　　4. Analysis of fracture criteria for 7050 aluminum alloy with different geometries based on the elastic strain energy density , ELSEVIER SCIENCE BV,2016,81,50-66 ,DOI:10.1016/j.tafmec.2015.10.007, ISSN:0167-8442　　5. Experimental study on pure copper subjected to different severe plastic deformation modes , Elsevier Ltd,2016,656,142-150 ,DOI:10.1016/j.msea.2016.01.018, ISSN:09215093
+（共311篇以下从略）获得国家专利15项，省部级以上科技奖励6项（国家发明二等奖和省部级科技进步奖），省部级教学成果特等奖1项和二等奖1项。
+西北工业大学 教育部 控制工程数值模拟973国家自然科学基金   

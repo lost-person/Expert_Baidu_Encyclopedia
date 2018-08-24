@@ -1,0 +1,8 @@
+薛正远，男, 华南师范大学物理与电信工程学院凝聚态物理研究所研究员, 博士
+2015.12研究员；2013.06博士生导师；　　2010.11副教授；2012.05硕士生导师；　　2009.12香港大学博士（PhD）。
+晶体管的尺寸即将达到原子尺度，传统半导体器件中的量子效应将不可回避。量子计算机基于量子力学的原理工作，具有经典计算机无法比拟的计算能力，它的实现将引起信息技术的新革命，具有重要的学术价值与应用前景。我们主要研究基于超导体系的容错量子计算,主要研究工作有：
+和乐量子计算　　[5] Z.-Y. Xue*, F.-L. Gu, Z.-P. Hong, Z.-H. Yang, D.-W. Zhang, Y. Hu*, and J.Q. You*, arXiv:1612.03575.　　[4] Z.-Y. Xue*, J. Zhou*, Y.-M. Chu, and Y. Hu*, Phys. Rev. A 94, 022331 (2016).　　[3] Z.-Y. Xue*, J. Zhou, and Z.D. Wang, Phys. Rev. A 92, 022320 (2015).　　[2] J. Zhou, W.-C. Yu, Y.-M. Gao, and Z.-Y. Xue*, Opt. Exp. 23, 14027 (2015).　　[1] Z.-T. Liang, Y.-X. Du, W. Huang, Z.-Y. Xue*, and H. Yan*, Phys. Rev. A 89, 062312 (2014).　　拓扑量子调控　　[3] Y-P. Wang, W.-L. Yang, Y. Hu*, Z.-Y. Xue*, and Y. Wu, npj Quantum Inf. 2, 16015 (2016).　　[2] Z.-Y. Xue*, M. Gong*, J. Liu, Y. Hu, S.-L. Zhu, and Z. D. Wang*, Sci. Rep. 5, 12233 (2015).　　[1] Z.-Y. Xue*, L.B. Shao, Y. Hu, S.-L. Zhu, and Z.D. Wang*, Phys. Rev. A 88, 024303 (2013).　　电力系统量子操控　　[4] X. Zhou, B.-J. Liu, L.-B. Shao, X.-D. Zhang*, and Z.-Y. Xue*, arXiv:1612.05927.　　[3] Z.-Y. Xue, Z.-Q. Yin*, Y. Chen, Z. D. Wang*, and S.-L. Zhu*, Sci. China-Phys. 59, 660301 (2016).　　[2] Z.-Y. Xue*, L.-N. Yang, and J. Zhou*, Appl. Phys. Lett. 107, 023102 (2015).　　[1] J. Zhou, Y. Hu, Z.-Q. Yin, Z. D. Wang, S.-L. Zhu*, and Z.-Y. Xue*, Sci. Rep. 4, 6237(2014).
+2015.06-2017.06：《Scientific Reports》编委（Editorial Board Member）
+第一学期：本科生《量子力学》；第二学期：研究生《量子信息论》
+2013年, 2013.01-2017.08，子课题负责人，国家重大研发计划项目：基于自旋量子调控的固态量子计算研究2011年, 2011.01-2013.12，主持国家自然科学基金青年项目：几何与拓扑相位及其在容错量子计算中的应用科研项目,2010年, 2010.10-2012.10，主持广东省自然科学基金博士启动项目：拓扑量子计算及其在固态系统中的物理实现
+       

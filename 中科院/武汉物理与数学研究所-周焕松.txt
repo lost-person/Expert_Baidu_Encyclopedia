@@ -1,0 +1,73 @@
+男，博士，研究员，1986年应用数学系毕业，1992年于武汉研究所获理学硕士学位。1997年获联邦理工大学()理学博士学位。在及其相关的物理问题的研究方面获得了系列新结果，并在国际期刊物
+上得到发表。其研究结果被30多个国家和地区的200余位作者发表在60余种刊物上的论文他引300余次。作为主要成员先后获得过中科院自然科学二等奖以及湖北省奖二等奖等多项省部级奖项。主持过多项项目。现任暨数学学会副理事长，《》常务编委。
+男，博士，研究员，1986年应用数学系毕业，1992年于中国科学院武汉数学物理研究所获理学硕士学位。1997年获瑞士联邦理工大学()理学博士学位。在及其相关的物理问题的研究方面获得了系列新结果，并在国际期刊物
+上得到发表。其研究结果被30多个国家和地区的200余位作者发表在60余种刊物上的论文他引300余次。作为主要成员先后获得过自然科学二等奖以及自然科学奖二等奖等多项省部级奖项。主持过多项项目。现任暨武汉数学学会副理事长，《》常务编委。
+非线性
+20多名中学生通过半年努力完成了一份n=200的表，并找出了其中的规律，总结出《偶阶最新的简明构造方法》。
+他们的成果得到有关专家的肯定，武汉物理与数学研究所的博士后和周焕松研究员认为“和已有的文献相比，他们给出的方法更加简明有效。”
+一场“”活动在社区搞起促销，居民纷纷掏腰包，事后发现买的产品有质量问题，想退又找不着卖家。社区一些居民有点郁闷。
+博导周焕松表示，这些方法只是某些计算中的特例，原本就是“小学”中的方法。学数学侧重的是逻辑分析，培养的是一个人的思维能力，并不是单纯的计算能力。家长不应盲从。
+在频标楼一楼报告厅举行闭营仪式，2014年大学生落幕。物数所所长、研究生部主任李涓出席了仪式。
+研究员、研究员、研究员、周焕松研究员给大家做了分学科报告，随后营员们分组参观了实验室。
+“武汉研讨会”2012年第六次会议在武汉物理与数学研究所波谱楼四楼会议室召开，来自、、物理与数学研究所、、等单位的领域的专家教授及研究生共60多名代表参加了此次研讨会。
+研讨会由物数所周焕松研究员主持，参会人员积极提问交流，充分探讨当前领域的热点前沿问题。这次作报告的几位学者既有杰青教授，也有青年研究者，不仅让大家领略到了专家的学术风采，也给年轻学者提供了很好的展示和交流平台，使大家获益良多，研讨会取得了圆满的成功。
+为进一步凝练学科目标、强化传统优势、开拓前沿交叉特色课题，有效提高数学学科的核心竞争力，物理与数学研究所数学物理研究室
+召开了学科发展研讨会。所长、所长助理等应邀参加了研讨会。数学物理研究室主任周焕松研究员主持会议。
+Zhengping Wang and Huan-Song Zhou,Ground state for semilinear  equation with sign-changing and vanishing potential，J.Math. Phys. 52(2011), 113704
+Y.S.Jiang, Huan-Song Zhou, - system with steep potential well, J. Differential Equations, 251 (2011), 582-608.
+C.A.Stuart & Huan-Song Zhou, Existence of guided cylindrical TM-modes in an inhomogeneous self-focusing dielectric, Mathematical Models & Methods in Applied Sciences, 20(2010)9, 1681-1719.
+Yongsheng Jiang & Huan-Song Zhou, A sharp decay estimate for nonlinear  equations with vanishing potentials, Comm. Pure & Applied Analysis, 9(2010)6, 1723-1730.
+Zhengping Wang, Huan-Song Zhou,Positive solution for nonlinear Schrödinger equation with deepening potential well, J. European Math. Soc.,11(2009), 545-573.
+
+Zhengping Wang, Huan-Song Zhou,Positive solutions for a nonhomogeneous elliptic equation on RN without (AR) condition, J. Math. Analysis & Applications,353(2009), 470-479.
+
+Chuangye Liu, Zhengping Wang, Huan-Song Zhou, Asymptotically linear Schrödinger equation with potential vanishing at infinity, J. Differential Equations, 245 (2008) 201–222.
+
+Huan-Song Zhou and Hongbo Zhu, Asymptotically linear elliptic problem on RN, The Quarterly Journal of Mathematics,59(2008), 523 – 541.
+
+Zhengping Wang, Huan-Song Zhou, Uniqueness and radial symmetry of least energy solution for a semilinear Neumann problem, Acta Mathematicae Applicatae Sinica, English Series,24(2008), 473-482.
+
+Wang, Zhengping; Zhou, Huan-Song Positive solution for a nonlinear stationary Schrödinger-Poisson system in R3.Discrete Contin. Dyn. Syst. 18 (2007), 809--816
+
+C.A. Stuart and H.S. Zhou, Global branch of solutions for nonlinear  equations with deepening potential well, Proc. London Math. Soc., 92 (2006), 655-681
+
+Axi-symmetric TE-modes in a self-focusing dielectric, SIAM Journal Math Anal., Vol.37, No.1, 218-237, 2006. (with C.A.Stuart)
+
+Positive eigenfunctions of a operator,Journal of the London Mathematical Society, 72(2005)(2), 429–441(withC.A.Stuart)
+
+Positive solution for - △pu = f(x, u) with f(x, u) growing as up-1 at infinity, Applied Mathematics Letters 17 (2004) 881-887. (with Yisheng Huang)
+
+A Dirichlet problem with asymptotically linear and changing sign nonlinearity, Resvita Matematica Complutense, 16(2003), page: 465-481. (with M.Lucia, P. Magrone)
+
+A constrained minimizing problem and its application to guided TM-modes, Calculus Variations and PDE., 16 (2003) , 335-373. (with C.A. Stuart)
+
+Dirichlet problem of p-Laplacian with nonlinear term f(x,u)∽up-1 at infinity, Morse Theory, Minimax Theory and their Applications to Nonlinear PDE, Editors : H.Brezis, S. Li , J. Liu & P.H. Rabinowitz, International Press 2003, 77-89. (with G.B. Li)
+
+Solutions to semilinear elliptic problems with combined nonlinearities, J. Differential Equations, 185(2002), 200-224. (with S.J. Li and S.P. Wu)
+
+Mutiple solutions to p-Laplacian problem with asymptotic nonlinearity as up-1 at infinity, Journalof The London Math. Soc., (2002)65, 123-138.(with G.B. Li)
+
+An application of a Mountain Pass Theorem, Acta Math. Sinica, 18(2002), 27-36.
+
+A Neumann problem in exterior domain, Manuscripta Math. 106 (2001) 1, 63-74. (with D.M. Cao, M. Lucia)
+Existence of guided cylindrical TM-modes in a homogeneous self-focusing dielectric, Annales de l'Institut Henri Poincare Analyse Non Lineaire, 18(2001), 69-96. (with C.A. Stuart)
+
+The existence of a positive solution to asymptotically linear scalar field equations, Proc. Royal Soc. Edinburgh, Ser. A., 130A(2000), 81-105. (with G.B Li)
+
+Solutions for a quasilinear elliptic equation with critical Sobolev exponent and perturbations on RN, Differential and Integral Equations, 13(2000), 595-612.
+
+Applying the Mountain Pass Theorem to Asymptotically Linear Elliptic Equations on RN, Comm. in P.D.E., 24(1999), 1731-1758. (with C.A. Stuart)
+
+Positive solution to p-Laplacian type scalar field equation in RN with nonlinearity asymptotic to up-1 at infinity,Proc. Second International Conference on Nonli. Anal., 1999, Nankai, Eds K.C.Chang & Y.M.Long. (with G.B. Li and L.N. Wu)
+
+Positive solution for a semilinear elliptic equation which is almost linear at infinity, ZAMP, 49 (1998), 896-906. 
+
+Multiple positive solutions of nonhomogeneous semilinear elliptic equation in RN, Proc. Royal Soc. Edinburgh, Section A, 126A(1996), 443-463. (with D.M. Cao) 
+
+On the existence and LP(RN) bifurcation for semilinear elliptic equation, J. Math. Anal. Applica., 154(1991), 116-133. (with Y.B. Deng & X.P. Zhu)
+
+Existence of multiple positive solutions of inhomogeneous semilinear elliptic problems in unbounded domains, Proc. Royal Soc. Edinburgh, Sec. A, 115A(1990), 301-318. (with X.P. Zhu)
+
+Bifurcation from the essential spectrum of superlinear elliptic equations, Applicable Analysis, 28(1988), 51-66. (with Zhu Xi-Ping)
+
+华中科技大学中国科学院数学物理瑞士EPFL非线性椭圆型方程 SCI自然科学国家自然科学基金湖北省武汉数学物理学报 华中科技大学EPFL非线性椭圆型方程 SCI中科院湖北省国家自然科学基金湖北省数学物理学报 椭圆型偏微分方程 同心幻方同心幻方 中科院中科院王征平 快乐教学法花园山 中国科学院奥数 中国科学院武汉物理与数学研究所夏令营夏令营武汉刘买利 高克林严宗朝雷皓 偏微分方程武汉大学华中师范大学武汉华中科技大学中南民族大学偏微分方程 武汉偏微分方程 武汉 刘买利王振 Schrodinger SchrodingerPoisson  Schrodinger       Schrodinger  Schrodinger                  

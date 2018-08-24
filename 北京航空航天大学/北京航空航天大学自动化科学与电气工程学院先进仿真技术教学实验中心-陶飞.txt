@@ -1,0 +1,69 @@
+陶飞，男，1981年生，北京航空航天大学教授
+、博士生导师
+、北京航空航天大学高新技术办公室主任
+。2007-2009年在美国University of Michigan-Dearborn从事先进制造技术和信息化方向研究学者/博士后研究工作
+，2009年回国直评为北航副教授
+，2011年遴选为博导
+，2013年破格评为教授
+。主要研究方向为面向服务的智能制造、制造服务管理与优化、云计算/物联网/大数据在制造中的应用、数字孪生、绿色可持续制造、基于FPGA和SoC的可重构测试技术、智能决策与优化理论、复杂系统建模/仿真等
+。近年来独立主持国家自然科学基金
+、国家科技支撑计划
+、国家科技部创新方法专项课题
+、国家重点研发计划课题
+、北京市自然科学基金
+、北京市智能制造专项培育计划课题
+、北京市重大科技研发计划课题等国家和省部级课题20余项
+。第一作者出版学术专著3部（Springer和Wiley出版社英文各1部）
+、合著1部
+，申请专利34项（已授权10项）
+，发表高水平论文70余篇
+，其中SCI检索50余篇
+。先后入选“国家自然科学基金优秀青年基金”
+、“教育部首批青年长江学者”
+、 “国家万人计划-青年拔尖人才”
+、第十四届中国青年科技奖
+、第十九届茅以升北京青年科技奖
+、北京市科技新星
+、北京市青年英才
+，IEEE工业电子学会颁布的Most Cited TII 2008 Papers
+、中国百篇最具影响国内学术论文奖
+。2007年~2009年 美国密歇根大学（Dearborn）研究学者/博士后
+2009-03~2013-08 北京航空航天大学自动化科学与电气工程学院 副教授
+2011-10~至今 北京航空航天大学自动化科学与电气工程学院 博士生导师
+2012-12~2015-01 北京航空航天大学自动化科学与电气工程学院 院长助理
+2013-08~至今 北京航空航天大学自动化科学与电气工程学院 教授
+2015-01~2018-06 北京航空航天大学自动化科学与电气工程学院 副院长2018-06~至今 北京航空航天大学高新技术办公室主任
+现任Int. J. Service and Computing Oriented Manufacturing (IJSCOM)国际期刊创刊主编
+、国际生产工程学会（CIRP）青年会员
+、中国系统仿真学会副秘书长。第24届、25届、26届、27届、28届欧洲建模与仿真大会云制造Workshop Chair.
+第一作者出版学术专著3部（Springer和Wiley出版社英文各1部）
+、合著1部
+；在CIRP Annals, IEEE/ASME/SCS Transactions等国际期刊上发表论文70余篇
+，其中SCI论文50余篇，SCI引用2000余次
+，Google scholar引用8000余次
+；9篇论文入选ESI高被引用论文，相关论文入选IEEE工业电子学会颁布的Most Cited TII 2008 Paper
+s、中国百篇最具影响国内学术论文
+；在国内外学术会议上受邀作大会报告/特邀报告10余次
+。获发明专利授权10项
+、受理24项
+，获授权软件著作登记版权10项
+。[1] ：Digital Twin Towards Smart Manufacturing, The 15th IEEE International Conference on Networking, Sensing and Control，2018.3.28-2018.3.29，Zhuhai
+[2] ：Digital twin technology towards smart manufacturing, The 24th International Conference on Industrial Engineering and Engineering Management (IE&EM 2018），2018.5.19-2018.5.21，Changsha
+[3] ：智能制造服务供需匹配与调度，2016年全国排序论与组合最优化学术会议，2016年4月23日，中国-西安
+[4] Service-Oriented Intelligent Manufacturing System（面向服务的智能制造）， International Forum of IoT and Applications: Application of IoT, 2015.11.26 -2015.11.27, Wuhan
+[5] 面向智能制造的数字孪生技术及实践，第二届全国智能制造（中国制造2025）创新创业大赛-全国总决赛，2017.12.11-2017.12.13，中国-北京
+[6] 数字孪生及在智能生产中的应用探索，2017年中国科协第339次青年科学家论坛（智能制造），2017.12.16-2017.12.17，中国-北京
+[7] 基于超网络的智能制造服务供需匹配技术与仿真器设计，2015年中国科协第292次青年科学家论坛，2015.11.9-2015.11.10，中国-北京
+[8] 数字孪生与智能制造信息物理融合，中国科学院科学前沿技术论坛（第76次）-软件定义的制造，2018年6月1日，中国-北京
+[9] A Hybrid Group Leader Algorithm for Green Material Selection with Energy Consideration in Product Design, the 66th CIRP General Assembly (第66届CIRP 学术年会及会员大会)， 2016年8月21日-2016年8月27日，葡萄牙-里斯本
+[10] A Quantum Multi-agent Evolutionary Algorithm for Selection of Partners in a Virtual Enterprise, the 60th CIRP General Assembly (第60届CIRP学术年会暨会员大会)，2010年8月22日-2010年8月30日，意大利-比萨
+[1] 陶飞, 张萌, 程江峰, 戚庆林. 数字孪生车间:一种未来车间运行新模式 [J]. 计算机集成制造系统, 2017, 23(1): 1-1611.
+[2] 陶飞, 程颖, 程江峰, 张萌, 徐文君, 戚庆林. 数字孪生车间信息物理融合理论与技术[J]. 计算机集成制造系统, 2017, 23(8): 1603-1611.
+[3] 陶飞※, 刘蔚然, 刘检华, 刘晓军, 刘强, 屈挺, 胡天亮, 张执南, 向峰, 徐文君, 王军强, 张映锋, 刘振宇, 李浩, 程江峰, 戚庆林, 张萌, 张贺, 隋芳媛, 何立荣, 易旺民, 程辉. 数字孪生及其应用探索[J]. 计算机集成制造系统, 2018, 24(1): 1-18.
+[4] F Tao, M Zhang, Y Liu, A Nee. Digital twin driven prognostics and health management for complex equipment [J]. CIRP Annals - Manufacturing Technology, 2018, DOI: 10.1016/j.cirp.2018.04.055
+[5] F Tao, J Cheng, Q Qi, M Zhang, H Zhang, F Sui. Digital twin-driven product design, manufacturing and service with big data [J]. The International Journal of Advanced Manufacturing Technology, 2018, 94(9-12): 3563-3576.
+[6] F Tao*, et al. Digital twin-driven product design framework [J]. International Journal of Production Research, 2018, DOI: 10.1080/00207543.2018.1443229
+[1] Fei Tao(陶飞), Lin Zhang, Yuanjun Laili. Configurable Intelligent Optimization Algorithms: Design and Practice in Manufacturing [M], Springer, 2015, ISBN: 978-3-319-08839-6, 350 Pages, 300000 Words.
+[2] Fei Tao(陶飞), Lin Zhang, Yefa Hu. Resource Services Management in Manufacturing Grid System [M]. Wiley, 2012, ISBN:978-1-118-12231-0, 550 Pages, 400000 Words.
+[3] 陶飞, 胡业发, 张霖. 制造网格资源服务优化配置理论与方法 [M]. 机械工业出版社, 2010, ISBN: 978-7-111-30313-8, 共239页, 393000字.
+                                                                    

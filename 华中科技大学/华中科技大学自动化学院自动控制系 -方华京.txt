@@ -1,0 +1,22 @@
+方华京，男，1955年生，浙江黄岩人。华中科技大学自动化学院教授，博士生导师。
+1982、1984和1991年在华中理工大学获工业自动化专业学士、硕士、博士学位，现为控制科学与工程系教授、博士生导师，控制理论研究所所长，非线性与复杂系统研究中心副主任。1998年批准为湖北省高校跨世纪学科带头人兼任副编辑。《控制理论与应用》杂志编辑委员会委员，技术过程的故障诊断与安全性专业委员会委员，中国自动化学会教育工作委员会委员，高级会员，湖北省委员会委员，湖北省知识分子联谊会理事等。
+《自动控制原理》、《鲁棒控制理论基础》、《自适应控制》、《控制与管理一体化》等课程。
+网络化系统分析与综合、控制系统安全性与故障诊断、鲁棒与容错控制、不确定对抗环境中多机器人协同控制理论等。
+研究成果长期从事自动控制领域的基础性研究和教学工作，作为项目负责人承担并完成多项国家自然科学基金、教育部博士点基金、基金、湖北省自然科学基金项目的研究工作。在《自动化学报》、《控制理论与应用》、《控制与决策》、《IEEE Transaction on Automatic Control》等国内外权威和重要期刊上发表学术论文70余篇。
+主要科研项目1．重点项目：基于数据的复杂工程系统故障预测与健康管理；2． 面上项目：复杂网络化控制系统的故障诊断与安全性；3．面上项目：网络化群体系统的可扩展协调控制。
+发表论文[01] Yong Zhang, Huajing Fang， Stabilization of nonlinear networked systems with sensor random packet dropout and time-varying delay，Applied Mathematical Modelling, 35 (2011) 2253–2264.
+[02] Yong Zhang，Huajing Fanga，Tianyu Jianga，Fault detection for nonlinear networked control systems with stochastic interval delay characterisation，International Journal of Systems Science,, First published on: 04 January 2011 (iFirst).
+[03] Tahoun, A. H. and Fang, Hua-Jing(2010),Adaptive stabilisation of networked control systems tolerant,to unknown actuator failures, International Journal of Systems Science, First published on: 30 April 2010 (iFirst).
+[04] Zhang, Yong and Fang, Huajing,Robust fault detection filter design for networked control systems with delay distribution characterisation, International Journal of Systems Science,, First published on: 17 November 2010 (iFirst).
+[05] Wu, Zhihai and Fang, Huajing(2010) 'Delayed-state-derivative feedback for improving consensus performance of second-order delayed multi-agent systems', International Journal of Systems Science,, First published on: 08 September 2010 (iFirst).
+[06] Bo Yang，Huajing Fang，Hua Wang，Second-order consensus in networks of dynamic agents with communication time-delays，Journal of Systems Engineering and Electronics, 2010，21(1), 88-94.
+[07] Zhang, Aiqing, Fang, Huajing,Robust H-infinity fuzzy control for uncertain Markovian jump nonlinear singular systems with wiener process ,Journal of Control Theory and Applications, 2010,8(2),205-210.
+[08] Bo Yang, Huajing Fang，Forced consensus in networks of double integrator systems with delayed input，Automatica, Volume 46, Issue 3, March 2010, Pages 629-632.
+[09] Fang Yang, Huajing Fang, Control structure design of networked control systems based on maximum allowable delay bounds,Journal of the Franklin Institute, 2009, 346(6),626-635.
+[10] Changlin Ma, Huajing Fang，Research on stochastic control of networked control systems，Communications in Nonlinear Science and Numerical Simulation, 2009，14（2），500-507 .
+[11] Zhang Aiqing, Fang Huajing，Robust reliable guaranteed cost control for nonlinear singular stochastic systems with time delay，Journal of Systems Engineering and Electronics,2008，19（4），791-798.
+[12] Huo Zhihong, Zhang zhirue and Fang Huajing, Research on fault-tolerant control of networked control systems based on information scheduling,Journal of Systems Engineering and Electronics, 2008,19(5),1024-1028.
+[13] Wu Zhi-Hai, Fang Hua-Jing, Cascading Failures of Complex Networks Based on Two-Step Degree, Chinese Physics Letters, 2008, 25(10), 3822-3825.
+[14] Huajing Fang，Hao Ye and Maiying Zhong, Fault diagnosis of networked control systems, Annual Reviews in Control, 2007, 31(1) 55-68.
+[15] Changlin Ma and Huajing Fang, Research on mean square exponential stability of networked control systems with multi-step delay , Applied Mathematical Modelling, Volume 30, Issue 9, September 2006, 941-950.
+ 中国自动化学会中国电子学会中国人民政治协商会议   教育部重点实验室 国家自然科学基金国家自然科学基金国家自然科学基金                

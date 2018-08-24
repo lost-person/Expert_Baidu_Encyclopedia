@@ -1,0 +1,2 @@
+淮晓永 男 硕导 软件研究所通信地址：海淀区中关村南四街4号1998-06--2001-06 中科院等离子体物理研究所 获工学博士学位1995-09--1998-05 太原理工大学 获工学硕士学位1991-09--1995-07 太原工业大学 获学士学位2003-07--今 中科院软件所 任职2001-07--2003-07 中科院软件所 博士后（1） 基于语义的中文文本关键词提取算法，Semantic-based Keyword Extraction Algorithm for Chinese Text，计算机工程，2012，第2作者（2） 一种开放混合实时系统的开放自适应调度算法，An Open Adaptive Scheduling Algorithm for Open Hybrid Real-time Systems，软件学报，2004，第1作者（1） 海云数据操作系统DataOS，参与，院级级
+ 

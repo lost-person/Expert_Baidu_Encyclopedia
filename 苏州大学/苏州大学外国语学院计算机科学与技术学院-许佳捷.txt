@@ -1,0 +1,3 @@
+许佳捷，男，1983年生，博士，副教授，硕士生导师。2011年6月于澳大利亚Swinburne University of Technology获得博士学位，2011年6月至2013年7月就职于中国科学院软件研究所（助理研究员），并于2013年7月入职。
+目前主要从事时空数据库、海量数据分析、移动计算、工作流等领域的研究工作，参与自然科学基金重点、先导科技专项、863等大型科研项目的研发。在Neurocomputing、CCPE、J of Supercomputing、J of Computing等重要国际期刊与知名国际会议上发表论文近20篇，并担任IEEE TKDE、IJGIS、Geoinformatica、JCST等多个重要学术期刊的特邀审稿人。
+苏州大学  

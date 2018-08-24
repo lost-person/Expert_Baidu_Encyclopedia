@@ -1,0 +1,35 @@
+王亚东
+，男，教授，博士生导师；哈尔滨工业大学计算机科学与技术学院院长，软件学院院长；国务院学位委员会学科评议组成员，国家863计划生物和医药领域委员会专家，国家863计划生物信息技术主题专家；国家科技重点专项生物安全计划专家组专家；黑龙江省政协常委。主要研究生物信息学、人工智能、知识工程、机器学习等。具体包括：基因组数据分析算法、数据可视化、知识挖掘与整合、网络分析、生物医药领域搜索等。2001年，王亚东教授在我国率先开展生物信息学的研究，成为我国第一批生物信息学专家；近十五年来，推动了我国863计划一系列生物信息技术重大研究计划的论证、规划与实施工作；作为我国生物信息学领域的资深专家，有力地推动了我国生物信息技术的发展，并为我国基因组科学、计算机科学等相关领域的发展做出了重要贡献。
+王亚东
+，教授，博士生导师；院长，软件学院院长；国务院学位委员会学科评议组成员，国家863计划生物和医药领域委员会专家，国家863计划生物信息技术主题专家；国家科技重点专项生物安全计划专家组专家；黑龙江省政协常委。
+国务院学位委员会学科评议组成员曾任国家863计划生物和医药领域委员会专家（2006-2011）曾任国家863计划生物信息技术主题专家（2001-2006）国家科技重点专项生物安全计划专家组专家；中国人类遗传资源管理条例起草组专家中国卫生信息学会生物大数据专委会主任理事《》期刊编委国家“863”计划重大项目“生物大数据开发与利用关键技术研究”首席科学家（2015-2017）国家“863”计划重大项目“数字化医疗工程”首席科学家（2011-2015）2016年IEEE生物信息学和生物医学国际会议主席（2016 IEEE International Conference on Bioinformatics and Biomedicine Conference Chair）2014年IEEE生物信息学和生物医学国际会议共同主席（2014 IEEE International Conference on Bioinformatics and Biomedicine Conference Co-Chair and Program Co-Chair）黑龙江省生物医学信息技术与系统工程研究中心主任哈工大-韩国SK生物医学信息技术联合实验室主任
+1982.09-1986.03 黑龙江大学计算机科学与工程系获理学学士学位1986.09-1989.03 哈尔滨工业大学计算机科学与技术系获硕士学位
+1989.03-1991.11 哈工大计算机科学与技术系 助教1991.12-1996.06 哈工大计算机科学与技术系 讲师1996.07-2001.04 哈工大计算机科学与技术系 副教授2001.05-至今 哈工大计算机科学与技术学院 教授2005.06-至今 哈工大计算机科学与技术学院 博士生导师2001.08-2001.12 哈工大计算机科学与技术学院 院长助理2001.12-2010.11 哈工大计算机科学与技术学院 副院长2011.01-2014.09 哈工大计算机科学与技术学院 院长
+2014.09-至今 哈工大计算机科学与技术学院院长、软件学院院长
+主要研究、人工智能、、机器学习等。具体包括：基因组数据分析算法、数据可视化、知识挖掘与整合、网络分析、生物医药领域搜索等。
+2001年，王亚东教授在我国率先开展生物信息学的研究，成为我国第一批生物信息学专家；近十五年来，推动了我国863计划一系列生物信息技术重大研究计划的论证、规划与实施工作；作为我国生物信息学领域的资深专家，有力地推动了我国生物信息技术的发展，并为我国基因组科学、计算机科学等相关领域的发展做出了重要贡献。
+王亚东教授主持完成国家科技重大工程、国家863计划项目、国家自然科学基金、国际合作项目等20余项；获国家科技进步二等奖1项、省科技进步二等奖1项、省自然科学二等奖2项；国家863计划重大项目“数字化医疗工程”（2011-2015）、“生物大数据开发与利用” （2015-2017）首席科学家。
+承担的项目有：生物大数据表述索引、搜索与存储访问技术，国家863计划重大项目，2015.01-2017.12生物数字资源集成和信息服务关键技术研发, 国家863计划项目，2014.01-2016.12医疗物联网关键技术研究与设备开发及验证, 国家科技重大专项，2013.01-2015.12医疗信息集成融合技术与系统开发, 国家863计划项目，2011.01-2015.12个人健康信息获取与管理技术研究，国家863计划项目，2012.01-2015.12转化生物信息学重大产品研制，国家863计划项目，2012.01-2014.12哈尔滨工业大学-爱思开医疗信息技术联合研究实验室，国际合作项目，2011.01-2014.12基于新一代测序数据的基因组拼接组装算法研究 ，国家自然科学基金，2011.01-2015.12基于个体基因组单核苷酸突变的等位基因转录调控模型研究，国家自然科学基金，2014.01-2017.12基于多参考基因组的高通量测序片段映射方法研究，国家自然科学基金，2014.01-2016.12基于生物数据融合的致病microRNA识别方法研究，国家自然科学基金，2012.01-2014.12人类复杂疾病相关的非编码区调控性单核苷酸变异预测研究，国家自然科学基金，2014.01-2016.12
+1. 全球首创个人基因组浏览器Personal Genome Browser（PGB）
+
+哈工大生物信息学研究团队研发了全球首创的个人基因组浏览器（PGB）。用户使用该系统可简洁、直观的浏览自己的个人基因组，实现认知自己基因组的梦想。该系统为世界提供了首个个人基因组数据可视化框架；同时，其集成了数十个基因型-健康表型知识库，提供基于个人基因组的健康风险预测，成为个性化健康的支撑平台。2. 全球首创家系基因组浏览器（FGB，Family Genome Browser）
+
+在个人基因组浏览器基础上，哈工大生物信息学研究团队研发了世界首个家系基因组浏览器（FGB）。用户使用该系统可同时浏览一个家族的基因组；该系统提供了基因组变异分析、基因组全新变异（de novo mutation）检测、基因组重组识别等基因组分析工具。3. 基于图索引的高通量测序片段比对算法deBGA
+
+哈工大生物信息学研究团队研发了基于图索引的高通量测序片段比对算法deBGA。该算法创新性地建立了基因组的图结构组织和索引，并在此基础上设计实现了基于基因组图索引测序片段快速比对方法。该算法利用基因组图索引，有效地解决了大量测序片段向大量参考基因组比对的难题，并大幅降低了测序片段比对的时间代价，使高通量测序片段比对的速度相较于当前主流算法提升了数十倍。4. 面向海量基因组序列的索引算法deBWT
+
+哈工大生物信息技术团队研发了针对海量基因组数据的BWT索引建立算法deBWT。该算法采用基于de Bruijn图分支路径的创新性数据结构，有效解决了BWT索引建立过程中长重复后缀（suffix with long common prefix）的比较问题，并突破了基于增量策略（incremental approach）的BWT索引构建算法难以并行化的瓶颈，形成了高速、高度可并行化的BWT索引构建算法与系统。生物信息学导论（本科生课程）知识工程（研究生课程）在《》(SCI,IF 5.766)、《》(SCI,IF 9.202)、《BMC Bioinformatics》(SCI,IF 2.435)、《Human Mutation》(SCI,IF 5.089)、《BMC Genomics》(SCI,IF 4.40)等国际著名期刊发表论文150余篇。
+
+Teng Mingxiang et al. . regSNPs: a strategy for prioritizing regulatory single nucleotide substitutions. . 2012
+Liu B, Guo H,  BrudnoM, . deBGA: read  alignment with de Bruijn Graph-based seed and extension. ,  2017
+Liu B, Jiang T, Yiu  SM, Li J, . rMFilter:  acceleration of long read-based structure variation calling by chimeric  read filtering. . 2017
+Liu B, Gao Y, . LAMSA: fast split read  alignment with long approximate matches. . 2017
+Liu B, Zhu D, . deBWT: parallel  construction of Burrows-Wheeler Transform for large collection of genomes  with de Bruijn-branch encoding. , 2016
+Liu B, Guan D, . rHAT: fast alignment of  noisy long reads with regional hashing. , 2016,32(11):1625-1631
+Yongzhuang Liu,  Jian Liu, Jianguo Lu, Jiajie Peng, Liran Juan, Xiaolin Zhu, Bingshan Li, . Joint detection of copy  number variations in parent-offspring trios. , 2015:  btv707.
+Jiajie Peng, Tao  Wang, Jixuan Wang, , Jin  Chen*. Extend Gene Ontology based on gene network data. 2016, Pages 1185–1194
+L Juan, Y Liu, Y  Wang, M Teng, T Zang, .  Family genome browser: visualizing genomes with pedigree information. ,  2015: btv151.
+Liu Y, Li B, Tan R,  Zhu X, . A gradient  boosting approach for filtering de novo mutations in parent-offspring  trios. . 2014 Mar 10
+Jiang Yue, , Brudno Michael. PRISM:  Pair-read informed split-read mapping for base-pair level detection of  insertion, deletion and structural variants. . 2012
+2017年5月17日，在民建黑龙江省九届一次全委会议上，选举王亚东为民建黑龙江省第九届委员会副主任委员。
+   哈尔滨工业大学计算机科学与技术学院 中国计算机学会生物信息学    生物信息学知识工程            BioinformaticsNucleic Acids Research              

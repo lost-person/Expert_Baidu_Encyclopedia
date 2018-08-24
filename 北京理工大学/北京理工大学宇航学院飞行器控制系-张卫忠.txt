@@ -1,0 +1,8 @@
+张卫忠，男，北京理工大学宇航学院发射与推进工程系讲师。
+1998年09月----2002年07月 哈尔滨工程大学 电气工程自动化专业 工学学士　　2002年08月----2005年03月 上海交通大学 控制理论与控制工程 工学硕士　　2005年08月----2009年12月 美国路易斯维尔大学 电气与计算机工程系 哲学博士
+2010年07月至今 北京理工大学 宇航学院 讲师　　2010年01月-2010年06月 美国路易斯维尔大学 电气与计算机工程系 博士后　　2004年11月-2005年07月 Emerson（西屋）电气公司 工程师
+1. 最优控制理论与应用　　2. 无人飞行器的导航制导与控制
+1. IEEE会员；2.北京理工大学学报英文版兼职编辑
+指导研究生4名。主要讲授课程：　　1. 本科生《计算机控制原理》《自适应控制及应用》；　　2. 博士生《鲁棒与自适应控制》；
+1, Dan Wang, Weizhong Zhang, Jiayuan Shan，A Multi-Phase DMOC-based Optimal Trajectory Generation Methodology for a Quadrotor,2014 Chinese Control Conference,2014　　2, Jiawei Zhang; Weizhong Zhang; Jiayuan Shan，“A new DMOC-based approach to solve Goddard rocket problem”，2012 IEEE International Conference on Mechatronics and Automation (ICMA), 5-8 Aug. 2012, Chengdu, China　　3, Jiawei Zhang; Weizhong Zhang; Jiayuan Shan，“DMOC approach to solve Goddard rocket problem in comparison with RPM.” Proceedings of the 32nd Chinese Control Conference (CCC), 2185-9, 2013; Conference: 2013 32nd Chinese Control Conference (CCC), 26-28 July 2013, Xi'an, China　　4, Dan Wang, Weizhong Zhang and Jiayuan Shan. “Optimal Trajectory Planning for a Quadrotor via a Gauss Pseudo-spectrum Method.” 2013 9th International Conference on Natural Computation (ICNC 2013), pp.1655-1659, 2013.
+       

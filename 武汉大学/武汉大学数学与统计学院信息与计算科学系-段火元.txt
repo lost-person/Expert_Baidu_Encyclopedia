@@ -1,0 +1,2 @@
+段火元，男，武汉大学数学与统计学院教授教授、博士生导师，曾任职于南开大学数学科学学院。段火元，男，武汉大学数学与统计学院教授教授、博士生导师。研究兴趣：偏微分方程数值解、有限元方法、多重网格算法、自适应算法、预处理迭代算法；随机微分方程的数值方法及应用；图像处理的数值方法；反问题数值方法。在国内外学术期刊发表学术论文近50篇，包括国际著名期刊如SIAM Journal On Numerical Analysis，Mathematics of Computation，Numerische Mathematik，Computer Methods in Applied Mechanics and Engineering，Journal of Computational Physics，IMA Journal of Numerical Analysis 等。
+ 

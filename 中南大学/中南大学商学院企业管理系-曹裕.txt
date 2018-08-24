@@ -1,0 +1,61 @@
+曹裕，商学院企业管理系教授，博士生导师
+，管理学博士。共青团中南大学委员会副书记
+，中国应急管理学会校园安全专业委员会副秘书长、湖南省青年科技协会常务理事、人文社会学科副主任、中国应急管理学会公共安全标准化委员会委员、瞭望智库特约研究员等
+。获教育部首批学术新人奖，获评湖南省优秀博士论文，获湖湘青年英才、湖南省青年骨干教师、中南大学升华育英等人才支持计划。在Expert Systems with Applications、China Economic Review、《管理世界》、《管理科学学报》、《系统工程理论与实践》等国内外主流学术期刊发表论文60余篇，其中SCI/SSCI论文12篇（ESI收录7篇），CSSCI/CSCD论文50余篇。主持国家自然科学基金面上项目（30岁）、国家自然科学基金青年项目（25岁）、国务院研究室委托课题、教育部人文社科基金青年项目、湖南省社会科学成果评审委员会重大课题、湖南省自然科学基金重点项目等科研项目24项。出版专著2本，教材5本，其中专著《复杂环境下我国企业财务困境模式及预警研究——基于企业生命周期的视角》被湖南省社会科学成果鉴定为省内领先。
+担任中国应急管理学会校园安全专业委员会副秘书长、湖南省青年科技协会常务理事、人文社会学科副主任、中国应急管理学会公共安全标准化委员会委员、瞭望智库特约研究员等职务。同时担任European Journal of Operational Research、Expert Systems with Application、International journal of Production Research、《管理科学学报》、《系统工程理论与实践》、《中国管理科学》等多个国内外重要学术期刊审稿专家。
+在《光明日报》（理论版）、光明网理论频道（顶置）、新华社瞭望智库上发表理论文章各1篇，在新华网发表理论文章2篇，并被新浪财经、凤凰网、中青网等33家主流媒体全文转载。在国务院研究室内参、《民进信息》内参上发表理论文章各1篇。并多次获得国家级、省部级重要领导批示，其中，获得时任国务院总理温家宝同志批示1份，时任全国人大常委会副委员长、全国妇联主席、中国红十字会会长彭佩云同志批示1份，国务院研究室主任黄守宏同志批示3份，湖南省人大常委会副主任李友志同志批示1份，湖南省政协副主席张大方同志批示1份。
+获教育部首批学术新人奖，获评湖南省优秀博士论文，获湖湘青年英才、湖南省青年骨干教师、中南大学升华育英等人才支持计划。
+[1] 国家自然科学基金面上项目，“基于博弈论视角的我国食品行业监管模型与机制创新研究”(编号：71573281)，2016-2019年，项目负责人。
+[2] 国家自然科学基金青年基金，“复杂环境下我国企业财务困境形成机制及预警研究—基于企业生命周期的视角”(编号：71001108)，2010-2013年，项目负责人。
+[3]国务院研究室委托课题，“农业供给侧结构性改革背景下的食品监管体系设计与研究”，2016年-2017年，项目负责人。
+[4]教育部人文社科基金青年项目，“我国中西部地区两型技术和两型产业发展路径研究”(编号：09YJC790262)，2010-2012年，项目负责人。
+[5]湖南省社会科学成果评审委员会重大课题，“大湘西地区生态文化旅游扶贫对策研究” (编号：XSP17ZDA011)，2017年-2018年，项目负责人。
+[6] 湖南省自然科学基金重点项目，“复杂环境下我国企业财务困境预警系统研究”(编号：12JJ2042)，2013-2015年，项目负责人。
+[7] 中南大学第三批创新驱动计划项目，“供给侧改革战略新形势下的食品行业社会共治机制研究”(编号：2016CX040)，2016-2017年，项目负责人。
+[1]Cao Yu. Aggregating multiple classification results using Choquet integral for financial distress early warning [J].Expert Systems with Applications, 2012, 39(2): 1830-1836. (SCI & EI)
+[2] Cao Yu. MCELCCh-FDP: Financial distress prediction with classifier ensembles based on firm life cycle and Choquet integral [J].Expert Systems with Applications, 2012, 39: 7041-7049. (SCI & EI)
+[3] Cao Yu, Chen Xiao-hong*, Wu Dash Desheng, Mo Miao. Early warning of enterprise decline in a life cycle using neural networks and rough set theory [J]. Expert Systems with Application, 2011, 38(6): 6424-6429. (SCI & EI)
+[4] Cao Yu, Chen Xiao-hong*. An agent-based simulation model of enterprises financial distress for the enterprise of different life cycle stage [J]. Simulation Modelling Practice and Theory, 2012, 20(1): 70-88. (SCI & EI)
+[5] Chen Xiao-hong, Cao Yu*, Wang Fu-qiang. A life cycle analysis of Hunan's enterprises and their determinants [J].China Economic Review, 2010, 21(3): 470-481. (SSCI)
+[6] Cao Yu, Xiong Shou-yao*. A sustainable financing credit rating model for China's small and medium-sized enterprises [J]. Mathematical Problems in Engineering, 2014(2014): DOI/10.1155/2014/861085. (SCI& EI)
+[7] CaoYu*, Huang Jian-bai. The survival conditions of SMEs of Guangdong: an empirical research under the global economic crisis [J]., 2012, 6(1): 26-44. (SSCI)
+[8] Cao Yu. A survival analysis of small and medium enterprises (SMEs) in central China and their determinants [J]. African Journal of Business Management, 2012, 6(10): 3834-3850. (SSCI)
+[9] Chang Ke-chiun, Lin Chang-liang, Cao Yu*, Lu Chia-fu. Evaluating branch efficiency of a Taiwanese bank using data envelopment analysis with an undesirable factor [J]. African Journal of Business Management, 2011, 5(8): 3220-3228. (SSCI)
+[10] Cao Yu. Ownership concentration, ownership control and enterprise performance: based on the perspective of enterprise life cycle [J]. African Journal of Business Management, 2010, 4(11): 2309-2322. (SSCI)
+[11] Cao Yu, Chen Xiao-hong*. CBR-based fuzzy support vector machine for financial distress prediction [J].Journal of Testing and Evaluation, 2013, 41(5): 833-844. (SCI & EI)
+[12] Cao Yu, Wan Guang-yu*, Wang Fu-qiang. Predicting financial distress of Chinese listed companies using rough set theory and support vector machine [J].Asia-Pacific Journal of Operational Research, 2011, 28(1): 95-109. (SCI & EI)
+[13]Tan Chun-qiao, Deng He-pu, Cao Yu*. A multi-criteria group decision making procedure using interval-valued intuitionistic fuzzy sets [J]. Journal of Computational Information Systems, 2010, 6(3): 855-863. (EI)
+[14] Chen Xiao-hong, Cao Yu*, Ma Yue-ru. An empirical research on the evolution model of competitiveness between different life cycle stages in Chinese enterprises [J].Journal of Systems Science and Information, 2008, 8(4): 351-370.
+[15] Cao Yu, Chen Xiao-hong*, Ma Yue-ru. The comparative research about the evolutionary model of our national corporate competitiveness based on the judgment approach of different life cycle [C]. The 3rd conference on Risk Management & Global E-Business (RMEB 2009), 2009. (EI)
+[16] Cao Yu, Wang Fu-qiang, Ma Yue-ru*. The study of the life cycle of small and medium-sized enterprises based on external environmental perspective —empirical research which takes 5 metropolises including Shenzhen as samples [C]. The 3rd conference on Risk Management & Global E-Business (RMEB 2009), 2009. (EI)
+[17] Cao Yu, Chen Xiao-hong*. An empirical research on the evolution model of competitiveness between different life cycle stages in Chinese enterprises [C]. IEEE International Conference on Management Science and Engineering, September, 10-12, 2008 Long Beach, USA, 319-327. (EI)
+[18] Chen Xiao-hong, Cao Yu*. The research about the issues of firm survival by life table methods—An empirical research based on the samples of hunan’s firms [C]. IEEE International Conference on Management Science and Engineering, September, 10-12, 2008 Long Beach, USA, 529-540. (EI)
+[19] 曹裕, 吴堪, 熊寿遥. 基于分层MTO订单的准入策略研究[J]. 管理科学学报, 2017, 20(8): 50-62.
+[20] 曹裕, 俞传艳, 万光羽. 政府参与下食品企业监管博弈研究[J]. 系统工程理论与实践, 2017, 37(1): 140-150.
+[21] 曹裕, 李业梅, 李青松. 基于提前支付的非瞬时变质产品批量订货定价策略[J]. 控制与决策, 2018, 33(2): 301-308.
+[22] 曹裕, 李业梅, 万光羽. 基于消费者效用的生鲜农产品供应链生鲜度激励机制研究[J]. 中国管理科学, 2018(2): 160-174.
+[23] 曹裕, 余振宇, 万光羽. 新媒体环境下政府与企业在食品掺假中的演化博弈研究[J]. 中国管理科学, 2017, 25(6): 179-187.
+[24] 曹裕, 李青松, 李业梅. 技术贸易壁垒对食品企业技术选择决策影响的博弈研究[J]. 中国管理科学, 2017, 25(8): 184-196.
+[25] 曹裕, 刘子豪. 无政府激励的绿色供应链管理的可行性分析[J]. 管理工程学报, 2017, 31(2): 119-127.
+[26] 曹裕, 胡韩莉, 万光羽. 供应商掺假行为的博弈分析与机制选择[J]. 运筹与管理, 2017, 26(7): 54-63.
+[27] 曹裕, 胡韩莉, 万光羽. 碳限额与交易机制下考虑汇率波动的供应商选择与分配[J]. 系统工程理论与实践, 2016, 36(7): 1676-1686.
+[28] 曹裕. 用先进的标准体系倒逼食品行业供给侧结构性改革[N]. 光明日报, 2016-06-11(007).
+[29] 曹裕, 熊寿遥, 胡韩莉. 企业生命周期下智力资本与创新绩效关系研究[J]. 科研管理, 2016, 37(10): 69-78.
+[30] 曹裕,王子彦. 碳交易与碳税机制比较研究[J]. 财经理论与实践, 2015, 05: 97-102.
+[31] 曹裕, 孟羽, 周文辉. 合约回收制对闭环供应链影响分析[J]. 中国管理科学, 2015, 23(7): 159-165.
+[32] 周文辉, 曹裕*, 周依芳. 共识、共生与共赢：价值共创的过程模型[J]. 科研管理, 2015, 36(8):129-135.
+[33] 曹裕, 易丹, 熊寿遥. 基于TBL理论的可持续供应链评价[J]. 系统管理学报, 2014, 23(5): 668-673.
+[34] 曹裕, 胡韩莉. 创新能力、吸收能力与区域经济增长关系研究[J]. 财经理论与实践, 2014, 35(192): 123-127.
+[35] 曹裕. 产品市场竞争、控股股东倾向和公司现金股利政策[J]. 中国管理科学, 2014, 22(3): 141-148.
+[36] 曹裕, 陈晓红, 王傅强. 所有制、行业效率与转型经济下的中国企业生存[J]. 统计研究, 2012, 29(1): 74-79.
+[37] 曹裕, 陈晓红, 万光羽. 基于生命表方法的我国企业生存问题—以湖南省企业样本为例的实证研究[J]. 系统管理学报, 2011, 20(1): 84-93.
+[38] 曹裕, 陈晓红,万光羽. 控制权、现金流权与公司价值—基于企业生命周期的视角[J]. 中国管理科学, 2010, 18(3): 185-192.
+[39] 曹裕, 陈晓红, 马跃如. 基于企业生命周期的智力资本与企业绩效关系[J]. 系统工程理论与实践, 2010, 30(4): 577-586.
+[1]《网络食品安全风险研究报告2017》，科学出版社，2017年11月第一版，曹裕，万光羽著。
+[2] 《复杂环境下我国企业财务困境模式及预警研究—基于企业生命周期的视角》，清华大学出版社，2015年5月第一版，曹裕著。
+[3]《创新思维与创新管理》，清华大学出版社，2017年5月第一版，曹裕，陈劲编著。
+[4] 《企业战略管理》，清华大学出版社，2015年3月第一版，曹裕著。
+[5] 《关注企业生命周期》，经济科学出版社，2010年3月第一版，曹裕著。
+[6] 《企业战略管理》，湖南人民出版社，2010年1月第一版，曹裕，马跃如编著。
+[7] 《管理沟通》，湖南人民出版社，2010年1月第一版，马跃如，曹裕编著。
+中南大学                                                            

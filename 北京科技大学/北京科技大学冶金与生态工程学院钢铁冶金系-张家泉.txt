@@ -1,0 +1,28 @@
+张家泉，男，1963年生，籍贯安徽，教授、博士生导师。现任北京科技大学冶金与生态工程学院钢铁冶金系主任。主要研究连铸技术，凝固理论与工艺，金属热物理及高温力学测试技术，计算机数值模拟（温度/应力/流动），冶金及材料成形新技术开发，有关论文曾发表于《Metall & Mater Trans. B》、《科学通报》、《Millennium Steel》等。男，1963年生，籍贯安徽，教授、博士生导师。现任北京科技大学冶金与生态工程学院钢铁冶金系主任。1993年毕业于专业获工学博士学位。1993年至1996年获中国博士后科学基金有色总公司荣誉资助在北京科技大学冶金系和从事博士后研究。1996起北京科技大学工作。1998-2000年获德国普朗克学会奖研金作为高级访问学者赴德国钢铁协会（VDEh）冶金研究所（MPI）工作, 其间被马普所破例改聘为联邦合同研究员。现任冶金系教授，北京市优秀青年骨干教师，兼（IISI）钢大学工作组中国代表、连铸理论与新技术学术委员会副主任、连铸自动化学术委员会副主任，中国系统仿真学会青年工作委员会主席团成员。主要研究领域：技术，理论与工艺，金属热及高温力学测试技术，计算机数值模拟（温度/应力/流动），冶金及材料成形新技术开发，有关论文曾发表于《Metall & Mater Trans. B》、《科学通报》、《Millennium Steel》等。先后主讲"凝固原理与连铸工艺"、"连铸过程计算机模拟"、"钢铁冶金概论"、"反应工程学"、《金属材料》及"专业英语"。科研成果先后获省部级科技进步二等奖3项，重大科技成果奖3项，并获得《连铸二冷矫直目标温度监控与分析系统》、《连铸过程动态热跟踪与动态二冷》、《大方坯/板坯连铸动态轻压下在线控制模型》、《小方坯结晶器连续锥度设计系统》、《合金钢淬透性快捷预测》、《金属液电脉冲孕育（组织细化）处理方法》等国家发明专利和实用软件成果近10项；获专业学会各类优秀论文奖10项。《连铸工艺与设备》、《金属材料及热处理》、《钢铁是这样炼成的》(新生研讨课)等。
+《冶金工程科学前沿讲座（连铸）》、《铸坯质量与控制典型案例》、《专业英语阅读与写作》等。
+主要研究方向为高效、优质连铸以及铸轧一体化过程中所涉及的流体动力学、传热学、高温力学、凝固理论、金属学以及冶金工艺学问题。主要包括：
+1）连铸工艺与铸坯质量控制；
+2）大型钢锭质量与钢锭模工艺技术；3）特殊钢（微合金、低合金高强度、高合金强韧性钢等）凝固热特性、浇铸工艺与组织性能控制研究；
+4）浇铸与凝固过程数值模拟研究等。
+社会职务：  1）国际钢铁协会钢大学工作组常委；2）国际钢铁协会教育与培训委员会委员；3）中国金属学会连铸控制技术委员会副主任委员；4）中组部院士专家科技咨询服务团成员；5）河北省连铸结晶器工程技术中心（筹）技术委员会主任等。
+2001年至今，北京科技大学冶金学院教授；1998-2000年，德国马普学会学者奖研金资助任马普钢研所客座研究员；
+1994-1996年，北京科技大学和宝山钢铁公司冠名博士后研究员；1993年，毕业于清华大学铸造专业获博士学位。
+1）  Haibo Sun, Jiaquan Zhang. Macrosegregation improvement by swirling flow nozzle for bloom continuous casting[J]. Metall Mater Trans B. VOLUME 45B, JUNE 2014，936—946
+2）  Haibo Sun, Jiaquan Zhang. Study on the macrosegregation behavior of the bloom continuous castings: model development and validation[J]. Metall Mater Trans B. VOLUME 45B, JUNE 2014，1133-11493）  Haibo Sun, Jiaquan Zhang. Effect of actual cooling rate of ladle stream on the persistent metallurgical performance of a given tundish[J]. J Iron Steel Int. 2014,21（10）：915-922.
+4）  Lan P, Zhang J. Study on the mechanical behaviors of grey iron mould by simulation and experiment[J].Materials & Design, 2014, 53: 822.
+5）  Lan P, Zhang J. Strength, microstructure and chemistry of ingot mould grey iron after different cycles of low frequency high temperature loads[J]. Materials & Design, 2014, 54: 112.
+6）    Lan P, Zhang J. Analysis of Solidification Microstructure and Hot Ductility of Fe-Mn-C TWIP Steel[J]. Mater Sci Technol, 2014, 30(11):1297.
+7）    Yang Li, Xin Chen, Ke Liu, et al. Reasonable temperature schedules for cold or hot charging of continuously cast steel slabs[J]. Metall Mater Trans A. 2013, 44(12): 5354-5364.
+8）    Yang Li, Xiaohuan Zhang, Peng Lan, Jiaquan Zhang. Control of mould level fluctuation through the modification of steel composition. Int J Min Metall Mater. 2013, 20(2): 138-145.9）    兰鹏，张家泉. 微观组织参数及工艺条件对430 不锈钢凝固显微结构的影响[J]. 北京科技大学学报，2014, 36(4):446.10）    兰鹏，张家泉. 钢锭模用灰口铸铁服役工况下组织与力学行为研究[J]. 机械工程学报, 2014, 50(2):116.11）    兰鹏，张家泉. 灰口铸铁低频热疲劳载荷下的微观组织与拉伸性能[J]. 材料热处理学报, 2014, 34(4):149.
+12）    兰鹏，张家泉. 基于凝固数值模拟的13t 扁锭结构设计与优化[J]. 中国冶金, 2014, 24(10):22.13）    李阳，王京，兰鹏，张家泉. 合金元素对钢亚包晶转变与连铸纵裂倾向的影响[J]. 钢铁，2013, 48(12): 66-72.
+14）    Chao Chen, Guoguang Chen, Haibo Sun, Jiaquan Zhang. Effects of Salt Tracer Amount, Concentration and Kind on the Fluid Flow Behavior in a Hydrodynamic Model of Continuous Casting Tundish[J], Steel Research International, 2012, 83(12): 1141-1151.
+15）    Yunhe Chang, Ke Liu, Zhanguang Han and Jiaquan Zhang. Development and application of dynamic secondary cooling and dynamic soft reduction control for slab castings. Millennium Steel，2012.16）    Haibo Sun, Jiaquan Zhang. Effect of Feeding Modes of Molten Steel on the Mould Metallurgical Behavior for Round Bloom Casting[J]. ISIJ International. 2011, 51(10): 1657-1663.
+1）《不锈钢板坯连铸工艺研究与应用》，企业委托项目；
+2）《不锈钢大方坯连铸动态二冷技术开发与应用》，企业委托项目；3）《单辊结晶器浇铸过程热状态与冷却结构研究》，企业委托项目；4）《新型高强节能汽车用奥氏体TWIP 钢的设计与开发》，国重项目；
+5）《J55级别合金钢板坯连铸角横裂成因研究与应用》，企业委托项目6）《改善含硫非调质钢大方坯中心裂纹、碳硫偏析技术研究》,合作研究项目等。
+获奖：作为课题负责人或主要完成人，科研成果先后获得省部级科技进步一等奖1项，二等奖3项，重大科技成果奖励项目3项，行业学会优秀论文奖10余项。其中：
+1）2009年，《大方坯连铸动态轻压下技术及其成套装备》获内蒙古自治区科技进步一等奖（2008-J-005-1-01-R5），并被推荐申报国家科技进步二等奖。2）2007年，，《板坯连铸动态轻压下技术的研究开发及应用》获中国冶金科技进步二等奖（No.02CJ-01-01-01）。
+专利与软件著作权（部分）：1）    发明专利,一种板坯连铸轻压下位置的控制方法；公开号：CN1911561， 2007.02.142）    发明专利, 一种连铸坯表面目标温度监控分析方法及其装置；公开号：CN1958193, 2007.05.093）    国家软件著作权, 板坯连铸动态轻压下在线控制模型软件V1.0，国家版权局，2006SR05187，2005年4）    国家软件著作权, 大方坯连铸动态轻压下在线控制模型软件V1.0, 国家版权局，2006SR04634，2005年.5）    国家软件著作权, 连铸过程动态热跟踪与动态二冷配水控制软件V1.0, 国家版权局，2006SR04632，2006年
+6）    国家软件著作权, 铸坯矫直点表面控制温度在线采集与监测系统，国家版权局，2006SR04633, 2006年7）    国家软件著作权, 板坯连铸二冷优化配水系统，国家版权局，2006SR07396， 2006年8）    国家软件著作权, 方坯连铸二冷优化配水系统，国家版权局，2006SR07395， 2006年
+9）    国家软件著作权, 铸坯内部质量在线预报系统V1.0, 国家版权局，2008SRBJ2092，2008年10）    国家软件著作权, 大方坯连铸辊列计算机辅助设计系统V1.0，国家版权局，2009SRBJ0739，2009年11）    国家软件著作权, 圆坯连铸二冷设计系统V1.0，国家版权局：2009SRBJ2373，2009年12）    国家软件著作权, 大圆坯连铸二冷动态在线控制软件系统V1.0，国家版权局：2009SRBJ2375，2009年13）    国家软件著作权,连铸异型坯二冷配水系统V1.0，国家版权局：2009SRBJ2374，2009年。
+清华大学铸造冠名宝山钢铁公司马普国际钢铁协会中国金属学会连铸凝固物理冶金                           

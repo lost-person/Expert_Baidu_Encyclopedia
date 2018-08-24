@@ -1,0 +1,18 @@
+张大丙，男，中国农业大学教授，博士生导师。
+中国农业大学教授，博士生导师，国家水禽产业技术体系疾病防控研究室主任、流行病学与预防岗位专家,中国畜牧兽医学会禽病学分会副秘书长，从事水禽疫病的检测技术、疫苗与防制技术及水禽病原的分子生物学研究。
+1.Liu N, Wang F, Zhang D. 2014.Complete sequence of a novel duck astrovirus. Arch Virol, 159, 2823–2827.
+2.Liu N, Wang F, Shi J, Zheng L, Wang X, Zhang D. 2014. Molecular characterization of a duck hepatitis virus 3-like astrovirus. Vet Microbiol, 170, 39–47.
+3.Wang X, Liu N, Wang F, Ning K, Li Y, Zhang D. 2014. Genetic characterization of a novel duck-origin picornavirus with six 2A proteins. J Gen Virol, 95, 1289–1296.
+4.Liao Q, Zheng L, Yuan Y, Shi J, Zhang D. 2014. Genomic characterization of a novel picornavirus in Pekin ducks. Vet Microbiol, 172, 78–91.
+5.Liao Q, Wang X, Wang D, Zhang D. 2014. Complete genome sequence of a novel calicivirus from a goose. Arch Virol, 159, 2529–2531.
+6.Wang D, Shi J, Yuan Y, Zheng L, Zhang D. 2013. Complete sequence of a reovirus associated with necrotic focus formation in the liver and spleen of Muscovy ducklings. Vet Microbiol, 166, 109–122.
+7.Pan M, Yang X, Zhou L, Ge X, Guo X, Liu J, Zhang D, Yang H. 2012. Duck Hepatitis A virus possesses a distinct type IV internal ribosome entry site element of picornavirus. J Virol, 86, 1129–1144.
+8.Pan M, Yang X, Du J, Zhou L, Ge X, Guo X, Liu J, Zhang D, Yang H. 2011. Recovery of duck hepatitis A virus 3 from a stable full-length infectious cDNA clone. Virus Res. 160, 439–443.
+9.Wang X, Wang Y, Xie X, Zhang B, Zhang D. 2011. Expression of the C-terminal ORF2 protein of duck astrovirus for application in a serological test. J Virol Methods, 171, 8–12.
+10.Wang D, Xie X, Zhang D, Ma G, Wang X, Zhang D. 2011. Detection of duck circovirus in China: A proposal on genotype classification. Vet Microbiol, 147, 410–415.
+11.Cao Z, Zhang C, Liu Y, Liu Y, Ye W, Han J, Ma G, Zhang D, Xu F, Gao X, Tang Y, Shi S, Wan C, Zhang C, He B, Yang M, Lu X, Huang Y, Diao Y, Ma X, Zhang D. 2011. Tembusu virus in ducks, China. Emerg Infect Dis, 17, 1873–1875.
+12.Fu Y, Pan M, Wang X, Xu Y, Xie X, Knowles NJ, Yang H, Zhang D. 2009. Complete sequence of a duck astrovirus associated with fatal hepatitis in ducklings. J Gen Virol, 90, 1104–1108.
+13.Fu Y, Pan M, Wang X, Xu Y, Yang H, Zhang D. 2008. Molecular detection and typing of duck hepatitis A virus directly from clinical specimens. Vet Microbiol, 131, 247–257.
+14.Wang L, Pan M, Fu Y, Zhang D. 2008. Classification of duck hepatitis virus into three genotypes based on molecular evolutionary analysis. Virus Genes, 37, 52–59.
+15.Ding C, Zhang D. 2007. Molecular analysis of duck hepatitis virus type 1. Virology, 361, 9–17.
+                 

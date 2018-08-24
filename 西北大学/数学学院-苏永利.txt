@@ -1,0 +1,21 @@
+苏永利，男，1974年6月生，中共党员，副教授。
+姓名：苏永利
+职称：副教授
+荣誉：专业学位硕士生导师
+1992年9月至1996年7月在西北大学数学系攻读学士学位；
+1996年7月毕业留校在西北大学数学系任教至今；
+1999年9月至2002年7月在西北大学数学系攻读硕士学位；
+2004年9月至2009年7月在攻读工学博士学位。
+2007年获西北大学第七届青年教师讲课比赛一等奖；2006年和2010年获西北大学“优秀教师”称号。
+(1) 陕西省自然科学基金项目，各向异性扩散在图像滤波中的应用研究（2011JM1008），2011-2012，主持；
+(2)西北大学科研基金，基于偏微分方程的图像滤波研究(09NW24)，2010-2011,主持。
+(1) Yongli Su, Bo Zhang, Shuling Zhang. An Improved Fingerprint Image Segmentation Algorithm Base on Variance Method. Proceedings of 2008 International Pre-Olympic Congress on Computer Science, Volume II: Informational Science and Engineering, 2008, 287-291．(ISTP）
+(2) Yongli Su, Shuling Zhang, Hongxi wang, Rong Liu. A Composite Method of Fingerprint Image Denoise and Enhancement. Journal of Information and Computational Science.2008，5：2119-2124（EI）
+(3) 苏永利,张博,张书玲. 基于各向同性逆扩散方程的指纹图像增强方法.西北大学学报（自然科学版）, 2009，39(1): 9-12.
+(4) 苏永利,张博,张书玲. 一种改进的指纹图像分割算法，计算机工程与应用. 2008, 44 (30): 173-174.
+(5) 苏永利,张博,张书玲.改进的指纹图像方向图求取方法.计算机工程与应用,2009,45(3):184-186.
+(6)苏永利,张博,张书玲.各向异性张量逆扩散指纹图像增强方法，计算机工程与应用,2009,45(31):180-182.
+数值代数、数据压缩、数字图像处理、数学软件、数学实验、高等数学
+《微积分全程辅导与提高》，参编，西北工业大学出版社，2004年。
+《线性代数导学 导教 导练》参编，西北工业大学出版社，2004年。
+       西北大学信息科学与技术学院             

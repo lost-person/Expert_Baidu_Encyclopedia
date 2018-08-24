@@ -1,0 +1,6 @@
+张铁，男，中国，汉族，教授，博士生导师，机器人及自动化设备设计团队负责人。
+1992华南理工大学空间机构与机器人硕士；1992华南理工大学机械与汽车工程学院讲师；2001华南理工大学机械制造及自动化博士；2001华南理工大学机械与汽车工程学院副教授；2006华南理工大学机械与汽车工程学院教授。
+（1）工业机器人关键技术的研究及应用；（2）人中的移动机器人关键技术研究；（3）机器人化设备的研究；（4）机电一体化设备的开发。近年来主要的科研工作有主持1项；主持广东省科技攻关项目1项；主持粤港联合招标项目1项；主持横向课题的研究项目多项。参与了3项及多项横向项目的研究。共发表科研论文60余篇，其中三大索引论文8篇；主编3本教材；参编4本教材；获得发明专利1项；获得实用新型专利5项；申请实用新型专利3项。获得广东省教学成果一等奖1项。
+广东省机器人专业委员会常务副主任；广东省机械工业专家委员会机器人分委员会主任；教育部创新方法教学指导分委员会委员。
+(1) Tie Zhang; Liang Du; Xiaoliang Dai. Test of Robot Distance Error and Compensation of KinematicFull Parameters, Advances in Mechanical Engineering, 2014(9): 1-9；(2) Zhang Tie, Liu Wenbo; Liang, Xiaohong. Constant force grinding control method for unknowncurve part based on force/torque information, International Journal of Manufacturing Research,2016,11(1): 53-67；(3）张铁，戴孝亮，杜亮.基于距离测量的机器人误差标定及参数选定，北京航空航天大学学报.2014(10):585-590.
+华南理工大学  服务机器国家自然科学基金省部级科研项目   

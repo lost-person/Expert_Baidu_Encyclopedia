@@ -1,0 +1,17 @@
+蒋华良，男，1965年1月生，江苏武进市人，教授，中国科学院院士
+，1987 年毕业于化学系，获得学士学位；1992 年毕业于化学系，获得理学硕士学位。1995 年毕业于，获得理学博士学位。现任民盟中央常委
+，民盟上海市委副主委，中科院上海药物所所长。1995 年毕业于，师从院士和院士，获得理学博士学位。随后留在药物所工作，历任副研究员、研究员、博士生导师、药物发现与设计中心主任、所学术委员会副主任、副所长等职。2004年9月，任首任院长。
+2013年12月起任中国科学院上海药物研究所所长。
+2017年4月，任民盟上海市第十五届委员会副主任委员。
+2017年12月，任民盟中央常委。
+现任中科院上海药物所所长，民盟上海市第十五届委员会副主任委员。
+中国民主同盟第十二届中央委员会常委。
+2017年12月10日，当选为中国民主同盟第十二届中央委员会常务委员。
+他是科技部863计划“生物和医药技术领域”专家组成员、国家自然科学基金委重大研究计划“基于化学小分子探针的信号转导过程研究”专家组成员。曾任科技部973计划首席科学家(2002-2008)。他还任Journal of Medicinal Chemistry和ChemMedChem等5个国际刊物的编委会成员。蒋华良从事药学基础研究和新药研发，在药物设计和方法发展、药物作用机制、药物和新靶标发现等研究中，取得了系统和创新的成果。他以通讯作者身份在PNAS、JACS、、JMB、Biophys. J.、J. Med. Chem.等国际刊物上发表研究论文180余篇；合作编写专著《计算机辅助药物设计：方法、原理及应用》；参加8本专著的编写；主持翻译J. Licinio和M.-L. Wong主编的《》；申请专利80多项；应邀为Nature Chemical Biology、Drug Discovery Today、Curr. Med. Chem.、Curr. Pharmcuet. Design等杂志撰写综述10篇。多次在国际学术会议作邀请报告，任The IXth International Meeting on Cholinesterases共同主席，4次任国际会议分会主席。研究方向为发展和应用生物学、化学、计算机和信息科学等多种学科交叉的新方法和新技术，深入开展药物设计、药物新靶标的发现、构象变化与药理功能关系等研究。
+综合应用、计算机辅助药物分子设计、和等手段进行创新药物及其相关基础研究工作，研究领域涉及有机化学、、计算化学、计算分子生物学、结构生物学和等学科。1. 国家杰出青年基金（1997）2. 第五届（2002）3. 上海市第八届十大科技精英（2003）4. 上海市科技进步一等奖（2004）5. 首批上海市领军人才（2006）6. 国家自然科学二等奖（2007）7. 何梁何利科学与科技进步奖（医学类，2007）
+2005年获“第八届中科院杰出青年奖”。
+1、Zhang J, Li CJ, Chen KX, Zhu WL, Shen X, . (2006) Conformational transition pathway in the allosteric process of human glucokinase. Proc. Natl. Acad. Sci. USA,2、Li HL, Gao ZT, Kang L, Zhang HL, Yang K, Luo XM, Chen KX, Shen JH, Wang XC, . (2006) TarFisDock: a web server for identifying drug targets with docking approach. Nucl. Acids Res.3、Li J, Zhang J, Chen J, Luo XM, Zhu WL, Shen JH, Liu H, Shen X, . (2006) Strategy for discovering chemical inhibitors of human cyclophilin A: focused library design, virtual screening, chemical synthesis and bioassay. J. Combi. Chem4、Xu YC, Shen JH, Luo XM, Chen KX, Zhu WL, Ma JP, . (2005) Conformational transition of amyloid b -peptide. Proc. Natl. Acad. Sci. USA5、Xu YC, Barrantes FJ, Luo XM, Chen KX, Shen JH,. (2005) Conformational dynamics of the nicotinic acetylcholine receptor channel: a 35-ns molecular dynamics simulation study. J. Am. Chem. Soc.6、Zhang J, Xu YC, Shen JH, Luo XM, Cheng JG, Chen KX, Zhu WL, . (2005) Dynamic Mechanism for the Autophosphorylation of CheA Histidine Kinase: Molecular Dynamics Simulations. J. Am. Chem. Soc.
+第八届“中科院杰出青年奖”评语：蒋华良在国内较早采用超级计算机进行受体结构与功能关系研究以及药物设计研究；发展了系统化的新一代、药物设计和靶标发现方法和技术，包括生物大分子体系的大规模模拟、高通量虚拟筛选方法、集中组合库设计方法、ADME/T分析方法、蛋白质－蛋白质相互作用预测方法和新靶标预测方法，建立了 “分子模拟、药物设计、化学合成 、、 研究 ” 的创新药物研究平台；与同事合作，整合分子模拟、药物设计平台以及分子与细胞生物学、生物物理和结构生物学技术，建立了药物作用新靶标发现与功能确证平台，进行了靶标发现和功能确证研究，发现15个疾病相关新基因，对5个基因的功能进行了确证，测定了相应蛋白的晶体结构。
+2015年7月31日，入选中国科学院院士增选初步候选人名单。
+2017年11月，当选中国科学院院士。
+ 南京大学华东师范大学中国科学院上海药物研究所 中国科学院上海药物研究所嵇汝运陈凯先华东理工大学药学院       计算生物学先导化合物JBC药物基因组学药物靶标 分子模拟分子生物学结构生物学药物化学化学生物学中国青年科学家奖   分子模拟分子动力学并行算法生物测试结构生物学   

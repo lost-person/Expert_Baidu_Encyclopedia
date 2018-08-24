@@ -1,0 +1,50 @@
+范辉军,男,1972年11月出生。现为教授，2015年受聘为第十四批特聘教授。
+现重点研究二维拓扑场理论和镜像对称中的数学结构,包括模型,规范线性西格玛模型,开弦的范畴化理论等。
+范辉军,男,1972年11月出生。现为教授，2015年受聘为第十四批特聘教授。
+范辉军教授的研究领域为有关、理论的，以及几何分析。2008年获选新世纪人才计划，2013年获国家基金委杰出青年基金资助。2002-2008年,与人合作通过一系列文章构造了理论(国际上称为---Witten理论)并解决了DE情形的广义Witten猜想。2010-2011年,独自构造了形式的形变理论,对应着紧的- 理论。除此之外,在几何分析方向的问题，非正流形 边界的研究和Novikov理论方面取得了一系列重要的结果。
+多次被邀请访问波恩马普所、等国内外众多研究机构，并多次在国际上做邀请报告；并从2006年起，参与创办和协助指导辛和研讨班。
+2009.9-2010.1 Symplectic geometry Graduate students
+2009.9-2010.1 Linear algebra B Economy school,undergraduate students
+2009.2-2009.6 二阶椭圆型方程 Graduate course
+2008.9-2009.1 Open string & lagrangian geom. Research seminar led by Gang Tian
+2008.9-2009.1 Symplectic Geom. and Topo. Informal seminar for math.graduates
+2008.9-2009.1 Functional Analysis II Basic course for graduate math students
+2007.9-2008.1 Symmetry and Supersymmetry Informal course for graduates from math.or phys. 
+2007.9-2008.1 C 化学学院06本/经济学院留学生
+2007.2-2007.6 （下） 经济学院06本科生
+2007-2008 Symplectic Geom. and Topo. Informal seminar for math.graduates
+2006.9-2007.1 （上） 经济学院06本科生
+2005.9-2006.1 B，线性代数B 物理学院05本，信息学院05本
+2005.2-2005.6 （下） 经济学院04本科生
+2004.9-2005.1 B 地空学院03本科生
+Huijun Fan, Existence of the Self-Similar Solutions in the Heat Flow of Harmonic Maps, Adv, In Math. (), Vol. 26, no. 4(Notice)
+Huijun Fan, Existence of the Self-Similar Solutions in the Heat Flow of Harmonic Maps, Sci. China Ser. A 42(1999), no. 2, 113--132
+W.Y.Ding, Huijun Fan and Jiayu Li, Harmonic Hopf constructions between spheres II, Calc Var 16 (2003) 3, 273--282
+Huijun Fan, and Juergen Jost, Novikov-Morse theory for dynamical systems, Calc Var 17 (2003) 1, 29--73
+Huijun Fan, Cauchy Problem of Some Doubly Nonlinear Degenerate Parabolic Equations with Datum a Measure, Acta. Math. Sinica，English series Vol.20 (2004) no. 4, 663--682
+Huijun Fan, and J. Jost, Conley index Theory and Novikov-Morse theory, Pure and Applied Mathematics Quarterly Vol. 1, No. 4 (Special Issue: In Memory of Armand Borel, Part 3. of 3 ) 939--971, 2005
+J. Cao, Huijun Fan and F. Ledrappier, Martin points on open manifolds, Trans. Amer. Math. Soc., 359 (2007) 5697--5723
+Huijun Fan, T. Jarvis and Y. Ruan, Geometry and analysis of spin equations,Comm. Pure Appl. Math.,Vol. LXI,0745-0788 (2008), 44 pages
+Huijun Fan, T. Jarvis and Y. Ruan, The Witten equation and its virtual fundamental cycle, arxiv: math/0712.4025, 108 pages, book "FJRW theory", in preparation.
+Huijun Fan, Yefeng Shen, Quantum ring of singularity $X^p+XY^q$, 20 pages, to appear in Michigan J. Math.
+Huijun Fan, T. Jarvis and Y. Ruan, Quantum Singularity Theory For $A_{r-1}$ and $r$-Spin Theory, arXiv:1012.0066v1 [math.AG], 17pages, to appear in ANNALES DE L'INSTITUT FOURIER, Special issue "Geometry and Physics of the Landau-Ginzburg model"
+Huijun Fan, T. Jarvis and Y. Ruan, The Witten equation, mirror symmetry and quantum singularity theory, arxiv: 0712.4021v4, 80 pages,to appear in Annals of Mathematics,2012
+Huijun Fan, T. Jarvis and Y. Ruan, Witten's $D_4$ Integrable Hierarchies Conjecture, arXiv:1008.0927, 19 pages,submitted
+Huijun Fan, Schroedinger equation, deformation theory and tt* geometry, 114 pages, 2011,arXiv:1107.1290v1 [math-ph]
+Huijun Fan, Schroedinger equation, deformation theory and DGBV algebra, in preparation
+2010-2011 天元基金/暨高级研讨班负责人
+2007-2010 重点项目成员（中的几何不变量，负责人教授）
+2004-2010 几何分析创新群体成员（负责人：教授）
+2004-2007 青年科学基金
+2001-2003 Research Fund for returned overseas  Scholars
+2001-2003 Partner Group of the Max-Planck Institute for mathematics in the sciences and the  Academy of Sciences. 
+2008 获新世纪人才称号
+2007-2008 优秀班主任三等奖
+2005-2006 优秀班主任二等奖
+获2016年度二等奖
+2005-2009 北大数院05级5班 主任
+2005- 北大数院本科生 兼职指导导师
+2016年度获奖项目
+揭晓，
+范辉军教授负责完成的“奇点理论研究”项目获2016年度二等奖。
+北京大学数学科学学院教育部长江学者 LG 北京大学数学科学学院教育部长江学者 弦理论量子场数学物理教育部量子奇点FanJarvisRuan薛定谔方程复流形KodairaSpencer调和映射曲率Martin 普林斯顿大学学术会议北京国际数学研究中心几何数学物理        线性代数 高等数学B  高等数学B 线性代数 高等数学B 线性代数 China               辛几何数学物理 弦理论李安民 丁伟岳  Chinese ChineseGermany 教育部 北京大学 北京大学 国家自然科学奖   国家自然科学奖  量子化国家自然科学奖 

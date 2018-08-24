@@ -1,0 +1,5 @@
+姓名：王一拙　　所在学科：高性能与嵌入式计算研究所2000年毕业于计算机系获学士学位，2005年3月毕业于北京理工大学计算机学院获工学博士学位。2005年3月进入北京理工大学计算学院工作，主要研究方向为计算机体系结构、并行程序设计等，共参与国家自然科学基金项目3项，国防预研项目1项，主持国家自然科学基金项目一项，北京市大学生实验创新计划项目3项。目前已在国内外著名期刊和国际会议上发表论文十余篇，并多次在国际学术会议（NPC2012，PDCAT2012，HiPC2012，DATE2013, NPC2014）上做报告。长期担任SCI检索期刊IJPP、FCS的审稿人。曾受国家留学基金委资助，于2010 年6月赴美国加州大学尔湾分校（UCI）计算机系嵌入式计算中心进修和合作研究1年。曾讲授课程有：数值分析、计算机体系结构性能评估方法、计算机图形学、面向对象程序设计、嵌入式系统。
+计算机体系结构，并行程序设计，容错计算1.Yizhuo Wang, WeixingJi, Feng Shi, Qi Zuo. A Work-Stealing Scheduling Framework Supporting Fault Tolerance. Proc. of Design, Automation & Test in Europe (DATE), 2013.　　2.Yizhuo Wang, AlexandruNicolau, Rosario Cammarota and Alexander V. VeidenbaumA. Fault tolerant self-scheduling scheme for parallel loops on shared memory systems. Proc. of IEEE International Conference on High Performance Computing (HiPC), 2012.
+承担国家自然科学基金项目“容错并行程序设计模型的研究与实现”，参加国家自然科学基金项目“面向MPSoC的确定性结构化并行程序设计与分析方法研究”、“面向对象的基三多核处理器体系结构关键技术研究”、“虚拟环境的用户模型研究”，另外承担或参加863子课题、国防重点预研子课题、其它横向课题多项。
+中国计算机学会、ACM、IEEE会员
+北京理工大学    

@@ -1,0 +1,21 @@
+孙松林，男，博士，北京邮电大学信息与通信工程学院教授
+，博士生导师，IEEE高级会员
+。研究方向为无线多媒体通信与信号处理、嵌入式系统。
+2014年中国产学研合作创新成果奖
+2015年中国产学研合作创新成果奖
+《数字信号处理》（第二版）（英文版）
+张建华，许晓东，孙松林电子工业出版社，2010年7月出版[1] Songlin Sun*, Na Chen, Tiantian Ran, Junshi Xiao, Tao Tian, “A Stackelberg game spectrum sharing scheme in cognitive radio-based heterogeneous wireless sensor networks,” Signal Processing, Janurary 2016.
+[2] Songlin Sun*, Liang Gong, Bo Rong, and Kejie Lu, “An Intelligent SDN Framework for 5G Heterogeneous Networks,” in Communications Magazine, IEEE, vol.53, no.11, pp.142-147, November 2015.
+[3] Songlin Sun*, Liang Gong, Bo Rong, Abdel Mouaki, and Amir Basri, “A Stackelberg Game Based Inter-tier Spectrum Sharing Scheme for LTE-A SON,” Mobile Networks and Applications, vol. 20, no. 4, pp.424-434, August 2015.
+[4] Songlin Sun*, Michel Kadoch, Liang Gong, and Bo Rong, “Integrating Network Function Virtualization with SDR and SDN for 4G/5G Networks,” Network, IEEE, vol.29, no.3, pp.54-59, May-June 2015.
+[5] Songlin Sun*, Michel Kadoch, and Tiantian Ran, “Adaptive SON and Cognitive Smart LPN for 5G Heterogeneous Networks,” Mobile Networks and Applications, vol.20, no.6, pp.745-755, December 2015.
+[6] Songlin Sun*, Bo Rong, and Yi Qian, “Artificial Frequency Selective Channel for Covert Cyclic Delay Diversity Orthogonal Frequency Division Multiplexing Transmission,” Security Comm. Networks, vol.8, pp.1707-1716. June 2015.
+[7] Songlin Sun*, Bo Rong, Rose Qingyang Hu, and Yi Qian, “Spatial Domain Management and Massive MIMO Coordination in 5G SDN,” in Access, IEEE, vol.3, pp.2238-2251, November 2015.
+[8] Songlin Sun*, Tiantian Ran, Na Chen, Guihong Li, and Chenglin Zhao, “Design and Complexity Analysis of An Improved Adaptive Filtering Algorithm for Non-sparse Impulse Response,” EURASIP Journal on Wireless Communications and Networking, September 2014.
+[9] Songlin Sun*, Yanhong Ju, and Yasushi Yamao, “Overlay Cognitive Radio OFDM System for 4G Cellular Networks,” IEEE Wireless Communications, vol.20, no.2, pp. 68-73, April 2013.
+[1] Songlin Sun*, Bo Rong, and Yanhong Ju. Covert OFDM Transmission Using CDD Based Frequency Selective Channel. GLOBECOM - IEEE Global Telecommunications Conference. 2013.
+[2] Songlin Sun*, and Shiliang Wang, “Two Novel Reordering Methods for MIMO Sphere Detection Based on MMSE Detection,” Wireless Communications and Networking Conference (WCNC), 2013 IEEE, pp.3829-3832, 7-10 April 2013.
+[3] Songlin Sun*, Bo Rong, Rose Qingyang Hu, and Yanhong Ju, “Uneven Comb Pilots Based Channel Estimation for CDD-OFDM System,” GLOBECOM - IEEE Global Telecommunications Conference, pp.4736-4740, 3-7 December 2012.
+[4] Songlin Sun*, Chenglin Zhao, Wei Liu, and Qizhu Song, “A New Configuration Method of Online Storage Subsystem in Video-on-Demand,” in Communication Technology, ICCT '06. International Conference on, pp.1-4, 27-30 November 2006.
+[5] Songlin Sun*, “Efficiency model of proxy video server in distributed video on demand system,” Journal on Communications, vol.27, no.5, pp.130-134, May 2006.
+                    

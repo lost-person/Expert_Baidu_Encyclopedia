@@ -1,0 +1,24 @@
+潘雷霆，男，博士，男，汉族，1983年8月出生，江苏人
+。南开大学物理科学学院副教授，主要从事超分辨光学成像及应用、生物医学光学等光学和生物交叉领域的科学研究
+。在Cell Reports, ACS Applied Materials & Interfaces,Biomaterials, Cell Death Discovery, BBRC等杂志发表SCI收录论文30余篇。中国微循环学会微循环与血液治疗专业委员会常委；中国生物物理学会自由基生物学与自由基医学分会青年委员；中国光学学会生物医学光子学专业委员会青年委员
+。2015年获天津市“131”创新型人才培养工程第三层次人选，2011年获南开-捷成奖教金
+。2004.9～2009.6， 南开大学物理科学学院，光学专业，理学博士
+ ；2000.9～2004.6， 南开大学物理科学学院，生物物理专业，理学学士
+。2009.07～今，南开大学物理学院/泰达应用物理研究院，副教授
+；2015.12～2016.12，美国加州大学伯克利分校，访问学者，超分辨光学成像
+；[1] , Rui Yan, Wan Li, Ke Xu*. Super-resolution microscopy reveals the native ultrastructure of the erythrocyte cytoskeleton. , 2018, 22(5): 1151-1158 (IF:8.282)
+
+[2] Fulin Xing, Ping Zhang, Pengchong Jiang, Ziyuan Chen, Jianyu Yang, Fen Hu, Irena Drevenšek-Olenik, Xinzheng Zhang, *, Jingjun Xu*. Spatiotemporal characteristics of intercellular calcium waves communication in micropatterned assemblies of single cells. , 2018, 10(3): 2937-2945. (IF:7.504)
+[3] Ting-Hsuan Chen, Xiaolu Zhu, , Xingjuan Zeng, Alan Garfinkel, Yin Tintut, Linda L. Demer, Xin Zhao, Chih-Ming Ho*. Directing Tissue morphogenesis via Self-Assembly of Vascular Mesenchymal Cells. , 2012, 33(35): 9019~9026(Contributed Equally)
+[4] Fei Xing, Guixian Meng, Qian Zhang, , Peng Wang, Zhibo Liu*, Wenshuai Jiang, Yongsheng Chen, Jianguo Tian*. Ultrasensitive Flow Sensing of a Single Cell Using Graphene-Based Optical Sensors. , 2014, 14(6): 3563-3569 
+[5] Cunbo Li, Zheming Li, Shuang Xun, Pengchong Jiang, Rui Yan, Mincai Chen, Fen Hu, Romano A. Rupp, Xinzheng Zhang, *, Jingjun Xu. Protection of the biconcave profile of human erythrocytes against osmotic damage by ultraviolet-A irradiation through membrane-cytoskeleton enhancement. , 2017, 3:17040
+[6] Fen Hu, Fulin Xing, Ge Zhu, Guangxue Xu, Cunbo Li, Junle Qu, Imshik Lee, *. Rhein antagonizes P2X receptor in rat peritoneal macrophages. , 2015, 5: 14012 
+[7] Songzi Kou, *, Danny van Noort, Guixian Meng, Xian Wu, Haiying Sun, Jingjun Xu, Imshik Lee*. A multishear microfluidic device for quantitative analysis of calcium dynamics in osteoblasts. , 2011, 408(2): 350-355
+[8] Pengchong Jiang, Fulin Xing, Bu Guo, Jianyu Yang, Zheming Li, Wei Wei, Fen Hu, Imshik Lee, Xinzheng Zhang, *, Jingjun Xu. Nucleotide transmitters ATP and ADP mediate intercellular calcium wave communication via P2Y12/13 receptors among BV-2 microglia. , 2017, 12(8): e0183114
+[9] Fen Hu, Zhenhai Hui, Wei Wei, Jianyu Yang, Ziyuan Chen, Bu Guo, Fulin Xing, Xinzheng Zhang, *, Jingjun Xu. Hypotonic stress promotes ATP release, reactive oxygen species production and cell proliferation via TRPV4 activation in rheumatoid arthritis rat synovial fibroblasts. , 2017, 486(1): 108-115
+[10] Shuyan Zhu, Yuxiang Wang, *, Shuang Yang, Yonglin Sun, Xinyu Wang, Fen Hu*. Involvement of transient receptor potential melastatin-8 (TRPM8) in menthol-induced calcium entry, ROS production and cell death in rheumatoid arthritis rat synovial fibroblasts. , 2014, 725(1): 1~9
+[11] Fen Hu, *, Kai Zhang, Fulin Xing, Xinyu Wang, Imshik Lee, Xinzheng Zhang, Jingjun Xu*. Elevation of extracellular Ca induces store-operated calcium entry via calcium-sensing receptors: a pathway contributes to the proliferation of osteoblasts. , 2014, 9(9):e107217
+[12] Guixian Meng, *, Cunbo Li, Fen Hu, Xuechen Shi, Imshik Lee, Irena Drevenšek-Olenik, Xinzheng Zhang, Jingjun Xu. Temperature-induced Labelling of Fluo-3 AM Selectively Yields Brighter Nucleus in Adherent Cells. , 2014, 443(3): 888-893
+[13] , Kun Song*, Fen Hu, Wenwu Sun, Imshik Lee*. Nitric oxide induces apoptosis associated with TRPV1 channel-mediated Ca entry via S-nitrosylation in osteoblasts. , 2013, 715(1): 280-285
+[14] Xian Wu, *, Ying Liu, Pengchong Jiang, Imshik Lee, Irena Drevensek-Olenik, Xinzheng Zhang, Jingjun Xu. Cell–cell communication induces random spikes of spontaneous calcium oscillations in multi-BV-2 microglial cells. , 2013, 431(4): 664-669
+                       

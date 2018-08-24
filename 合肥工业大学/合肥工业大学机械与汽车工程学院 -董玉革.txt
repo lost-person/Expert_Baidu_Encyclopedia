@@ -1,0 +1,9 @@
+男，董玉革。汉族，机械与汽车工程学院教授 博士。1989年毕业于合肥工业大学机械设计专业，1992年在合肥工业大学获硕士学位，并留校任教，1998年在合肥工业大学获博士学位，2000年晋升为教授，2001年至 2002年在韩国从事博士后研究，客座教授。
+机械设计、机械设计基础、机械设计课程设计、机械可靠性方法。
+机械可靠性理论与方法、机械产品可靠性、机械产品开发、机械设计及自动化。
+2016/01-2016/06，矸石连续运输系统关键技术研究(企业委托项目)；EGR阀烧录和测试工作台研制(企业委托项目)；江淮同悦轿车组合开关及车锁(国家科技部项目)；钥匙自动识别与激光打标系统研制(企业委托项目)；V348开关JK927和JK984力值与行程测试台研制(企业委托项目)；黄汽电进口锁组立机改造(企业委托项目)； D2070208，基于滚码加密技术的汽车转向柱锁止防盗系统(合肥市科技局项目)；基于模糊变量向随机变量变换的可靠性分析方法及应用研究(国家自然科学基金面上项目)；关于模糊可靠性分析中隶属函数的若干问题(留学归国人员科研启动基金项目)。
+机械模糊可靠性设计(机械工业出版社)。
+Reliability sensitivity analysis based on mutil-hyperplane combination method(Defence Technology)；基于最小割集理论的可靠性计算精度提高方法(机械工程学报)；传统可靠性理论在模糊可靠性计算中的应用(农业机械学报)；模糊可靠性分析改进的一次二阶矩法(应用科学学报)；基于传统可靠性理论联结方程的模糊可靠性分析方法(机械工程学报)；A FUZZY RELIABILITY ANALYSIS BASED ON THE TRANSFORMATION BETWEEN DISCRETE FUZZY VARIABLES AND DISCRETE RANDOM VARIABLES(RJRQSE)；离散模糊变量时模糊可靠性分析新方法(中国机械工程)；基于模糊事件概率理论的模糊可靠性分析通用方法(计算力学学报)；基于模糊理论的机械系统模糊可靠性数字仿真(系统仿真学报)；Simulation of Fuzzy Reliability Indexes(KSME)；模糊可靠性理论在机构运动可靠性分析中的应用(应用科学学报)；随机变量和模糊变量组合时的模糊可靠性设计(机械工程学报)；考虑模糊信息时的机械可靠性设计方法及其应用研究(应用科学学报)；机械模糊可靠性计算方法的研究(系统工程学报)；模糊可靠性分析的等效正态隶属函数法(农业机械学报)；结构可靠性分析的多平面组合近似方法研究(计算力学学报)；A fuzzy analysis on repairable system via simulation(ESREL 2005，格但斯克)； A NEW APPROACH FOR THE FUZZY RELIABILITY ANALYSISIN CASE OF DISCRETE FUZZY VARIABLE(Advance Reliability Modeling，广岛)；FUZZY RELIABILITY ANALYSIS OF COMPLEX MECHANICAL SYSTEM，Advance Reliability Modeling(Advance Reliability Modeling，广岛)；A fuzzy reliability analysis based on The transformation between discrete fuzzy random variable and discrete randomvariable，PROCEEDING OF THE EUROPEAN SAFETY AND RELIABILITY CONFERENCE (ESREL 2005，格但斯克)。
+一种矸石连续运输系统(实用新型)。
+立井防爆门安全技术研究及应用(中国安全生产监督管理局，三等奖)，工程机械行星减速器(HZT型、HZW型、XZW型)智能可靠性CAD系统(安徽省科技进步奖，三等奖)，机械模糊可靠性设计(机械工业出版社高水平专著) 。
+合肥工业大学        

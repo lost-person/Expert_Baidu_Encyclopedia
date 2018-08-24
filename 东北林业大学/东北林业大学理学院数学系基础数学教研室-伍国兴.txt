@@ -1,0 +1,2 @@
+伍国兴，男，东北林业大学理学院教授。主要从事研究（矩阵特征值的扰动，矩阵广义特征值的扰动，特征值的估计，矩阵数值半径等问题）。1982年毕业于数学专业获；1991年毕业于北京大学数学系获。研究方向为数值代数。共发表论文12篇，其中SCI收录2篇。1.Wu Guoxing，Optimal bounds for the spectral variation of two regular matrix pairs Linear Algebra and its Applications, Volume 418, Issues 2-3, 15 October 2006, Pages 891-8992.Wu Guoxing， On upper bounds for the spectral variation of two regular matrix pairs Linear Algebra and its Applications, Volume 429, Issues 2-3, 15 July 2008, Pages 497-502获得黑龙江省2006年度科学技术学术成果（论文）二等奖和哈尔滨市2005-2006年度自然科学技术成果（论文）一等奖。主持黑龙江省教育厅科学技术研究项目一项。
+矩阵理论吉林大学学士学位硕士学位 

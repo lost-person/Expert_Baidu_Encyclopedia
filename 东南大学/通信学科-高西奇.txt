@@ -1,0 +1,9 @@
+高西奇，男，1967年3月出生。现为东南大学副主任/学术委员会委员、教育部“长江学者奖励计划”特聘教授、江苏省电子学会理事/专委会主任委员、南京分部副主委、IEEE Transcations on Wireless Communication编委。
+1992年起在无线电工程系（现信息科学与工程学院）任职，1997年在东南大学无线电工程系获得博士学位，2001年任教授，2002年任博士生导师，2009年获国家杰出青年基金资助。1999年至2000年获华英基金支持在美国麻省理工学院研修，2007年至2008年获洪堡基金支持在德国达姆施达特理工大学研修。2013年12月，在中央人才工作协调小组办公室公示的 “万人计划”（国家高层次人才特殊支持计划）人选中，东南大学高西奇教授入选科技创新领军人才。
+高西奇教授一直从事信号处理与移动通信的理论与应用研究工作，目前主要研究方向为未来移动通信理论与关键技术、宽带多载波传输与多址技术、空时无线通信理论与技术、现代信号处理及其在移动通信中应用。高西奇教授先后承担国家自然科学基金项目、国家863计划项目、
+国家973计划课题、国际合作项目等十余项课题的研究工作，在国内外核心期刊和重要学术会议发表论文120余篇，其中IEEE Trans. SP/IP/Comm/IT/WC等国际核心期刊论文20余篇，论文已获国内外引用300余次，获发明专利30余项。同年，金石副教授和高西奇教授等合作完成论文《MIMO Multichannel Beamforming: SER and Outage Analysis Using New Eigenvalue Distributions of Complex Noncentral Wishart Matrices》（作者：S. Jin, M. McKay, X. Q. Gao, and I. B. Collings，刊登在IEEE Transactions on Communications第56卷第3期）。获教育部科技进步奖3项。2011年，高西奇教授与金石博士等合作完成的论文获得2011年度国际电气与电子工程师协会(IEEE)莱斯最佳论文奖，系中国大陆学者首次获得国际通信领域的最高奖项。2012年2月，高西奇教授获得2011年度国家技术发明一等奖。
+2012年作为“宽带移动通信容量逼近传输技术及产业化应用”研究成果的第二完成人，获得国家技术发明一等奖。论文《MIMO Multichannel Beamforming: SER and Outage Analysis Using New Eigenvalue Distributions of Complex Noncentral Wishart Matrices》获2011年度IEEE Stephen O. Rice Prize Paper Award(莱斯论文奖)，该奖项基于依据论文的学术质量、原创性、实用性授予每年度在通信理论领域的最佳论文，是通信领域最重要的学术奖项之一，每年评选一次。此次金石副教授和高西奇教授获得的IEEE Stephen O. Rice奖也是中国大陆学者首次获得该奖项。移动通信国家重点实验室IEEE 东南大学 
+
+
+
+ 

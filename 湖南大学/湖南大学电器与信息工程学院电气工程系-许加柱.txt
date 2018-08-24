@@ -1,0 +1,14 @@
+，男，汉族，博士
+，安徽省来安县人
+，副教授、博士生导师。
+2004/03－2007/06，湖南大学，电气与信息工程学院，2002/09－2005/06，湖南大学，电气与信息工程学院，硕士1998/09－2002/06，，电气与信息工程学院，本科
+2012/06－2013/06，德国，2008/06-至今，湖南大学，电气与信息工程学院，副教授2007/03-2008/05，，电气与信息工程学院，讲师
+长期从事高速铁路牵引传动系统关键技术与装备、新能源并网控制与优化、交直流混合配电网关键技术与装备、含多变流器混杂电力系统低频振荡机理及抑制技术等方面的教学与研究工作。
+在国内外权威学术期刊发生论文10余篇、申请专利10余项，软件著作权4项。
+主持国家自然科学基金项目面上项目和青年项目、国家科技术支撑计划子课题、国家电网公司重大科技项目、湖南省自然科学基金重点项目等国家级和省部级课题10多项。
+[1] Jiazhu Xu*, Andreas Kubis, Ke Zhou,Zhijun Ye, Longfu Luo. Electromagnetic Field and Thermal Distribution Optimisation in Shell-type Traction Transformer，IET Eletric Power Applications, 7(8), pp627-632，2013.
+[2] Jiazhu Xu*, Longfu Luo, Yong Li, Christian Rehtanz, Zhiwen Zhang, Fusheng Liu. Operating Characteristics of a New Filter Commuated Converter Based on Equivalent Graetz Bridge Circuit Model，IET Power Electronics, 4(9), pp959-967，2011.
+[3] 许加柱*，梁湘湘，姚新丽，廖闻迪. 基于等效单匝电感矩阵的多绕组变压器复合短路阻抗及多并联绕组间环流求解方法，中国电机工程学报，31(34), pp135-141, 2011.
+[4] 许加柱*，，李季，赵志宇，邵鹏飞. 交流系统故障对滤波换相换流器的影响分析，电工技术学报，25(1), pp144-150, 2010.
+[5] 许加柱*，李晓芳，黄际元，姚新丽，向博，廖闻迪. 低压配电网智能监测与控制终端软硬件设计，电工电能新技术，31(4)，pp79-81，2012.
+许加柱  湖南大学电气与信息工程学院 博士湖南大学 多特蒙德工业大学访问学者湖南大学       罗隆福  

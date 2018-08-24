@@ -1,0 +1,4 @@
+翁国标：大连理工大学应用数学系 讲师个人简介2007.10-至今 大连理工大学应用数学系 讲师2006.8-2007.9 中科院研究生院信息安全国家重点实验室 助理研究员2001.9-2006.7 北京大学数学科学学院 基础数学 代数组合论 博士1997.9-2001.7北京大学数学科学学院 基础数学 本科研究领域（研究课题）代数组合：区组设计差集有限射影平面密码与编码：分组密码和流密码序列和编码
+硕博研究方向代数组合：　　差集和区组设计　　密码与编码：　　分组密码和流密码出版著作和论文G. Weng, R. Feng and W. Qiu, On the p-ranks of bent functions, Finite Fields and Their Applications, Vol. 13, Nov, 2007, Pages 1096-1116.　　2. G. Weng, W.Qiu, Z. Wang and Q. Xiang, Pseudo-Paley graphs and skew Hadamard difference sets from commutative semifields, Designs, Codes and Cryptography, Vol. 44, Sep. 2007, Pages 46-62.　　3. G. Weng and L. Hu, Some results on skew Hadamard difference sets, Designs, Codes and Cryptography, To Appear.
+4. G. Weng, R. Feng, W. Qiu and Z. Zheng, The ranks of Maiorana-McFarland bent functions, Science in China Series A: Mathematics, To Appear.　　5. G. Weng and C. Dong, A note on permutation polynomials over Zn, IEEE Transactions on Information Theory, To Appear.
+   

@@ -1,0 +1,19 @@
+舒泽亮，1979年5月生，西南交通大学教授，博士生导师。
+高级会员（IEEE Senior Member），国家自然科学基金评审专家，IEEE Trans. on Power Electronics、IEEE Trans. on Industrial Electronics、 IEEE Trans. on Industry Applications、IET Power Electronics、电力自动化设备等期刊的特邀审稿人。2002年，获西南交通大学工学学士学位。2007年，获西南交通大学工学博士学位，同年留校任教。2009年，任西南交通大学电气工程学院副教授。2013年，任西南交通大学电气工程学院教授。2015年，任西南交通大学电气工程学院博士研究生导师。
+电力电子技术及应用
+包括：多电平变换装置在电力电子变压器、同相供电、APF、STATCOM等系统及电力电子应用中的数字信号处理技术。主要从事电力电子技术及应用研究，包括：多电平变流器技术、同相供电变换器、电力电子变压器技术、APF和STATCOM等FACTS装置及电力电子应用中的数字信号处理技术等，在多电平变化器拓扑和优化控制方面具有较多积累，面向无功谐波补偿、车载电力电子变压器、贯通式同相供电等应用研究较深入主持国家自然科学基金青年、青年-面上连续项目、博士点新教师基金等，主研参与3项“十一五”国家科技支撑计划、2项“863”课题和1项铁道部科研开发计划等。发表学术论文五十余篇，包括《IEEE Trans. on Industrial Electronics》、《IEEE Trans. on Power Electronics》、《IET Power Electronics》等专业顶级期刊十余篇。其中，SCI检索论文单篇论文最高被引用41次；EI检索论文被引用159次。申请（授权）国家发明专利、实用新型和软件著作权等40余项。
+Hongjian Lin; Zeliang Shu*; Xiaoqiong He; Ming Liu, N-D SVPWM with DC Voltage Balancing and Vector Smooth transition Algorithm for Cascaded Multilevel Converter, IEEE Transactions on Industrial Electronics, 2017.
+Zeliang Shu*, Ming Liu, Li Zhao, Shasha Song, Qi Zhou, and Xiaoqiong He, Predictive Harmonic Control and Its Optimal Digital Implementation for MMC-Based Active Power Filter, IEEE Transaction on Power Electronics, 63(8), 5244 – 5254, 2016.
+Xiaoqiong He, Zeliang Shu*, Xu Peng, Qi Zhou, Yingying Zhou, Qijun Zhou, and Shibin Gao. Advanced Co-Phase Traction Power Supply System Based on Three-Phase to Single-Phase Converter. IEEE Transaction on Power Electronics, 29(10), 5323-5333, 2014.
+Zeliang Shu*; Shaofeng Xie, Ke Lu, Yuanzhe Zhao, XiaoQiang Nan, Daqiang Qiu, Fulin Zhou, Shibin Gao, Qunzhan Li, Digital Detection, Control, and Distribution System for Co-phase Traction Power Supply Application. IEEE Transactions on Industrial Electronics, 60(5):1832-1839, 2013.
+Zeliang Shu*, Xiaoqiong He, Zhiyong Wang, Daqiang Qiu, Yongzi Jing, Voltage Balancing Approaches for Diode-Clamped Multilevel Converters Using Auxiliary Capacitor Based Circuits, IEEE Transactions on Power Electronics, 28(5):2111-2124, 2013.
+Zeliang Shu*, Na Ding, Jie Chen, HaiFeng Zhu, Xiaoqiong He, Multilevel SVPWM with DC-Link Capacitor Voltage Balancing Control for Diode Clamped Multilevel Converter based STATCOM, IEEE Transactions on Industrial Electronics, 60(5):1884-1896, 2013.
+Zeliang Shu*; Shaofeng Xie; Qunzhan Li, Single-Phase Back-to-Back Converter for Active Power Balancing, Reactive Power Compensation and Harmonic Filtering in Traction Power System. IEEE Transactions on Power Electronics, 26(2):334-343, 2011.
+Shu,Zeliang*; Guo,Yuhua; Lian,Jisan. Steady-State and Dynamic Study of Active Power Filter with Efficient FPGA-based Control Algorithm. IEEE Transactions on Industrial Electronics, 55(4):1627-1536, 2008.
+Shu,Zeliang*; Tang,Jian; Guo,Yuhua; Lian,Jisan. An Efficient SVPWM Algorithm with Low Computational Overhead for Three-Phase Inverters. IEEE Transactions on Power Electronics, 22(5):1797-1805, 2007.
+舒泽亮*, 马伟天, 柳明, 陈亚军, 何晓琼. 中点钳位型H桥级联单相变换器均压SVPWM最优工作点转移路径研究, 中国电机工程学报, 36(13): 3565-3572, 2016.
+2015年度教育部自然科学奖二等奖，电力电子变换器建模与控制方法（第三排名）
+；2013年度九三学社成都市委杰出青年（第一排名）
+；2010年西南交通大学电气工程学院青年教师奖
+；高级会员（IEEE Senior Member）
+。 国际电气与电子工程师学会                国际电气与电子工程师学会 

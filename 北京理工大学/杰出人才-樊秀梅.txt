@@ -1,0 +1,16 @@
+樊秀梅，女，入选教育部“新世纪优秀人才”和陕西省“百人计划”。ACM、IEEE会员，教授，博士生导师。目录1 个人简介2 获得荣誉3 科研情况4 代表性著作论文1985年-1989年在天津大学电子工程系学习，获工学学士学位。1998年-2001年在北方交通大学通信控制系获工学博士学位。2001年-2003在清华大学计算机系从事博士后工作。2004年-2013年在北京理工大学从事科研教学，教授，博士生导师，物联网工程专业责任教授
+【1】。2013年至今在西安理工大学从事科研教学，教授，博士生导师
+【2】。主要研究领域是移动物联网关键技术与智能控制、下一代移动互联网关键技术、车联网体系结构与智能控制理论、网络性能评价等。2007年入选教育部新世纪优秀人才计划
+【3】，2013年入选陕西省第五批百人计划
+【4】。科研情况作为项目负责人获得国家自然科学基金“网络与信息安全”重大研究计划课题(下一代移动互联网服务质量研究)
+、国家自然科学基金（车联网环境下的数据交换理论与技术研究
+）、国家高技术研究发展计划(863计划)项目(支持间歇连接的新型无线自组织网络路由技术
+)等多项国家科研课题。（1） , Chao Wang, Jiguo Yu, Kai Xing, Yingwen Chen, Jiawei Liang. A Reliable Broadcast Protocol in Vehicular Ad Hoc Networks.  2015.
+【5】（2） , Wang Chao, Zhang Jing. Context-Based Adaptive Routing in Opportunistic Network.  Vol.22(CJE-1), pp173-176(2013).
+【6】（3） , CHEN Hui, Asynchronous Opportunity Routing for Delay-tolerant networks, , Vol.17,No.4, Oct.2008, p 698—702
+.【7】（4） Wei, W., Fan, X., Song, H., Fan, X., & Yang, J.. Imperfect information dynamic stackelberg game based resource allocation using hidden markov for cloud computing. IEEE Transactions on Services Computing, PP(99), 1-1., Feb. 2016.【8
+】（5） ，单志广，张宝贤，陈辉，容迟网络体系结构及其关键技术研究，，2008年第1期，p161-170.【9
+】（6） ，陈常嘉，“端用户可控IP QoS路由体系和算法研究“，，Vol.14,No.5，P1023-28, 2003,5.【10
+】（7） 陈辉,,单志广, 受限网络中基于转发历史异步路由及中继数量研究, ，2008年10期，p1687—1694.【11
+】（8） 杨戈，, 基于CDN的流媒体动态调度算法[J]. 通信学报. 2009. 30(2): 42-46.【12
+】               

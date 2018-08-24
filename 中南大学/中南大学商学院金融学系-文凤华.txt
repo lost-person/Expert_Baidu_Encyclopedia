@@ -1,0 +1,13 @@
+(1972.8-)，男，湖南益阳人，湖南大学工商管理学院金融学硕士，湖南大学工商管理学院管理科学与工程博士，中国科学院数学与系统科学研究院管理科学与工程博士后，美国佛罗里达大学与英国埃塞克斯大学访问学者。中南大学，中南大学数据科学与经济行为决策研究中心主任。：中国优选法统筹法与经济数学研究会理事兼青年工作委员会副主任、中国决策科学学会副主任、中国系统工程学会理事兼青年工作委员会委员、湖南省投资理财学会副会长。《系统科学与数学》、Financial Innovation等国内外刊物编委，DDNS等多个SCI/SSCI检索期刊的Guest Editor。多次担任BIFE、CSO等国际学术会议的程序委员会主席，组织的BIFE被：中国管理学青年奖（2015），湖南省学科带头人（2008），湖南省杰出青年基金获得者（2009），湖南省优秀青年社科专家（2010），湖南省新世纪121人才工程人选（2011），中国科协第281次青年科学家论坛执行主席（2014）。：到目前为止，已在国内外刊物上发表论文60多篇，其中，SCI被引总次数达250余次，单篇最高SCI引用61次。曾经
+1., Gong X, Cai S. Forecasting the volatility of crude oil futures using HAR-type models with structural breaks[J]. Energy Economics, 2016, 59: 400-413.
+2.Huang C, Cao J, Wen F（）, et al. Stability Analysis of SIR Model with Distributed Delay on Complex Networks[J]. PloS one, 2016, 11(8): e0158813.
+3., Xu Gong,X. H. Xia, Jianbai Huang, Bin Pan. Investigating the risk-return trade-off for crude oil futures using high-frequency data[J]. Applied Energy, 2017, 196: 152-161.
+, Jihong Xiao, Chuangxia Huang, Xiaohua Xia. Interaction between oil and US dollar exchange rate: nonlinear causality, time-varying influence and structural breaks in volatility[J]. Applied Economics, 2017.
+, He Z, Dai Z, Yang X. Characteristics of Investors’ Risk Preference for Stock Markets. Economic Computation and Economic Cybernetics Studies and Research , 2014, 3(48):235-254.
+湖南省杰出青年基金（09JJ1010）：收益率分布特征与投资者行为偏差，2009.1-2012.12，30万元，已结题；
+国家自然科学基金面上项目（71371195）：投资者情绪生成、传染机制及其对资产定价的影响研究，2014.1-2017.12，57万，在研；
+国家自然科学基金面上项目（71171024）：行为金融视角下特质风险定价研究，2012.1-1015.12，45万元，在研；
+国家自然科学基金面上项目（70971013）：基于人工金融市场的收益率分布特征研究，2010.1-2012.12，23.3万元，已结题，后评估优秀；
+国家自然科学基金青年项目（70701035）：信息在有限理性投资者之间的扩散过程及其动力学特征，2008.1-2008.12，6.5万元，已结题；
+国家自然科学基金重点项目（71431008）：高维度、非线性、非平稳及时变金融数据建模和应用，2015.1-2019.12，260万，第三主持人。
+            

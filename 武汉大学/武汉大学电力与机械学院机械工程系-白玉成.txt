@@ -1,0 +1,8 @@
+白玉成是中国籍汉族人，职业是武汉大学动力与机械学院讲师。1998.9-2002.7于沈阳航空工业学院 获机械制造工艺与设备专业 学士学位
+。2002.9-2005.7 于动力与机械学院 获机械制造及其自动化专业 硕士学位。2005.9-2009.6 于 获 博士学位。2009.7-2011.10 在武汉大学的电气工程流动站从事博士后研究工作。2011.10—至今 机械系
+。机器人技术，数控技术，伺服驱动技术，机电控制技术
+。（1)输电线路感应取电装置参数的匹配方法，电力系统自动化，2010.11（2)内置式控制方法，电工技术学报，2011.10(3)Overhead High-voltage Transmission Line Decing Robot System and Expeiment Study,2010 International Conference on Intelligent Robotics and Applications, ICIRA2010, Shanghai, 2010(11), published by Springer Lecture Notes,indexed in EI,(4)Research on Ultra-Low Speed Control of PMSM in Servo System, Congress7th on Inteligent Control and Automation. 2008.6(5)On-Line Identification and Compensation Methods of Permanent Magnet Flux Linkage Fluctuationns,2010 IEEE International Conference on Intelligent Computing and Intelligent Systems, ICIS2010, published by IEEE xplore.,indexed by EI,
+⑴主持的项目国家青年科学基金项目：电力线缆高效攀爬关键技术研究
+。⑵参与的项目项目：高压输电线路除冰机器人（主要完成人）。国家863项目：（超）高压输电线路自主及其应用（主要完成人）。：高压巡线机器人感应取电装置（主要完成人）。高校自主科研项目：高压输电线路可重构移动作业机器人关键技术（主要承担者）。宁夏吴忠供电局：输电线路导线断股和损伤（主要承担者）
+。（1)“一种沿架空高压输电线路行驶的机器人”（2)“用于架空高压输电导线的感应取电装置”（3)“用于架空的感应取电装置参数匹配方法”（4)“实时同步及通信控制方法”（5)“基于的数控系统数字通信方法”（6)“分布式开放体系数控系统”（7)“一种基于以太网技术的数控通信方法”（8)“数控系统通信接口、数控系统及数据接收和发送方法”
+ 武汉大学华中科技大学机械科学与工程学院机械电子工程武汉大学动力与机械学院  永磁同步电机弱磁调速 蛇形机器人 国家科技支撑计划巡线机器人山东电力研究院自动检测装置 高压输电线路数控系统网络控制器以太网技术 

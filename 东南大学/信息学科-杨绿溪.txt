@@ -1,0 +1,61 @@
+教授，博导。东南大学国家重点学科实验室。
+Yongming Huang, Luxi Yang, Mats Bengtsson, and Bjorn Ottersten, “A limited feedback joint precoding for amplify-and-forward relaying,” to appear in IEEE Transactions on Signal Processing, 2009
+Chunguo Li, Luxi Yang, Yuhui Shi, An Asymptotically Optimal Cooperative Relay Scheme for Two-way Relaying Protocol, to appear in IEEE Signal Processing Letters, 2009.
+Zhao Rui, Yang Luxi, Zhu Weiping, “Transmission scheme and performance analysis for decode-and-forward MIMO two-way relay systems” , to be published, Science in China Ser. F Information Sciences, 2009.
+Yongming Huang, Luxi Yang, and Wei-ping Zhu, A Limited Feedback SDMA Scheme with Dynamic Multiplexing Order, Journal of Circuits, Systems and Signal Processing (CSSP), accepted, 2009.
+Daofeng Xu, Yongming Huang, Luxi Yang, Improved Nonlinear Multiuser Precoding Using Lattice Reduction, Signal, Image and Video Processing, Springer Publishing, Vol.3, No.1, pp.47-52, Jan, 2009.
+Yongming Huang, Daofeng Xu, Luxi Yang, Wei-Ping Zhu, A Limited Feedback Precoding System with Hierarchical Codebook and Linear Receiver, IEEE Transactions on Wireless Communications, Vol.7, No.12, Part 1 of Two Parts, pp.4843-4848, 2008.
+Min Lin, Luxi Yang, Weiping Zhu, and Min Li, An Open-Loop Adaptive Space-Time Transmit Scheme for Correlated Fading Channels, IEEE Journal of Selected Topics in Signal Processing, Vol.2, No.2, pp.147-158, 2008.
+Yongming Huang, Luxi Yang, Ju Liu, Limited Feedback SDMA for Downlink of Multiuser MIMO Communications System, EURASIP Journal on Advances in Signal Processing, Hindawi, 2008, Article ID 947869, 13 Pages.
+Daofeng Xu, Luxi Yang, Linear Transceiver Design for Multiuser MIMO Downlink, IET Electronics Letters, Vol.44, No.22, pp.1310-1311, October 23, 2008.
+Jianguo Liu, Luxi Yang, Transmit antenna selection for v-blast MIMO system based on extended channel matrix analysis, Journal of Circuits, Systems and Computers, World Scientific Publishing, Vol.17, No.2, pp.253-262, 2008.
+Min Lin, Min Li, Luxi Yang, Bin Li, Combined adaptive beamforming with space-time block coding for multi-antenna communications, Science in China (Scientia Sinica), Series-F, Vol.51, No.12, pp.2062-2073, 2008.
+Daofeng Xu, Yongmin Huang, Luxi Yang, Feedback of Downlink Channel State Information Based on Superimposed Coding, IEEE Communication Letters, Vol.11, No.3, 2007, pp.240-242.
+Daofeng Xu, Luxi Yang, (Semi-)Blind Channel Estimation for Space Time Block Coded System with Transmit Diversity, Signal, Image and Video Processing, Vol.1, No.1, April, 2007, pp.89-97.
+Die Hu, Luxi Yang, et. al., Optimal Pilot Sequence Design for Channel Estimation in MIMO OFDM Systems, IEEE Communication Letters, Vol.10, No.1, pp.1-3, 2006.
+Die Hu, Lianghua He, Luxi Yang, Joint pilot tone and channel estimator design for OFDM systems, IEEE Communication Letters, Vol.10, No.10, pp.695-697, 2006.
+Min Lin, Luxi Yang, Blind Calibration and DOA Estimation With Uniform Circular Arrays in the Presence of Mutual Coupling, IEEE Antennas and Wireless Propagation Letters, Vol.5, No.22, pp.315-318, 2006.
+Qianlei Liu, Luxi Yang, et. al., Decorrelating bootstrap equalizer for time-variation suppression of MIMO channel, EURASIP Signal Processing, Elsevier, Vol.86, No.7, pp.1509-1517, 2006.
+于晓燕，王加庆，杨绿溪，MIMO-OFDM系统中时间－频率双选择性衰落信道的信道估计，《中国科学》，E辑，Vol.35, No.8, 2005, pp.875-886.
+杨绿溪, 李克, 何振亚, 用于混沌同步的非线性观测器的稳定性分析, 《中国科学》, E辑, Vol.31, No.4, pp.355-362, 2001.
+Zhenya He, Luxi Yang, et. al., Blind Source Separation Using Clustering-Based Multivariate Density Estimation Algorithm, IEEE Transactions on Signal Processing, Vol.48, No.2, 575-579, 2000.Zhenya He, Ke Li, Luxi Yang, A Robust Digital Secure Communication SchemeBased on Sporadic Coupling Chaos Synchronization, IEEE Transactions on Circuits and Systems-I, Vol.47, No.3, 397-403,2000.
+Zhenya He, Luxi Yang, et. al., Approaches for blind separation of sources based on multivariate density estimation, International Journal of Circuits, Systems and Computers, Vol. 9, No. 3/4, pp.243-253, 1999.
+Luxi Yang, Zhenya He, Blind source separation from hybrid mixture of sub- and super-Gaussian signals by using nonlinear Infomax principle, Chinese Journal of Electronics, Vol.8, No.3, pp.292-297, 1999.
+Luxi Yang, Zhenya He, PCA-like behavior of linear Infomax algorithm with input noise, Chinese Journal of Electronics, Vol.8, No.4, pp.435-439, 1999.
+Luxi Yang, Zhenya He, A Cross-reference Method of Parameter Estimation and Noise Reduction and Its Applications, Journal of Electronics, Vol.16, No.3, 1999.
+杨绿溪，李春国，候祖磊，邹应全，张源，发明专利，“协作多点系统中基于扰动原理的闭环宏分集方法”，专利申请号：200910035384.X，2009年9月23日。
+杨绿溪，徐昊，李汀，陈瑾平，吴敏恬，发明专利，“中继增强型蜂窝系统及其路由选择与比例公平性调度算法”，专利申请号：200910034223.9，2009年8月26日。
+杨绿溪，徐昊，李汀，陈瑾平，吴敏恬，发明专利，“中继增强型蜂窝系统及其跨层贪婪比例公平性调度算法”，专利申请号：200910034222.4，2009年8月26日。
+俞菲，李汀，赵睿，，杨绿溪，发明专利，“一种基于双向中继网络编码系统的信号处理方法”，专利申请号：200910032741.7，2009年6月19日。
+杨绿溪，赵睿，李春国，仲崇显，俞菲，发明专利，“基于有限反馈的协作中继波束形成方法”，专利申请号：200910029240.3，2009年4月8日。
+杨绿溪，，李春国，仲崇显，俞菲，发明专利，“基于双向中继的多用户无线通信系统及方法”，专利申请号：200910029951.0，2009年3月30日。
+杨绿溪，俞菲，李春国，发明专利，“基于双向中继网络编码系统的通信方法”，专利申请号：200910025823.0，2009年3月11日。
+杨绿溪，仲崇显，李春国，赵睿，俞菲，发明专利，“多点有限协同多输入多输出通信系统预编码方法”，专利申请号：200910024833.0，2009年3月2日。
+杨绿溪，李春国，仲崇显，赵睿，俞菲，发明专利，“一种基于中继的多输入多输出通信系统及其通信方法”，专利申请号：200910025576.2，2009年2月11日。
+杨绿溪，许道峰，黄永明，。发明专利，“下行信道信息反馈和接收的方法及设备”，200610137285.9。2008年4月30日已公开，公开号：CN101170316。杨绿溪，许道峰，杜颖钢，发明专利，“时分双工多输入多输出的下行波束形成方法、装置和系统(无反馈)”，专利申请号：200710306383.5，2007年12月28日。2009年7月1日已公开，公开号：CN101471708。
+杨绿溪，许道峰，杜颖钢，发明专利，“时分双工多输入多输出的下行波束形成方法、装置和系统(有反馈)”，专利申请号：200710306382.0，2007年12月28日。2009年7月1日已公开，公开号：CN101471707。
+杨绿溪，许道峰，杜颖钢，发明专利，“一种发送下行链路信号的方法及基站”，专利申请号：200710302112.2，2007年12月14日。2009年6月17日已公开，公开号：CN101459634。
+杨绿溪，黄永明，罗元钎，杜颖钢，发明专利，“空分多址接入系统提高吞吐量性能的方法、系统及装置”，专利申请号：200710302115.6，2007年12月14日。2009年6月17日已公开，公开号：CN101459635。
+杨绿溪，许道峰，李斌，发明专利，“多用户多入多出通信系统、以及发射信号的方法和装置”，专利申请号：200710302109.0，2007年12月14日。2009年6月17日已公开，公开号：CN101459495。
+神经信息处理的几个重要问题研究，，裴文江，，，杨绿溪，2002年度江苏省科技进步一等奖
+盲信号处理理论与应用，何振亚、杨绿溪、刘琚、陈宇欣、汪军，2000年度江苏省科技进步一等奖
+。模型参数估计的方法研究, 何振亚、刘琚、杨绿溪、, 2001年中国高校科技奖自然科学二等奖
+及其智能信息处理应用基础，何振亚、李衍达、迟惠生、何永保、母国光、陈天平、张延忻、杨绿溪等，1998年教育部科技进步一等奖
+。多维数字信号处理的理论与应用研究，何振亚、、邹采荣、杨绿溪、王太君，1998年教育部科技进步二等奖。
+3GPP2 UMB国际标准提案,3GPP2 TSG-C WG3, C30-20061030-060, HRZ, “SDMA with Opportunistic Scheduling”, Northbrook, Illinois, USA, Oct. 2006.
+3GPP2 UMB国际标准提案, 3GPP2 TSG-C WG3 C30-20061204-033, HRZ, “SDMA with opportunistic scheduling,” Maui, Hawaii, USA, Dec. 2006.
+3GPP2 UMB国际标准提案, 3GPP2 TSG-C WG3 C30-20070108-033, “Update of SDMA with opportunistic scheduling,” Vancouver, Washington, USA, Oct. 2007.
+李春国，侯祖磊，邹应全，张源，杨绿溪。CoMP系统中基于扰动原理的闭环宏分集技术研究，提案编号：IMT-A_LTE+_09310，IMT-Advanced推进组+子工作组第十七次会议，提案获得通过，2009年8月。
+俞菲，张源，杨绿溪。基于中继协作与选择的分集方案研究，IMT-Advanced提案编号：IMT-A_LTE+_09460，推进组 LTE+子工作组第十八次会议，2009年9月。
+一级学科研究生学位课程教学改革, 陈明、沈连丰、杨绿溪、吴镇扬,江苏省教学成果二等奖，2004年12月
+
+中的空时信号处理
+中继协作通信与网络编码
+盲信号处理与阵列信号处理
+国家863计划项目：新型协同无线通信网络中的多用户自适应传输技术, 2007.7~2009.12,批准号：2007AA01Z262
+本课题将有效结合基于多中继、多用户或多基站的协作作通信和MIMO链路技术，将现有蜂窝网演化成以基站控制为主、中继站控制为辅的多层协作、分布式调度新型网络结构，并系统地研究其多用户MIMO高效传输方案。考虑的新型网络具有树形结构的分层协作，从上至下依次分为：多基站协作、中继层协作和多用户协作。针对该分层结构，将重点研究结合MIMO链路路技术和多层中继网络结构的各层协作处理和并行传输的具体方案、基于协作处理的分层和分布式调度策略、基于有限反馈信息的分层协作处理和资源调度方案，以及协作处理时收发机的优化设计问题，并定量分析引入分层协作和自组织方式后系统容量的提升能力。国家973重大项目 子课题：多域协同宽带无线通信基础研究－多用户多天线协同应用信道模型，2007.7~2011.12, 批准号: 2007CB310603
+在多域协同的网络级信道行为模型研究方面，结合新颖的MIMO链路技术和网络编码方法，建立MIMO中继传输网络的优化协作处理行为模型，获得尽可能逼近网络容量域的优化中继传输方案；研究基于有限反馈信息的分层和分布式调度策略，及其优化设计与实现方法。在新型系统容量评价方法方面，针对引入中继协作的MIMO多用户网络系统，分析其容量域，和中断概率、误码率、分集度等系统性能。国家自然科学基金：多用户MIMO通信中下行链路的空时信号处理与优化设计, 2007.1~2009.12,，批准号：60672093
+本项目针对MIMO多用户下行链路，基于实际的信道模型和系统参数设置，探索在多天线多用户通信系统中，如何利用有限的频率和功率资源，设计更加有效的空分多址、空间分集和多用户分集方案，提高现有多用户MIMO系统的传输速率和检测性能。拟具体分析信道信息不准确时多用户MIMO广播信道的容量，解决如何及时有效地或只用有限的比特数反馈多用户MIMO信道的信息，研究利用信道估计误差统计特性提高发射端预编码设计的鲁棒性，以及时变信道下的发射端预编码和自适应调制设计；探索多种性能约束条件下的发射端和接收端的多维联合优化问题；探索MIMO多用户分集系统中用户调度、信道分配和随机波束形成技术的有效集成以及联合优化，为MIMO多用户下行链路中的信息高速传输设计出几种可行的方案，获得一些MIMO多用户空时处理的关键技术。该项目的研究对MIMO空分多址系统走向实际应用具有非常重要的现实意义。华为通信技术有限公司重点预研项目：面向3GPP2空口演进的无线关键技术的研究，
+2005.12~2007.12。研究多用户自适应MIMO-/通信系统中基于(部分)信道状态信息()或信道质量信息(CQI)的最优传输方案设计与动态资源调度的联合优化问题江苏省自然科学基金：快时变MIMO信道下的空时信号处理方法研究, 2005.10~2007.12,批准号：BK2005061
+以双选择性衰落MIMO时变信道模型研究为基础，探索各种空时处理技术，解决快衰落下多径MIMO信道的跟踪和空时均衡的有效实现问题；充分利用空时编码数据的特殊结构和信息冗余，探索隐含导频和一阶统计量方法的可行性，综合利用空-时-多径-多卜勒分集；探讨OFDM-MIMO方案在快时变环境下的可实现性及其与单载波方案的比较，以及发射端的最优预编码问题。为双选择性MIMO时变信道下的信息高速传输设计出几种可行的方案，获得一些空时处理关键技术。
+东南大学信息科学与工程学院信号与信息处理数字信号处理                            黄永明  赵睿    罗毅     混沌何振亚张毅锋蔚承建  盲信号邹采荣 神经网络理论 高西奇    LTE  通信与信息系统 通信信号处理 移动通信MIMO       OFDMASDMACSI  

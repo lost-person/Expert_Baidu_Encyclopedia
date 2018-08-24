@@ -1,0 +1,19 @@
+白皓（1969—）河北省昌黎县人。北京科技大学教授，工学博士，博士生导师。主要从事工业生态教学研究。目前任中国机械工程学会高级会员、中国工程机械工程学会工业炉分会副总干事、中国物资再生协会专家团专家及中国国际工程咨询公司评估专家。
+    1991年北京科技大学热能工程系本科毕业。1997年4月获得北京科技大学冶金系硕士学位，之后留校从事教学和科研工作。2002年10月至2006年3月，在日本（仙台）东北大学工学研究科金属工学专攻获得博士学位。攻读博士学位期间，从事炼钢细微粉尘的高效捕集研究，对考虑伦敦－范德华力作用气溶胶凝并速度进行了数值与实验基础分析。2006年4月回国至今，在北京科技大学冶金与生态工程学院生态科学与工程系历任副教授、教授，从事冶金工业节能与环保及工业生态教学研究工作。
+社会职务1. 美国矿业、金属与材料学会（TMS） 会员
+2. 日本铁钢学会会员
+3. 中国机械工程学会高级会员,中国机械工程学会工业炉分会常务理事4. 中国国际咨询工程公司 咨询评估专家5. 中国 中国物资再生协会 专家团专家
+本科课程：《冶金传输原理》、《环境传输原理》、《热能转换与高效利用》、《生态工程设计原理》；研究生课程：《冶金传输理论及应用》、《钢铁工业系统节能减排技术》、《冶金节能原理与技术》。
+主要研究方向为：1）工业过程流动与传热现象分析与模拟。　　2）能源新技术基础研究与工业应用：低温热源热力系统研发；新型高发射率节能涂层材料研制。　　3）能源系统的评估与优化：钢铁工业能耗瓶颈分析；能源系统exergy分析与评价；能源系统用能优化。　　4）碳排放模型与分析：钢铁企业碳排放过程模型与钢铁企业低碳指标体系构建。　　5）气溶胶与颗粒物污染控制基础研究。　　6）冶金固体废弃物资源化利用技术研究：以钢渣为原料的陶瓷材料基础研究。
+（1） 工业粉尘中气溶胶粒子在虑层中的收集行为及湍流凝并机理，国家自然科学基金项目，第一负责人，2006-2009。　　（2）节能整体型钢制螺旋翅片管结构参数优化及特种轧制和装备技术研究，广东省教育部产学研项目，项目承担人，2007-2009。　　（3）炼铁热风炉蓄热体表面高温辐射材料覆层技术开发及应用，科技型中小企业技术创新基金，项目承担人，2006-2009。　　（4）宝钢节能优势分析及节能减排潜力研究，宝钢横向课题，项目承担人，2007-2008。　　（5）冶金污染治理与陶瓷废渣资源化技术开发及产业示范，广东省粤港关键领域重点突破招标项目，项目承担人，2007-2009。　　（6）济钢能耗状况诊断及能量流网络优化研究，济南钢铁公司横向课题，项目负责人，2009-1011。　　（7）低温余热发电热力系统的非水工质选择与性能优化技术开发，中船重工横向课题，项目负责人，2011-2012。　　（8）钢渣“热”和“渣”双利用制备高附加值产品的关键技术基础研究，国家自然科学基金重点项目，子课题负责人，2011-2014。　　（9）城市低碳技术综合开发研究，北京卡本低碳技术研究院横向课题，子课题负责人，2010-2011
+。1.  白皓，钱文涛，宗燕兵等，钢铁过程细微颗粒物凝并性能研究，北京科技大学学报，v29(S2):69-72。
+2.  白皓.王苗,苍大强等, 高炉热风炉用高发射率涂料的节能效果及机理分析, 北京科技大学学报，V32(7):925-921。
+3.  白皓,马扬,王刚等, 钢铁企业基于能耗指标分解模型的情景分析, 北京科技大学学报，V32(11):1513-1519。4.  高玉峰,白皓,苍大强等, 螺旋翅片管轧制的中频感应加热数值模拟, 北京科技大学学报，V31(10):1311-1315。
+8.  H. Bai, P. Liu, LH. Zhao, etc., Analysis on the microstructure characteristics of steel-slag based ceramics, Advanced Materials Research, v 150-151, p 133-138。5.  白皓,刘璞,李宏煦等, 钢铁企业CO2 排放模型及减排策略,北京科技大学学报, V32(12):1623-1629。6.  王刚,白皓,苍大强等, 钢铁企业能耗瓶颈诊断数学模型及应用,北京科技大学学报, v31,n9,1195-1199。
+7.  M. Wang, H. Bai, DQ. Cang, etc., Research on the Optimization Application of BF Hot Stove Energy-saving Coating, JOURNAL OF IRON AND STEEL RESEARCH INTERNATIONAL, v16 1007-1010子辑:art2Sul.2
+。9.  H. Bai, Y. Ma, HF. Li, ect., Energy saving bottleneck analysis in iron and steel plant based on decomposition model of energy consumption index, Proceedings - 2010 International Conference on Digital Manufacturing and Automation, ICDMA 2010, v 1, p 648-651, 2010
+。10.  H. Bai, Y. Ma, ect., Chemical and morphological properties of particulate matter generated from coal-fired circulating fluidized bed boiler, 3rd International Conference on Measuring Technology and Mechatronics Automation, ICMTMA 2011, v1,708-711。
+11.  Y. Ma, H. Bai, ect., Study on the respirable particulate matter generated from the petroleum coke and coal mixed-fired CFB boiler, 2010 International Conference on Digital Manufacturing and Automation, ICDMA 2010, v2,569-572,2010。
+12.  H.Bai，YF. Gao, W. Wei, ect., Dynamic Simulation and Analysis of Rolling Process of Integral Steel Spiral Finned Tube, Advanced Science Letters, v4,1-4。13.  H. Bai, P. Liu, HX. Li, ect., Analysis of Carbon Emission Reduction of China’s Integrated Steelworks, TMS（The Minerals, Metals & Materials Society),2011, 253-264。
+14.  王苗，苍大强，白皓等，高发射率涂料应用于高炉热风炉的节能效果，钢铁，V44(11),91-95。15.  白皓,齐道辉等, 微米级气溶胶粒子在滤层中的收集效率研究,过程过程学报, V9(S1):31-35。
+一种工业余热辅助下的化粪池积淀物厌氧发酵工艺方法，发明专利，200910082646.8。高炉热风炉蓄热体高辐射覆层技术，中华全国。                  

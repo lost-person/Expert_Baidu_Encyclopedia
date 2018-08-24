@@ -1,0 +1,5 @@
+翟涌，女，北京理工大学机械与车辆学院车辆工程副教授/硕导。
+汽车电子及电子控制、自动变速控制
+汽车自动变速操纵控制系统软硬件设计
+　　1. 张幽彤、陈宝江、翟涌，汽车电子技术原理与应用，北京理工大学出版社，2006年2月；　　2. 陈宝江、翟涌、张幽彤，MCS单片机应用系统实用指南，机械工业出版社，1997　　3. WuChao Zhang, Yong Zhai, Study on Electro-Pneumatic Clutch for Automatic Mechanical Transmission，et al., 2011, Applied Mechanics and Materials, 148-149, 1149　　4. Tao Hong, Xijun Zhao, Yong Zhai, Development of an Automatic Steering System for Electric Power Steering (EPS) System Using Fuzzy Control Theory, Communication Systems and Information Technology Volume 100, 2011, pp 179-186　　5. Design of vehicular engine control unit based on EMC analysis, electrical and control engineering, 2011 international conference满益明、翟涌、陈慧岩、龚建伟、王斌斌，基于单片机与变频器的感应电动机调速系统设计与实现，微电机，42卷7期，85~87。　　6陈志刚、翟涌、陈慧岩，轮式装甲车辆自动变速操纵技术研究，兵工学报，2004年4期；
+    

@@ -1,0 +1,5 @@
+苟思，女，博士学位，四川大学水利水电学院副教授，主要从事生态水文学及农业水利工程领域的研究。
+2010-2014，博士，美国德州农工大学，土木工程专业； 2007-2010，硕士，中国水利水电科学研究院，水文与水资源专业； 2003-2007，学士，中国农业大学，农业水利工程专业。
+多尺度生态水文模型的开发及运用、卫星遥感研究“依赖于地下水的生态系统(Groundwater Dependent Ecosystems, GDEs)”如何联合使用土壤水和地下水。 在小尺度上（单株植物），运用系统动力学思想，自主开发植被用水模型。引入新的植被根系吸水、植被根系水力再分配以及植被水分胁迫的模拟方法。模拟在不同气候条件下，不同植被的用水规律； 在中尺度上（小流域尺度），将小尺度上开发的模型与土壤水地下水模型和陆面模型（ParFlow.CLM）进行耦合，形成分布式的生态水文模型。用于模拟地下水——土壤——植被——大气（GSPAC）系统中的动态关系； 在大尺度上（区域尺度），利用卫星遥感，对依赖于地下水的生态系统进行识别。
+2011-2014 法国斯伦贝谢基金会“未来教职”奖学金 "Faculty for the Future" Fellowship, Schlumberger Foundation； 2013 美国地球物理学会（AGU）优秀学生论文奖 Outstanding Student Paper Award, American Geophysical Union (AGU)； 2013 美国国家地下水协会（NGWA）Farvolden奖 Farvolden Award，National Ground Water Association （NGWA）； 2011 美国德克萨斯水资源协会（TWRI）Mills奖 Mills Scholarship, Texas Water Resources Institute (TWRI).
+    

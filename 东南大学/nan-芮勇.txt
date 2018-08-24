@@ -1,0 +1,21 @@
+芮勇博士(Yong Rui) ，联想集团首席技术官、高级副总裁，负责联想集团技术战略和研发方向的规划和制定，并领导的工作。
+ 芮博士曾在微软任职18年，加入联想前任常务副院长，领导关键的人工智能团队和研究院所有工程团队。2016年11月加入联想。
+芮勇博士是国际计算机学会会士( Fellow)
+, 国际电气电子工程学会会士()，国际模式识别学会士(IAPR Fellow)以及国际光学工程学会会士 (SPIE Fellow) 。
+获得ACM Trans. on Multimedia Computing, Communication and Applications (TOMM) 2017年度最佳论文奖(Nicolas Georganas奖)，IEEE Computer Society 2016 技术成就奖， IEEE Signal Processing Society 2016 年度最佳论文奖，IEEE Trans. on Multimedia 2015和 ACM Multimedia 2007 最佳论文奖。自2014年至今，他连续三年入选Elsevier中国高被引学者(Most Cited Chinese Researchers)计算机学科的前三名。拥有60余项美国和国际专利，是人工智能领域权威专家。
+芮勇博士拥有学士学位，硕士学位, 以及美国博士学位，并持有美国宾州大学沃顿商学院Microsoft Leadership Program 证书。芮勇在博士毕业之后，便进入美国微软研究院总部工作了7年，任微软总部研究院主任研究员。2006年初回到中国，担任微软亚太研发集团首任战略总监 (2006-2008)，负责制定和执行集团的整体研发战略；2008-2010年任微软亚太研发集团研发总监，全面负责公司第一款教育产品在华的研发；
+2010-2012年，任微软亚洲工程院副院长及微软亚太研发集团中国创新孵化部总经理，负责集团在华产品技术的创新及孵化。在这之后，芮勇博士回归基础科研，加入微软亚洲研究院担任常务副院长，负责多媒体搜索、大数据挖掘等领域的研究，以及全院各领域的工程创新项目。
+2016年11月，芮勇博士加入联想，担任联想集团首席技术官、高级副总裁，领导研发与技术团队。
+芮勇博士拥有美国及国际技术专利六十余项，是国际计算机学会会士( Fellow)
+，国际电气电子工程学会会士(IEEE Fellow)，国际模式识别学会会士(IAPR Fellow)以及国际光学工程学会会士(SPIE Fellow) 
+。芮勇博士获得了很多重要奖项，包括：ACM Trans. on Multimedia Computing, Communication and Applications (TOMM) 2017年度最佳论文奖(Nicolas Georganas奖)，IEEE Computer Society 2016 技术成就奖，IEEE Signal Processing Society 2016 年度最佳论文奖，IEEE Trans. on Multimedia 2015和 ACM Multimedia 2007 最佳论文奖。自2014年至今，他连续三年入选Elsevier中国高被引学者(Most Cited Chinese Researchers)计算机学科的前三名。芮勇在产品开发上有和基础科研上一样重要的成就。芮博士在1999年开发了微软MovieMaker V1.0中的视频边界检测技术。从2000到2006年芮博士和他的团队向Live Meeting, Office Communicator和Media Server Office转移了多项关键技术。芮博士是微软Office RoundTable产品的创始人之一，该产品于2007年成功发布。回到中国之后，芮博士和他的团队又开发出了包括Office OneNote 2010链接笔记等多项微软第一批的教育产品。从2010至今芮博士和他的团队又在互联网，移动设备及医疗系统孵化开发出了多项新产品。加入联想后，作为首席技术官带领团队研发的知名产品包括联想Xiaole智能客服系统、daystAR、SmartCast+等。
+芮勇的经历覆盖了研发管理的四大方面：制定战略，基础科研，技术孵化和产品开发。既负责过整体战略，也在第一线带兵打过硬仗。先后任清华大学、北京大学、东南大学、中科院、中国科技大学和浙江大学的客座教授，
+国家千人计划评委，浙江省人工智能发展专家委员会委员，
+中国声谷智库专家委员会委员，
+中科院《支撑创新驱动转型的技术预见》信息技术领域“人工智能与智能社会”组专家，
+中科院模式识别国家重点实验室、北京大学数字视频编解码技术国家工程实验室、中国人民解放军总医院医疗大数据应用技术国家工程实验室、北京大学数字视频编解码技术国家工程实验室和华中师大国家数字化学习工程技术研究中心的技术委员会委员，
+清华企业家协会 (TEEC) 会员。国际多媒体权威学刊 IEEE Multimedia Magazine 主编，ACM Transactions on Multimedia Computing, Communication and Applications (TOMM) 编委，IEEE Access 和 International Journal on Multimedia Retrieval 首任编委，IEEE Tran on Circuits and Systems for Video Technologies (2006-2010)编委，Springer/ACM Multimedia Systems编委 (2004-2006)，Journal International Journal on Multimedia Tools and Applications 编委(2004-2006)，以及 IEEE Transaction on Multimedia (2004-2008)编委。国际计算机协会多媒体专委会 (ACM SIG Multimedia)中国区首任主席。芮勇博士是许多一流国际会议的组织委员会和程序委员会主席：2009年和2014年 ACM多媒体大会联合总主席，2006年和2012年ACM ICMR联合总主席，2009年IEEE ICME多媒体大会联合程序委员会主席，2006年ACM多媒体大会的程序委员会主席，以及2006年环太平洋多媒体大会的程序委员会主席。芮勇还是中国，美国，澳大利亚及香港自然科学基金评委。
+
+IEEE Computer Society表示，芮勇博士因其在“多媒体分析与检索领域开创性的贡献”（pioneering contributions to multimedia analysis and retrieval）而荣获该学会2016技术成就奖
+。国际模式识别学会(IAPR)指出，芮勇博士在视觉模式分析、识别以及检索领域作出了重要的贡献（contributions to visual pattern analysis, recognition and retrieval）
+。联想研究院 微软亚洲研究院 ACM IEEE Fellow  东南大学清华大学伊利诺伊大学厄巴纳-香槟分校   ACM            

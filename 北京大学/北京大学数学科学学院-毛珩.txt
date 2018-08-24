@@ -1,0 +1,52 @@
+毛珩
+，
+信息科学系
+、。
+2003.09-2009.03，专业，工学博士,，光电学院
+1999.09-2003.06，(光学仪器)专业，工学学士,，电子信息学院
+及其成像反问题
+结合光学调控与反馈的技术
+复杂光学的可计算理论
+/3D与重建
+其他问题
+生物神经环路活体显微成像：实时定位追踪，实时像差补偿，相机超帧频
+深层生物组织光片显微成像：多层波前传感，多层波前校正，深度图像复原
+广域高分辨亿像素遥感相机：复杂大视场图像拼接，成像中的空间光调制器件
+2012-2014，时空多尺度神经环路活体成像技术，委，青年科学基金项目(61101156)
+2016-2020，高能效图像与视频处理技术：理论，实现和应用研究，委，与交流项目(61520106004)
+2015-2017，高逼真度视听系统的理论与方法，委，创新研究群体科学基金项目(61421062)
+2014-2017，从互联网城市相片集发现热门景观和重建焦点区域的四维时空模型，委，面上项目(61375022)
+2011-2015，细胞信号时空动态的前沿研究和关键技术，国家重大基础研究()项目(2011CB809105)
+2011-2014，高逼真度视听系统的理论与方法，委，创新研究群体科学基金项目(61121002)
+2010-2013，中的关键数学问题，委，重大项目(10990013)
+2009-2011，多模态分子层析成像技术的研究及其应用，委，面上项目(60872078)
+2004-2009，甚高分辨率空间遥感器的光学理论基础与方法研究，国家安全重大基础研究()项目
+毛珩，陶乐天，陈良怡，自适应在深层动态荧光显微成像中的应用和发展，，45(6)，2016.
+毛珩，李宣成，，陶乐天，周铁*，基于主动轮廓模型的运动线虫中心线定位算法，：数学，46(7)，2016.
+Shengkun Shi, Heng Mao*, A generalized hybrid algorithm for bioluminescence tomography, Biomedical Optics Express 4(5): 709-724, 2013. (, *Corresponding Author)
+Yanbin Lu, Jiansheng Yang, John W Emerson, Heng Mao, Tie Zhou, Yuanzheng Si, Ming Jiang,Cone-beam reconstruction for thetwo-circles-plus-one-line trajectory, Physics in Medicine and Biology 57(9): 2689 - 2707, 2012. ()
+Yuanzheng Si, Heng Mao, Bin Zhang, and Ming Jiang, Diffusive reflectance for the free-space light propagation theory,Applied Physics Letters 96, 013702, 2010. ()
+Heng Mao, and Dazun Zhao, Alternative Phase-Diverse Phase Retrieval algorithm based on Levenberg-Marquardt nonlinear optimization, Optics Express 17(6), 4540-4552, 2009. ()
+Heng Mao, Xiao Wang, and Dazun Zhao, Application of Phase-Diverse Phase Retrieval to wavefront sensing in non-connectedcomplicated pupil optics, Chinese Optics Letters 5(7) , 397-399, 2007. ()
+毛珩，王潇，，复杂光瞳波前相位恢复算法与实验验证， 29(3), 575-581, 2009. ()
+，毛珩，，基于光强传播方程的相位恢复， 27(12), 2117-2122, 2007. ()
+毛珩，，胡新奇，两种提高扩展信标波前探测信噪比的方法， 26(5), 2006. ()
+Yanbin Lu, Heng Mao, Jiansheng Yang and Ming Jiang, Calibration methods for an  cone-beam system,13th International Congress of Stereology, 2011.
+Heng Mao, Xiao Wang, and Dazun Zhao, Phase Retrieval based wavefront sensing experimental implementation and wavefront sensing accuracy calibration, SPIE 7283, 2009. ()
+Xiao Wang, Heng Mao, DaZun Zhao, Method for detection of primary mirror figure deformation in space Source, 7281, 2009. ()
+Heng Mao, Xiao Wang, and Dazun Zhao, Modified wavefront sensing and correction methodology for active segment mirror of large space telescope,Oral Report,’s 92nd Annual Meeting,  Technical Digest, 2008.
+Heng Mao, Xiao Wang, and Dazun Zhao, Hybrid Phase-Diverse Phase Retrieval algorithm in wavefront sensing for segmented optics,  6624, 2007. ()
+Haiwen Li, Jie An, Liang Shan, Fei Sun, Shuxiang Dong, Letian Tao and Heng Mao*. Adaptive  Image Mosaic algorithm for imaging biological tissue section over very large field of view,  2016. Submitted 14 Mar 2016.
+Haiwen Li, Jie An, Liang Shan, Fei Sun, Louis Tao, Heng Mao*, High spatial resolution  Image Mosaic method for large biological tissue section.
+Heng Mao, Xuancheng Li, Haiwen Li, Xiange Wen, Rui Chen, Han Qiao, Tie Zhou, Louis Tao*, High spatio-temporal resolution real-time tracking fluorescent Microscopy for the interested neural circuits of freely moving Caenorhabditis elegans.
+，王潇，毛珩，王欣，胡新奇，，，一种空间反射型光学遥感器主镜面形畸变探测方法及系统，中国发明专利，专利号200810057446.2，授权日2009年11月25日
+。毛珩，杨建生，卢彦斌，司远征，，John W Emerson，周铁，姜明，一种多模态分子层析，中国发明专利，专利号201010299375.4，申请日2010年09月29日，授权日2012年06月13日
+。毛珩，陶乐天，姜明，一种生物活体，实用新型专利，专利号201320368802.9，授权日2013年11月27日
+。毛珩，陶乐天，姜明，一种生物活体，中国发明专利，专利申请号201310255101.9，申请日2013年06月25日，授权日2016年03月16日
+。毛珩，陶乐天，，李宣成，姜明，一种线虫实时自动追踪，中国发明专利，专利申请号201410117593.X，申请日2014年03月27日
+。毛珩，陶乐天，姜明，陈良怡，，安捷，宗伟健，一种荧光光片显微及方法，中国发明专利，专利申请号 201510683873.1，申请日2015年10月20日
+。毛珩，线虫二维实时追踪成像系统，V1.0，申请日2016年04月20日
+。.本/研选修课,2011-2012/2012-2013/2013-2014/2014-2015/2015-2016/2016-2017学年秋季学期
+.本/研选修课,2011-2012/2012-2013/2014-2015学年春季学期
+信息光学的数学理论及其应用.研究生选修课,2013-2014/2015-2016学年春季学期
+ 北京大学数学科学学院  讲师硕士生导师 光学工程北京理工大学 测控技术与仪器武汉大学 光电成像 实时成像 成像系统 2D图像处理 数字信号处理  3D  国家自然科学基金 国家自然科学基金国际合作 国家自然科学基金 国家自然科学基金 973 国家自然科学基金 信息处理国家自然科学基金 国家自然科学基金 973 光学技术红外与激光工程 李海文中国科学 SCI SCI SCI SCI SCI 赵达尊光学学报EI 王潇赵达尊光学学报EI 赵达尊北京理工大学学报EI x-rayCT EI SPIEEI OSAOSA SPIEEI 2DECCV 2D  赵达尊朱秋东俞信 周宇成像系统 神经环路成像系统 神经环路成像系统 乔晗成像系统 李海文成像系统 北京大学神经环路 数字信号处理 计算机图像处理  

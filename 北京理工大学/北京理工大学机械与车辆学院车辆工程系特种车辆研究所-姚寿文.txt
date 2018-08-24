@@ -1,0 +1,6 @@
+姚寿文，男，北京理工大学机械与车辆学院车辆工程副教授/硕导。
+车辆理论与技术（虚拟装配下传动系统性能仿真、液粘传动、结构优化）
+　　1.An improved method for evaluating the rotational speed stability of a hydro-viscous clutch in mixed lubrication, Shou-Wen Yao; Qian Liu;Hong-Wei Cui;Shan-Shan Feng, Friction, 2015,Vol.3,No.1,47-55　　2.Mathematical model and experiment validation of fluid torque by shear stress under influence of fluid temperature in hydro-viscous clutch，Hongwei Cui; Shouwen Yao; Qingdong Yan; Shanshan Feng; Qian Liu，Chinese Journal of Mechanical Engineering，2014，Vol.27 No.1 32-40　　3.A Study of Contact Condition in Vehicle Transmission Virtual Assembly System, Yan Chen，Shouwen Yao，Fei Liu,FISITA 2012 World Automotive Congress Proceedings --Volume 7:Vehicle Design and Testing　　4.崔红伟，姚寿文，闫清东，液黏调速离合器摩擦副润滑油道设计及特性分析，煤炭学报，2012，37（Supp.2）:499-504　　5.Structural Dynamic Topology Optimization of the Transmission Housing, Shouwen Yao, Jianli Lv, Qingdong Peng, Advanced Materials Research , 2011，308： 368-3726.　　7.李慎龙,姚寿文,闫清东, 车辆综合传动装置虚拟样机集成设计平台研究，计算机集成制造系统, 2009，19（2）： 245-249
+国家自然基金项目《提高液粘调速离合器流-固-热耦合动态调速特性的摩擦副设计方法研究》　　国家自然基金项目《基于虚拟装配的车用高集成度传动装置动力学实时交互仿真技术研究》　　基础预研项目《传动系统结构集成与优化设计技术研究》　　重点实验室基金项目《基于光滑粒子流体动力学的液力变矩器动态性能仿真研究》
+国家科技进步二等奖1项；国防科学技术一等奖1项，二等奖1项；铁道科学研究院科学技术奖1项；　　发明专利：　　转速稳定可调的特种车辆风扇液黏调速离合器（201310723522.X）　　一种用于特种车辆的高速大功率风扇调速装置（201210344886.2）
+     

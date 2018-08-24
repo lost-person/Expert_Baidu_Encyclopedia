@@ -1,0 +1,4 @@
+李永泉，男，1981年4月生于湖北，博士，副教授。1999-2003年于北京清华大学数学科学系读取学士。2003-2008年于香港科技大学工业工程与物流管理系读取博士。2008年12月-2012年8月任湖北省武汉市华中科技大学管理学院生产运作与物流管理系副教授。2012年9月至今任武汉大学经济与管理学院管理科学与工程系副教授。
+先后承担的主要课程有：　　运筹学，物流配送中心设计与规划，生产运作管理，质量管理，随机过程等。主要研究领域与研究兴趣：　　供应链管理，库存管理，博弈论，需求预测，质量管理等。（1） 2012.01–2014.12 国家自然科学基金青年基金, 经费20 万, 第一申请人. 题目：竞争博弈的供应链中需求信息的贝叶斯更新与库存决策研究。　　（2） 2011.01–2013.12 教育部博士点基金, 经费3.6 万, 第一申请人.题目：供应链产品需求预测与库存策略研究。
+1. Yongquan Li, Andrew Lim, Wee-Chong Oon, Hu Qin, Dejian Tu, The Tree Representation for the Pickup and Delivery Traveling Salesman Problem with LIFO Loading, European Journal of Operational Research (EJOR), Vol 212, Issue 3，2011.　　2. Yongquan Li, Kaijie Zhu, ”Information acquisition in new product introduction”, European Journal of Operational Research (EJOR), Vol 198, Issue 2, 2009.
+   

@@ -1,0 +1,21 @@
+张金会，男，1982年出生， 中共党员，河北省人。北京理工大学长聘副教授、博士生导师。教育经历2000年9月-2004年6月 河北科技大学理学院 数学与应用数学学士学位。2004年9月-2007年6月 河北科技大学理学院 应用数学专业硕士学位。2007年9月-2011年1月 北京理工大学自动化学院 控制科学与工程专业博士学位。工作经历2010年2月-2010年5月 香港大学机械工程系 研究助理（Research Associate） 合作导师James Lam教授。2010年12月-2011年3月 香港城市大学机械及生物医学工程学系 高级研究助理（Senior Research Associate） 合作导师Gang Feng 教授。2011年3月-2016年3月 北京化工大学信息科学与技术学院 副教授。2013年2月-2013年5月 University of Western Sydney 澳大利亚访问学者。2016年4月-2016年9月 天津大学电气与自动化工程学院 教授，博士生导师。2016年10月 至今 北京理工大学自动化学院 特别研究员（长聘副教授），博士生导师。
+《控制工程》，编委，2017年-至今。
+控制科学基础理论及应用 144学时 徐特立班本科必修课网络化控制理论与应用。抗干扰控制。飞行器姿态估计与控制。欠驱动控制。空间机器人控制。
+科研项目1、“网络化控制系统中的时延补偿控制策略研究”，2015年1月-2018年12月，国家自然科学基金。2、“事件驱动网络化控制系统的分析与综合”，2012年1月-2014年12月，国家自然科学基金。
+代表性论文[1] R. Huang, Jinhui Zhang∗, and Z. Lin, “Decentralized adaptive controller design for large-scale power systems,” Automatica, vol. 79, pp. 93–100, 2017.
+[2] Jinhui Zhang, X. Liu, Y. Xia, Z. Zuo, and Y. Wang, “Disturbance observer based integral sliding mode control for systems with mismatched disturbances,” IEEE Transactions on Industrial Electronics, vol. 63, no. 11, pp. 7040–7048,2016.
+[3] Jinhui Zhang, P. Shi, and W. Lin, “Extended sliding mode observer based control for Markovian jump linear systems with disturbances,” Automatica, vol. 70, pp. 140–147, 2016.
+[4] Jinhui Zhang, D. Zhao, and W. X. Zheng, “Output feedback control of discrete-time systems with self-triggered controllers,” International Journal of Robust and Nonlinear Control, vol. 25, no. 18, pp. 3698–3713, 2015.
+[5] Jinhui Zhang, Y. Lin, and G. Feng, “Analysis and synthesis of memory-based fuzzy sliding mode controllers,” IEEE Transactions on Cybernetics, vol. 45,no. 12, pp. 2880–2889, 2015.
+[6] Jinhui Zhang, Y. Lin, and P. Shi, “Output tracking control of networked control systems with delay compensations,” Automatica, vol. 57, no. 7,pp. 85–92, 2015.
+[7] Jinhui Zhang, P. Shi, J. Qiu, and S. K. Nguang, “A novel observer-based output feedback controller design for discrete-time fuzzy systems,” IEEE Transactions on Fuzzy Systems, vol. 23, no. 1, pp. 223–229, 2015.
+[8] Jinhui Zhang and G. Feng, “Event-driven observer-based output feedback control for linear systems,” Automatica, vol. 50, no. 7, pp. 1852–1859, 2014.
+[9] Jinhui Zhang and W. X. Zheng, “Design of adaptive sliding mode controllers for linear systems via output feedback,” IEEE Transactions on Industrial Electronics, vol. 61, no. 7, pp. 3553–3562, 2014.
+[10] Jinhui Zhang, G. Feng, and Y. Xia, “Design of estimator-based sliding mode output feedback controllers for discrete-time systems,” IEEE Transactions on Industrial Electronics, vol. 61, no. 5, pp. 2432–2440, 2014.
+[11] Jinhui Zhang, J. Lam, and Y. Xia, “Output feedback delay compensation control for networked control systems with random delays,” Information Sciences, vol. 265, pp. 154–166, 2014.
+[12] Jinhui Zhang, Y. Xia, and P. Shi, “Design and stability analysis of networked predictive control systems,” IEEE Transactions on Control Systems Technology, vol. 21, no. 4, pp. 1495–1501, 2013.
+[13] Jinhui Zhang, P. Shi, and Y. Xia, “Fuzzy delay compensation control for T-S fuzzy systems over network,” IEEE Transactions on Cybernetics, vol. 43, no. 1, pp. 259–268, 2013.
+[14] Jinhui Zhang, P. Shi, and Y. Xia, “Robust adaptive sliding mode control for fuzzy systems with mismatched uncertainties,”IEEE Transactions on Fuzzy Systems, vol. 18, no. 4, pp. 700-711, 2010.
+[15] Jinhui Zhang and Y. Xia, “Design of static output feedback sliding mode control for uncertain linear systems,” IEEE Transactions on Industrial Electronics, vol. 57, no. 6, pp. 2161-2170, 2010.
+2008年，河北省优秀硕士学位论文。2011年，北京市科学技术奖，二等奖。2011年，国家科学技术进步奖，二等奖。2012年，北京市优秀博士学位论文。2012年，高等学校科学研究优秀成果奖，（自然科学奖）二等奖。
+                    

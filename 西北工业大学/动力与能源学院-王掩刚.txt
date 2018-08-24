@@ -1,0 +1,8 @@
+王掩刚，男，1976年生，西北工业大学教授，博士生导师。　　1998年毕业于西北工业大学航空发动机系，　　2001年获航空宇航推进理论与工程硕士学位，　　2004年获航空宇航推进理论与工程博士学位。　　1998年至2003年任西北工业大学动力与能源学院助教，　　2003年至2007年任西北工业大学动力与能源学院讲师，　　2007至2013年任西北工业大学动力与能源学院副教授，　　2013年晋升为教授。　　现任动力与能源学院院长助理。　　2006至2008年西北工业大学/中国燃气涡轮研究院博士后，　　2011至2012年Deft理工大学访问学者。
+本科生专业课《气体动力学基础》　　研究生专业课《流体力学理论与应用》叶轮机气动热力学、高性能轴流压气机设计技术、叶栅内流场干扰效应与叶栅流动可视化技术、流动主动控制技、叶轮机械流动数值仿真技术
+[1]国家自然科学基金面上项目（51376150），“双排对转压气机叶顶泄漏流三维重构方法及其控制策略研究”，2014-2017　　[2]国家自然科学基金青年项目（50806061），“复杂几何约束条件下抽气控制激波非定常干涉机理研究”，2009-2011　　[3]航空基金(2011zb53019)，“吸附式叶片混合反问题设计技术研究”，2012-2013
+发表学术论文40余篇，其中被SCI收录3篇，EI收录30余篇。代表性论文：　　[1]Wang Yangang，Zhao Longbo, Investigation on the effect of trailing edge ejection on a turbine cascade, Applied Mathematical Modelling,2013.37(9) 6254–6265.
+[2]Wang Yangang, Arvind G., Eitelberg Georg, Study of Shock Wave Control by Suction & Blowing on a Highly-loaded Transonic Compressor Cascade， Int. J. Turbo Jet-Engines,2013.30(1),79-90[3]Wang Yangang，Guo Rui, Zhao Longbo,Ren Siyuan, Numerical Investigation on the Effects of Re-Organized Shock Waves on the Flow Separation for a Highly-Loaded Transonic Compressor Cascade, JOURNAL OF THERMAL SCIENCE, 2012.21(1), 13-20　　[4]王掩刚,牛楠,任思源,国睿,叶表和端壁抽吸对跨音速压气机稳定性影响对比分析,西北工业大学学报,2012.30(2)，251-255.
+[5]王掩刚,国睿,任思源,姜正礼,跨音速叶栅叶表附面层抽吸效应试验研究,航空动力学报,2011.26(9),643-648,
+获国防科技进步二等奖1项、三等奖1项，吴亚军奖教金（一等），陕西省2017年高等教育教学成果奖获西北工业大学优秀青年教师、本科最满意教师称号等。
+       

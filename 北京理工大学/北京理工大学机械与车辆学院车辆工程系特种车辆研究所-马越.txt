@@ -1,0 +1,6 @@
+马越，男，北京理工大学机械与车辆学院车辆工程讲师。
+机电复合传动系统控制，特种车辆动力学与控制
+[1] Design of Fuzzy Enhanced Hierarchical Motion Stabilizing Controller of Unmanned Ground Vehicle in Three Dimensional Space, International Journal of Computational Intelligence Systems, 2011.06　　[2] Simulation research on braking performance of hydrodynamic torque converter and retarder based on automatic shifting rules, International Journal of Modelling, Identification and Control, 2009.7　　[3] Terramechanics-based modeling of locomotion characteristics of miniature tracked unmanned ground vehicle, Proceedings of 2011 International Conference Modelling, Identification and Control (ICMIC), 2011.6
+国家自然科学青年基金：多段式机电复合传动系统换段过程稳定性与控制
+获国家科技进步二等奖2项，部位级科技进步二等奖2项
+     

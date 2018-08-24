@@ -1,0 +1,2 @@
+周蜀林，1966年5月出生，北京大学数学科学学院教授、博士生导师。
+从1982年9月起， 至1991年7月在北京大学数学系学习，获博士学位。1991年7月起在北京大学数学系工作， 历任讲师、副教授、教授。长期从事偏微分方程的理论和应用的研究， 对偏微分方程领域的方法应用熟练，尤其在退化椭圆和抛物型方程（方程组）和完全非线性椭圆和抛物型方程方面取得一些突出的研究成果，同时对与偏微分方程相关的几何测度论、调和分析和泛函分析有深刻的了解。A note on the very weak p-harmonic mappings。A priori L∞-estimate and existence of solutions for some nonlinear parabolic equationsm。Existence and uniqueness of weak solutions for a generalized thin film equation。The compound Poisson random variable’s approximation to the individual risk model。A surface reconstruction method for highly noisy point clouds。 

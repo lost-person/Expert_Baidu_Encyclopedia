@@ -1,0 +1,58 @@
+杨卫民，湖南会同人。同名的有北京化工大学教授、教育部“长江学者奖励计划”特聘教授杨卫民、上海营养保健品有限责任公司医师杨卫民。先后在北京化工大学获得学士、硕士和博士学位，并于2000年由国家公派至日本东京大学留学，在世界著名的高分子材料注射成型加工研究基地——横井研究室做博士后研究员。教授，北京化工大学博士生导师，兼任《中国塑料》、《塑料》、《橡胶工业》、《橡塑技术与装备》、《计算机辅助工程》等杂志编委，中国塑料加工协会专家委员会副主任
+、中国机械工程学会自动化分会委员，中国化工学会橡胶分会委员，中国塑料机械工业协会专家
+、中国橡胶机械工业协会专家等。北京化工大学高分子材料先进制造英蓝实验室——英才的摇篮。杨卫民教授指导“机械设计及理论”和“材料加工工程”学科的博士和硕士学位研究生。主要研究方向为机械工程与先进制造领域的“聚合物成型加工原理及设备”。从事聚合物成型加工原理及设备的研究，创新发明了高分子材料PVT特性在线测试方法及装置、塑料精密注射成型装备、高分子材料单元转子扰流强化传热技术及装置等并得到产业推广；国内外首创巨型轮胎超宽幅胶胚直接挤出成型工艺装备，研发的轮胎仿真分析系统经鉴定为国际先进水平；开辟了高分子制品微纳制造的新途径：首次提出高分子材料加工成型与先进制造的微积分思想，据此发明了一系列微纳制造新方法和新设备并成功应用。申请发明专利200余项(已授权82项)，PCT国际专利6项，发表论文260余篇，被EI收录50篇，SCI收录30余篇，著作8本（含英文著作1本：《Advances in Polymer Processing》），译著4本。1.高分子材料成型加工CAD/CAE/CAM世界著名的CAE软件公司如：美国ANSYS公司、澳大利亚MOLDFLOW公司和日本PLAMEDIA公司等与北京化工大学紧密合作。杨卫民教授领导的实验室（）已成为MOLDFLOW授权的“中国北京高级技术应用研究中心”与“华北地区技术推广中心”。高分子材料成型加工CAE软件内容包括注射成型、挤出成型、吹塑料成型、热成型、压塑成型、传递模塑和半导体封装成型等。此外，网络化的CAD/CAE/CAM应用研究中心还配备有各种CAD/CAM软件以及快速成型中心、工业机器人等。为各种高分子制品的开发、成型加工仿真、无模具样品试制、模具优化设计、成型加工的自动化整体方案设计等提供了一流的条件。2.高分子材料高效精密注射成型本研究室利用香港力劲机械公司捐赠新型注射成型机进行教学和科学研究。主要研究内容包括：1）注射充模流动与成型过程的可视化，面向整个制造业，着眼于提高成型品质量和效率，实验研究与仿真模拟分析研究相结合，探索成型过程的内在规律。已在该方向取得具有国际影响的研究成果并在世界著名期刊Polymer Testing和国际会议PPS上发表。2） 与CAD/CAE/CAM相结合，研究高分子材料成型模具优化设计、注射机优化设计、注射成型工厂的自动化、信息化方案。3） 研究先进的注射成型原理与设备如全电动注射成型机、精密注射成型机、超高速注射成机、复合注射、气体（水）辅助注射以及与注射模塑成型相关的先进成型方法与设备。3.高分子材料共混与复合改性在“211工程” 专项资金重点支持下， 建成了国内领先水平的高分子材料混炼实验室。实验研究条件在原有传统混炼设备基础上又添置了连续混炼机LCM-50、 磨盘式混炼挤出机与BUSS混炼挤出机（江波教授）和多种双螺杆挤出机（冯连勋教授等）。可以对各种功能母粒（纳米改性、高填充、高分子合金、阻燃、抑菌）的高效分散与共混机理进行研究，探索工业化生产的设备优化设计和最佳工艺条件，并且开展全新的高分子材料复合改性（如原位复合、碳纤维增强等）工业化生产方法的研究。4.橡胶制品和弹性减振元件加工原理及其设备开展的科研工作：1）研究高性能防水卷材、输送带、密封条等挤出成型与连续硫化工艺原理与设备。1996年杨卫民成功设计了创亚洲第一,世界一流的特大型鼓式硫化机。L型机头片材挤出成型原理与设备的研究成果获得省部级科技进步奖，2001年日本高聚合物成型加工学术大会上获得好评，2篇论文入选美国工程索引（EI）。在教育部骨干教师计划支持下开展了两端进料超宽幅片材连续挤出成型原理与设备研究，可与合适的企业进行合作，开发宽幅输送带、新型铁路枕带、宽幅防水卷材等成套技术与装备。2）在北京“科技新星”计划支持下，开展高性能轮胎CAE的研究。针对高级骄车和高速列车上大量采用的弹性减振部件开展理论研究与成型方法的研究。5.节能减排与传热强化杨卫民教授领导的科研团队，根据国家“节能减排”的迫切需要，经过两年的努力攻关，完成了“洁能芯”从小试、中试到工业化应用的整个研究开发全过程。其主要创新点包括独创性地提出了一种传热管内单元转子组合式强化传热与自清洁新方法，有效地解决了管壳式换热器效率低下的问题，攻克了换热管内结垢的顽症；通过研究“洁能芯”转子与管内介质相互作用的动力学原理，确定了转子结构参数和介质流速与转子转速之间的关系，取得了转子速度场、介质流场与传热温度场之间协同作用强化传热的良好效果；通过仿真模拟和可视化实验研究，揭示了转子在线自动清洗传热管内壁的作用机理；在强化传热理论基础上，通过结构优化、流体动力学、材料化学和成型工艺等方面的大量实验和理论研究，避免了螺旋扭带或胶球清洗等技术存在直接刮磨管壁的缺陷，保证了换热设备的安全；在50MW火力发电机组凝汽器上的实际应用结果表明，采用该技术使凝汽器真空度提高2.97KPa，机组发电煤耗率降低5.049g/(KW·h)，节约冷却用水9.8%%,节能降耗效果明显。· 大型聚合物制品挤出成型方法及其成型设备
+。· 在线测试聚合物压力-比容-温度关系的方法及装置
+。· 一种注塑机注塑螺杆
+。· 一种聚合物压力-比容-温度关系间接测试方法及其装置。· 一种磁场辅助的聚合物熔体静电纺丝装置。· 一种高效率的静电纺丝喷头。· 一种超磁致伸缩材料驱动的微位移机构。· 全电动注塑机的混合驱动式合模机构
+。· 熔体微分式精密注射成型机。· 一种微发泡注射成型机及其成型工艺。· 微分式挤出机及其成型工艺。· 超磁致伸缩材料驱动的热流道喷嘴装置。· 一种超高速注射成型机。· 叠层组合式挤出机。· 一种塑料注射成型机调模锁模装置。· 一种纳米叠层复合材料制备装置
+。· 一种塑料机械预热阶段等时到达设定温度的控温方法。· 一种行星螺杆混炼积分注塑机。· 一种用于微分注射成型的弹簧喷嘴。· 后置蓄能式超高速塑化注射装置。· 一种低摩擦输送通道及其成型方法
+。· 一种微纳结构制造装置及方法。· 一种微发泡注射成型螺杆。· 一种微发泡注射成型螺杆。· 一种交错熔接自增强管材及其成型方法
+。· 一种聚酰亚胺复合材料反应成型方法。· 一种基于微分原理的聚合物发泡材料制备装置及方法。· 一种直角式注射装置。· 高分子材料多色微积分幻彩注射成型装备
+。· 一种高阻隔性微纳叠层复合材料的制备装置及方法。· 测试聚合物在高冷却速率下的PVT关系的装置及方法。· 一种全电动超高速注塑机
+。· 一种全电动弹射式超高速注塑成型机
+。· 基于相变蓄能材料的温度控制方法
+。· 一种轿车子午线轮胎
+。· 振动式橡胶轮胎定型硫化方法及激振装置。· 一种连续胶带平板压机的压板。· 一种塑胶拉伸应力应变测试方法及装置
+。· 一种多层复合平带成型加工装置。· 一种弹性单元积分式智能安全轮胎及其制造方法
+。· 一种用橡胶清洗PVC挤出机的方法。· 一种硫化胶加工装置及方法。· 一种动态接地压力测试装置
+。· 一种塑胶气密性测试装置及方法。· 二阶花纹聚氨酯膜-橡胶复合轮胎及其成型工艺
+。· 一种可连续生产的高效熔体静电纺丝装置
+。· 一种结合静电纺丝技术的快速成型方法及装置。· 一种利用爬杆效应促进高黏度聚合物熔体静电纺丝的装置
+。· 一种新型一字架静电纺丝喷头。· 一种多排型静电纺丝喷头。· 一种喇叭状高效静电纺丝喷头
+。· 一种静电纺丝多股丝喷头。· 一种平行电场静电纺丝装置。· 静电纺丝法连续制备无纺布制品的装置。· 甲醛催化净化纤维及其制备方法
+。· 一种丝刷式微分熔体静电纺丝装置及方法。· 一种多电场耦合强力牵伸的静电纺丝装置
+。· 管内自清洁强化传热装置
+。· 转片式自清洁强化传热装置
+。· 一种换热管内边界层剪切扰动径向混流装置。· 换热管内叶片旋向交叉组合式转子
+。· 换热管内自转式转子连接结构。· 换热管内径向非对称叶片组合式转子。· 换热管内低驱动力自清洁与强化传热转子
+。· 一种微型可视化风动力及水动力试验台。· 一种强化传热管
+。· 单元组合式管外强化传热装置。· 换热管内导流式自撑紧挂件。· 换热管内自动居中式支撑架
+。· 风光塔式发电装置及方法。· 一种换热管用透空结构无规运动胶球。· 换热管内多孔组合式挂件。· 一种半敞开式转子
+。· 探火管性能间接测试装置及方法。· 探火管性能直接测试装置及方法
+。· 换热管内扭带型挂件。· 换热管内开槽螺旋叶片转子。· 一种换热管入水端挂件
+。· 一种换热管低流阻快装挂件。· 低流阻快装挂件。· 一种换热管单元组合式内插件硬连接装置
+。· 一种换热管内复合转子
+。《Advances in Polymer Processing》。《塑料挤出加工新技术》
+。《注射成型新技术》
+。《高分子材料注射成型CAE理论及应用》
+。《注塑机使用与维修手册》
+。《塑料精密注射成型原理及设备》
+。《热流道技术》
+。《快速原型技术》
+。《塑料连接技术设计师和工程师手册（原著第二版）》
+。《汽车工程用塑料外部应用》
+。突破高分子材料模塑成型精度控制的核心技术，发明了高分子材料PVT特性在线测试
+方法及装置并推广应用；突破多项关键技术，研制成功塑料精密注射成型装备并在宁波海天集团实现大规模产业化，美国《塑料新闻》发表主编评论文章，标题为：“Haitian Overtakes Global Giants”(海天超越全球列强)；国际首创巨型轮胎超宽幅胶胚直接挤出成型工艺装备应用取得显著的经济和社会效益，获国家发改委批准与三角集团和北京橡胶工业研究设计院产学研合作共建“轮胎设计与制造工艺国家工程实验室”；开辟了高分子制品微纳制造的新途径：首次提出高分子材料先进制造的微积分思想
+，独创性地阐明了聚合物熔体微分注射、微分静电纺丝、微积分纳米叠层复合成型加工的新原理，并据此发明了一系列微纳制造新方法和新装备获成功应用；发明了高分子材料单元转子扰流强化传热技术及装置并成功应用，得到国内外学术界和工业界的高度评价。Inter-jet Distance in Needleless Melt Differential Electrospinning with Umbellate Nozzles. 2014。Effect of gate size on the melt filling behavior and residual stress of injection molded parts. 2014。Polypropylene fibers fabricated via a needleless melt- electrospinning device for marine oil-spill cleanup
+2014。Tug of war effect in melt electrospinning
+.2013。Performance assessment in a tube with rotor–assembled strands mixed by spiral slot rotor and low flow resistance rotor. 2013。Simulation of Circular Tubes Fitted With V Cut and Square Cut Rotors. 2013。Differential Molding System for Micro Injection Molding of Thermoplastics. 2013。Numerical study on thermo-hydraulic characteristics of turbulent flow in acircular tube fitted with helical blade rotors. 2013。Heat transfer enhancement in the tube fitted with LefteRight helical blade rotors. 2013。Heat transfer enhancement in a tube fitted with helical blade rotors with grooves. 2013。Performance assessment in a tube with rotor–assembled strands mixed by spiral slot rotor and low flow resistance rotor..2013。Heat transfer enhancement in double-pipe heat exchanger by means of rotor-assembled strands
+. 2012Orthogonal Design Study on Factors Affecting the Degradation of Polylactic Acid Fibers of Melt Electrospinning. 2012。Heat transfer and friction characteristics of turbulent flow through plain tube inserted with rotor-assembled strands
+. 2011。Filling-To-Packing Switchover Mode Based on Cavity Temperature for Injection Molding. 2011。Dissipative particle dynamics simulation on the fiber dropping process of melt electrospinning. 2011。Gas barrier and morphology characteristics of linear low-density polyethylene and two different polypropylene films. 2011。Online measurement of rheological properties of polypropylene based on an injection molding machine to simulate the injection-molding process. 2011。Development of internal circulation two-platen IMM for thermoplastic polymer. 2011。Online pressure–volume–temperature measurements of polypropylene using a testing mold to simulate the injection-molding process
+. 2010。Orthogonal design study on factors effecting on fibers diameter of melt electrospinning. 2010。On-line testing equipment of P-V-T properties of polymers based on an injection molding machine
+. 2009。Multistep Analysis of the Mechanical Performance of an Air spring. 2009。Melt electrospinning of low density polyethylene having a low melt flow index. 2009。Miscibility, Morphology, Thermal, and Mechanical Properties of a DGEBA based Epoxy Resin Toughened with a Liquid Rubber
+. 2008。Multistep analysis of the mechanical performance of an air spring. 2008。Laboratory inverstigation and commercial test for rotors-assembled strand applied in smooth tube. 2008。An implicit control-volume finite element method and its time step strategies for injection molding simulation
+. 2007。Morphology, Dynamic mechanical and thermal studies on poly(styrene-c0-acrylonitrile) modified epoxy resin/galss fiber composites. 2007。Visual analysis of the flow behavior of core material in a fork portion of plastic sandwich injection molding
+. 2003。“高分子材料先进制造英蓝实验室”由教育部“新长江学者奖励计划”特聘教授
+杨卫民为学术带头人，是一支人员组成合理、创新能力强、具有很大发展潜力的研究队伍。创新团队依托我校“有机无机复合材料”国家重点实验室、“轮胎设计与制造工艺”国家工程实验室以及“高分子材料加工装备”教育部工程研究中心，努力建设国家重点学科“化工工程机械”、“材料加工工程”以及北京市重点学科“机械设计及理论”；同时，围绕“高端装备制造”和“新材料”两大战略新兴产业发展的国家重大需求开展研究，在“高分子材料加工成型高端装备”领域系统深入地开展高分子材料精密成型原理及装备、高分子材料加工成型重大关键装备以及高分子材料加工成型微纳制造装备等研究工作。集天下大成，育华夏英才；创天工奇技，造世间名物。塑料精密成型技术与装备的研发及产业化 国务院科技进步二等奖
+ 2011。工业连续化废橡胶废塑料低温裂解资源化利用成套技术及装备 国务院科技进步二等奖
+ 2011。植物纤维与高分子复合挤出装饰型材生产技术及装备 山东省科技进步二等奖 2013。幅胶胚挤出成型关键工艺及装备 中国石油和化学工业联合会科技进步二等奖 2013。冷态炼胶和节能硫化与轮胎低阻耐磨关键技术研究及其应用 中国石油和化学工业联合会科技进步二等奖 2012。精密塑料注射成型装备研发及产业化 宁波市科技进步一等奖 2012。高分子材料PVT在线测试技术及应用 中国石油和化学工业联合会科技进步二等奖 2010。基于可视化试验与CAE模拟的注射成型工艺优化 北京市科技进步三等奖 2010。伺服节能塑料注射成型工艺装备研发及大规模产业化 宁波市科技进步一等奖 2009。伺服节能塑料注射成型工艺装备研发及大规模产业化 浙江省科技进步二等奖 2009。新型化工余压能回收技术与装置 化工部科技进步三等奖 1997。橡胶防水卷材连续硫化挤出生产线 化工部科技进步三等奖 1995。L型挤出机头内橡胶流动均匀性及其工业应用的研究 第三届北京青年优秀论文奖 1994。L型机头宽幅胶板生产线 化工部科技进步三等奖 1992。1999年入选北京市“新星计划”。2005年入选教育部“新世纪优秀人才支持计划”。2011年入选教育部“新长江学者奖励计划”首批特聘教授。获得“侯德榜化工科技创新奖”。“北京市优秀教师”“全国化工优秀科技工作者”等称号。福赐德                                                         

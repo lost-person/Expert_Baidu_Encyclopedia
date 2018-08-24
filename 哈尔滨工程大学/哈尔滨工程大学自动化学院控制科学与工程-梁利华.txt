@@ -1,0 +1,7 @@
+梁利华 男，教授，工学博士，博士生导师。现任教于哈尔滨工程大学自动化学院院自动化学院，任教研室主任，船舶减摇与控制技术研究所所长
+。1995年自动化学院任教，从事教学及研发工作； 　　2002年任404教研室主任，船舶减摇与控制技术研究所常务副所长，　　2007年任所长；2000年副教授，2005年教授，2006年博导
+。主要从事船舶减摇控制技术、船体姿态控制、船舶操纵控制技术以及机电液一体化控制等
+ 。本科课程： 电液伺服系统、船舶控制原理；研究生课程： 电液伺服控制系统
+著作：研究生教材《液压传动与电液伺服系统》，本科生教材《液压伺服系统实验》, 《气动控制及应用》　　论文：发表论文120余篇，其中40余篇被SCI、EI、ISTP检索。(1) Design and analyze a new measuring lift device for fin stabilizers using stiffness matrix of Euler-Bernoulli Beam, PLOS ONE;（SCI 1区）(2)Design fuzzy input-based adaptive sliding mode control for vessel lift-feedback fin stabilizers with shock and vibration of waves, Shock and vibration; （SCI 3区）(3)Simulation and analysis of Magnus rotating roll stabilizer at low speed, Ocean Engineering; （SCI 2区）(4)减摇鳍升力反馈自适应控制系统设计,哈尔滨工程大学学报；(5)基于切换模糊化的升力减摇鳍自适应滑模控制,哈尔滨工程大学学报；(6) 改进蚁群算法在并联六自由度平台优化设计中的应用, 哈尔滨工程大学学报； 　　(7) Control system design and test research of ship U-tube passive controlled tank ,Harbin Gongcheng Daxue Xuebao； 　　(8) 减摇鳍电液负载仿真台前馈补偿解耦控制研究,中国机械工程； 　　(9) Influence of sway motion on passive anti-rolling tank,JOURNAL OF MARINE SCIENCE AND APPLICATION； 　　(10) 减摇水舱的固有频率和阻尼研究与试验分析，船舶工程； 　　(11) SWATH船参数不确定模型的建立及μ综合控制研究, 武汉理工大学学报(交通科学与工程版)； 　　(12) 基于多目标遗传算法的SWATH船稳定鳍优化设计，船舶力学
+。教学： 本科生课程《电液伺服系统》获校级精品课程科研： “十五”期间科技成果推广工作先进个人 ； 黑龙江科学技术进步二等奖；中国船舶工业总公司省部级科技进步三等奖
+。      

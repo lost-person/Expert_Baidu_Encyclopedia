@@ -1,0 +1,3 @@
+戴鹏杰，男，管理科学与工程系讲师。兼任中国运筹学会排队论分会理事。 2001/9－2005/7 南京大学，应用数学专业，理学学士学位　　2005/9－2010/7 中科院数学与系统科学研究院，统计学，理学博士2010/08-至今 中国人民大学商学院 讲师
+多元统计分析（硕士）数据挖掘（硕士）随机过程（本科）商业数据挖掘、统计建模。论文《Model Checking for general linear error-in-covariables model with validation data》，Journal of Systems Science and Complexity, （2010） 23: 1153-1166.《Semi parametric Model Based Inference In the Presence of Missing Responses》，Biometrika（2008），95,3,721-734.《Model checking for Partially linear models with Missing Response at Random》，Journal of Multivariate Analysis, 100（2009），636-651.
+中国人民大学商学院  

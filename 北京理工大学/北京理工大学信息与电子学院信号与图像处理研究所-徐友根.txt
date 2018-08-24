@@ -1,0 +1,7 @@
+徐友根，出生于1975年8月，江苏盐城人氏，现为北京理工大学信息与电子学院51所副所长，教授，博士生导师。1991.7 - 1994.7：学习。1994.9 - 2004.7：电子工程系学习，获工学博士学位。2004.8 - 2007.7：北京理工大学信息与电子学院（原电子工程系）教师，讲师。2007.7 - 现在： 北京理工大学信息与电子学院教师，副教授。2009.9 - 现在： 北京理工大学信息与电子学院信号与图像处理研究所副所长。2016.7 - 现在： 北京理工大学信息与电子学院信号与图像处理研究所副所长，教授。
+阵列信号处理及其应用
+。主持和参与完成了国家自然科学基金项目、教育部博士点基金项目和横向科研项目10余项，主持国家自然科学基金项目一项，出版学术专著《极化敏感阵列信号处理》
+，发表学术论文70余篇，其中SCI检索10余篇，同时也是IEEE信号处理汇刊（IEEE Transactions on Signal Processing）、欧洲信号处理杂志（Signal Processing）、EURASIP信号处理进展杂志（EURASIP Journal on Advances in Signal Processing）、IET雷达、声纳和导航杂志（IET Radar, Sonar and Navigation）、IET信号处理杂志（IET Signal Processing）、国际数字信号处理杂志（Digital Signal Processing）、电子学报和电子与信息学报等国内外知名学术刊物的审稿人。
+[2015-04-22]Perturbation analysis of conjugate MI-ESPRIT for single acoustic vector-sensor-based noncircular signal direction finding。[2015-04-22]Polarimetric angular smoothing algorithm for an electromagnetic vector-sensor array。[2015-04-22]Noncircularity-exploitation in direction estimation of noncircular signals with an acoustic vector-sensor。[2015-04-22]Virtual-manifold ambiguity in HOS-based direction-finding with electromagnetic vector-sensors。[2015-04-22]Adaptive array utilising multimode antennas for correlated non-circular arrivals
+。[2015-04-22]极化敏感阵列信号处理
+。江苏省盐城中学北京理工大学      

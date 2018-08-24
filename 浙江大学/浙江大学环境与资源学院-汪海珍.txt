@@ -1,0 +1,22 @@
+汪海珍：女，1975年2月生，浙江建德人，博士，浙江大学环境与资源学院土水资源与环境研究所教授，博士生导师，主要研究方向为微生物与土水环境安全。中国土壤学会土壤化学专业委员会委员、美国微生物学会会员、国际腐殖物质学会会员，“Environmental Science and Technology”、“Journal of Agricultural and Food Chemistry”、“Science of the Total Environment”、“Environmental Science and Pollution Research”、“PloS One”等SCI期刊审稿人。2007年入选浙江大学学术带头人后备人才培养“新星计划”，2007年9月至2010年3月于美国加州大学Riverside分校和美国农业部Salinity国家实验室访问交流，2013年入选浙江省151人才工程。主持国家自然科学基金、国家科技支撑计划课题、教育部留学回国人员科研启动基金、浙江省自然科学基金和浙江省科技计划等项目10余项，研究成果曾获浙江省科学技术二等奖2项，在“The ISME Journal”、“Applied and Environmental Microbiology”、“Frontiers in Microbiology”、“Environmental Pollution”、“Journal of Environmental Quality”、“Soil Science Society of America Journal”、“Bioresource Technology”、“PloS One”等国际刊物上发表SCI论文近50篇。
+土水有机污染微生物修复；土壤微生物生态安全；土壤微生物系统生物学及应用。国家自然科学基金“ sp.对多环芳烃的降解作用及其生物组学研究”, 2015.01-2018.12.国家自然科学基金“基于共溶剂模型的白腐菌细胞壁吸附和降解多环芳烃微界面过程的研究”, 2012.01-2015.12.国家科技支撑计划子课题“旱地红壤酸化的阻控及酸化农田红壤修复技术集成与示范”, 2012.01-2016.12.国家自然科学基金重大项目课题“碳氮铁耦合作用下的水稻土中典型污染物迁移转化与微生物学机制”子课题, 2011.01-2014.12.国家自然科学基金“土壤中大肠杆菌O157:H7存活机制的研究”, 2010.01-2012.12.国家自然科学基金“根际环境中五氯酚存在形态及活化/钝化作用机制研究”, 2008.01-2010.12.*Ma B, , Dsouza M, Lou J, He Y, Dai ZM, Brookes P, Xu JM*, Gilbert JA*. Geographic patterns of co-occurrence network topological features for soil microbiota at continental scale in eastern China. , 2016, 10: 1891-1901.
+*, Lou J, Gu HP, Luo XY, Yang L, Wu LS, Liu Y, Wu JJ, Xu JM. Efficient biodegradation of phenanthrene by a novel strain  sp. WF1 isolated from a PAH-contaminated soil., 2016, 23: 13378-13388.
+Yao ZY, Xing JJ, Gu HP, *, Wu JJ, Xu JM, Brookes PC. Development of microbial community structure in vegetable-growing soils from open-field to plastic-greenhouse cultivation based on the PLFA analysis. , 2016, 16: 2041-2049.
+Gu HP, Lou J, *, Yang Y, Wu LS, Wu JJ, Xu JM. Biodegradation, biosorption of phenanthrene and its trans-membrane transport by  sp. WF1 and . , 2016, 7: 38.
+Lou J, Gu HP, *, An QL, Xu JM*. Complete genome sequence of  sp. WG5, an efficient phenanthrene-degrading bacterium from soil. , 2016, 218: 49-50.
+Yao ZY, Yang L, *, Wu JJ, Xu JM*. Fate of  O157:H7 in agricultural soils amended with different organic fertilizers. , 2015, 296: 30-36.
+Gu HP, Luo XY, *, Wu LS, Wu JJ, Xu JM*. The characteristics of phenanthrene biosorption by chemically modified biomass of . , 2015, 22(15): 11850-11861.
+Zhang TX,Yang WH, Zhu XY, *, Brookes PC, Xu JM*. The pH dependence of O157:H7 adsorption on kaolinite and goethite surfaces. , 2015, 15(1): 106-116.
+, Wei G, Yao ZY, Lou J, Xiao KC, Wu LS, Wu JJ, Xu JM*. Response of  O157:H7 survival to pH of cultivated soils. , 2014, 14(11): 1841-1849.
+, Ibekwe AM, Ma JC, Wu LS, Lou J, Wu ZG, Liu RY, Xu JM*, Yates SR*. A glimpse of  O157:H7 survival in soils from eastern China. , 2014, 476-477: 49-56.
+, Zhang TX, Wei G, Wu LS, Wu JJ, Xu JM*. Survival of  O157:H7 in soils under different land use types. , 2014, 21(1): 518-524.
+Yao ZY, *, Wu LS, Wu JJ, Brookes PC, Xu JM*. Interaction between microbial community and invading  O157:H7 in soils from vegetable fields. , 2014, 80(1): 70-76.
+Dai ZM, Li RB, Muhammad N, Brookes PC, *, Liu XM, Xu JM*. Principle component and hierarchical cluster analysis of soil properties following biochar incorporation. , 2014, 78(1): 205-213.
+Zhang TX,*, Wu LS, Lou J, Wu JJ, Brookes PC, Xu JM*. Survival of O157:H7 in soils from Jiangsu Province, China. , 2013, 8(12): e81178.
+Yao ZY, Wei G, *, Wu LS, Wu JJ, Xu JM*. Survival of O157:H7 in soils from vegetable fields with different cultivation patterns., 2013, 79: 1755-1756.
+Ma B, Wang JJ, Xu MM, He Y,*, Wu LS, Xu JM*. Evaluation of dissipation gradients of polycyclic aromatic hydrocarbons in rice rhizosphere utilizing a sequential extraction procedure. , 2012, 162: 413-421.
+Wang P,*, Wu LS, Di HJ, He Y, Xu JM*. Influence of black carbon addition on phenanthrene dissipation and microbial community structure in soil., 2012, 161: 121-127.
+Ma B, Xu MM, Wang JJ, Chen HH, He Y, Wu LS, *, Xu JM*. Adsorption of polycyclic aromatic hydrocarbons (PAHs) on  cell walls: Application of cosolvent models for validating the cell wall-water partition coefficient. , 2011, 102 (22): 10542-10547.
+Ma B, Chen HH, He Y, *, Xu JM*. Evaluation of toxicity risk of polycyclic aromatic hydrocarbons (PAHs) in crops rhizosphere of contaminated field with sequential extraction. , 2010, 10 (5): 955-963.
+, Xu JM*, Yates SR*, Zhang JB, Gan J, Ma JC, Wu JJ, Xuan RC. Mineralization of metsulfuron-methyl in Chinese paddy soils. , 2010, 78 (3): 335-341.
+                     

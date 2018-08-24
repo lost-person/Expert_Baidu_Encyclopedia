@@ -1,0 +1,34 @@
+陈晓非，1958年2月出生于辽宁省本溪市，地球物理学家，中国科学院院士，中国科学技术大学地球物理学教授
+，南方科技大学讲席教授，地球与空间科学系系主任
+。2000年获聘为教育部“长江学者”特聘教授。2015年1月，当选（IUGG）首批会士。
+  2015年12月，当选中国科学院院士
+。陈晓非长期从事地震波传播和震源破裂动力学理论与数值模拟研究
+。教育经历1991年，，地球科学系，地球物理学，博士。
+（师从国际著名地震学家KeiitiAki
+）1985年，，地球物理研究所，地球物理学，硕士。1982年，，地球与空间科学系，地球物理学，学士。工作经历2017-至今，南方科技大学，地球及空间科学系，讲座教授。
+2008.06－至今， ，地球和空间科学学院，教授，执行院长，教育部“长江学者”特聘教授。1996.09－2008.05，，教授、教育部“长江学者”特聘教授；（此间历任：地球物理教研室主任，系副主任，地球与空间科学学院副院长兼地球物理系主任，北京大学校学术委员会委员，理学部学术委员会委员）1996.08－1996.08，，地球物理学系，Visiting Scholar。1996.03－1996.05，，Visiting Assistant Researcher。1996.01－1996.03，，地球与行星科学系，JSPS博士后。1991.01－1996.08，，地球科学系，博士后、Research Associate。1986.06－1991.12，，地球科学系，研究助理。1985.02－1985.12，，地球物理所，实习研究员。的基本理论与计算方法及其在成像、防震减灾工作及资源勘探领域的应用。复杂地球中及结构成像破裂及震源破裂过程的成像近场强地面震动定量模拟及震害预测提出了计算地震波在不规则(二维)层状地球介质中的激发与传播问题的系统的方法；该方法突破了基于瑞利假设的Aki-Larner方法对界面弯曲幅度的限制，也适用于界面弯曲幅度较大的问题。
+系统地研究了横向非均匀地球介质中勒夫波(Love面波)的激发与传播的理论问题，提出了存在于横向非均匀地球介质中的变形振型及频散曲面的概念，并在此基础上建立了完整、精确地描述横向非均匀地球介质中地震面波的激发与传播的理论公式。提出了一种系统简洁、高效而精确的计算平行层状地球介质中面波频散及简正振型的理论方法，从根本上彻底解决了经典Haskell矩阵算法中的高频精度丢失问题。改进与完善了经典的计算平行层状介质中理论地震图的算法理论。在地震波和震源破裂动力学等理论与计算地震学研究领域取得了一系列系统性的重要研究成果，并在震害防御与地球资源勘探研究领域获得应用。在国内外学术期刊共发表论文120篇。
+Rupture phase diagrams for a planar fault in 3-D full-space and half-space,, 2015, 202, 2194-2206Elastic wave finite-difference simulation using discontinuous curvilinear grid with non-uniform time step: two- dimensional case,., 2015, 202, 102–118Electrokinetic effect combined with surf ace-charge assumption: a possible generation mechanism of co-seismic EM signals,, 2015, 200: 837–8503-D numerical simulations of earthquake ground motion in sedimentary basins: testing accuracy through stringent models,, 2015, 201, 90–111Complex frequency-shifted multi-axial perfectly matched layer for elastic wave modelling on curvilinear grids,2014, 198 (1): 140-153The scale-dependent slip pattern for a uniform fault model obeying the rate- and state-dependent friction law,, 2014, 119: 4890-4906Induced electromagnetic field by seismic waves in Earth’s magnetic field,2014, 119: 5651-5685Construction of equivalent single planar fault model for strike-slip step-overs,, 2014, 632: 244-249Three dimensional curved grid finite-difference modelling for non-planar rupture dynamics,2014, 199(2): 860-879Numerical Tests on Generalized Diffraction Tomography,, 2014, 610: 74-90Stable discontinuous grid implementation for collocated-grid finite-difference seismic wave modeling, 2013, 192(3), 1179–1188Early electromagnetic waves from earthquake rupturing: I. theoretical formulations,, 2013, 192(3): 1288-1307Early electromagnetic waves from earthquake rupturing: II. validation and numerical experiments,, 2013,192(3): 1308-1323Preliminary Results of Strong Ground Motion Simulation for the Lushan Earthquake of 20 April 2013, China,, 2013, 26(3/4): 191-197fmax and fault zone property of Lushan earthquake of 20 April 2013, Sichuan, China,, 2013, 26(3/4): 179-183Numerical simulation of coseismic electromagnetic fields associated with seismic waves due to finite faulting in porous media,, 2012, 188(3): 925–944.Variations in fmax along the ruptured fault during the Mw7.9 Wenchuan earthquake of 12 May 2008,, 2012, 102(3): 991-998Three-dimensional Elastic Wave Numerical Modeling in the Presence of Surface Topography by a Collocated-Grid Finite-Difference Method on Curvilinear Grids,, 2012, 190: 358-378Fault Geometry and Slip Distribution of the 2010 Yushu Earthquakes Inferred from InSAR Measurement,2011, 101(4): 1951–19583-D lithospheric structure beneath southern Tibet from Rayleigh-wave tomography with a 2-D seismic array,, 2011,185(2): 593-6082015年1月，当选（IUGG）首批会士并获银质奖章（Silver Medal）。
+2009年获，地球科学奖。
+2007年被、、、和联合授予“全国地震科技工作先进个人”荣誉称号。
+2006年获。2005年“优秀创新群体”学术带头人。2000年获聘为教育部“”特聘教授。1999年入选“”。1996年获“”资助。《Geophysical Journal International》, Editor(2008年－至今)
+；《Earthquake Science》, Associate Editor-in-Chief (2009年－至今)；(IUGG)，中国委员会，委员
+；国际地震学与地球内部物理学会(IASPEI)，地震波传播分委会，委员；国际地震学与地球内部物理学会 (IASPEI)，中国委员会，副主席；2011年－至今，第八届全国委员会委员；2015年－至今，第七届地球物理学与地质学学科评议组召集人
+；2009年－ 2013年，第六届地球物理学与地质学学科评议组，委员
+；2013年－至今，教育部地球物理与地质学教学指导委员会，主任委员
+
+；2006年－2010年，教育部地球物理与地质学教学指导委员会，副主任委员
+；国家自然科学基金会第七、八、十一届评委；国家科技奖励评审委员会 委员；2001年－至今，《》 编委
+；2002年－至今，《》 副主编
+；，第七届科学技术委员会，委员
+；2012年－至今，，副理事长
+；，第八届理事会，副理事长、常务理事
+；，第六、七届理事会， 常务理事
+；，第五届理事会， 理事
+；，第五届《地震学报》编辑委员会，副主编
+；，第六、七、八届国际交流委员会，委员
+；，第五、六、七、八届地壳深部探测专业委员会，委员
+；，第八届地震学专业委员会，委员
+；，第六、七届地震学专业委员会，主任
+；，第五届地震学专业委员会，副主任
+。，副理事长  国际大地测量与地球物理学联合会   美国南加州大学  中国地震局中国科学技术大学 中国科学技术大学北京大学地球物理学美国斯坦福大学美国加利福尼亚大学圣克鲁兹分校日本广岛大学美国南加州大学美国南加州大学中国地震局地震学地球内部结构介质地震波传播震源动力学地震物理学反演  国际大地测量与地球物理学联合会 香港何梁何利基金科学与技术进步奖 中国地震局科技部国防科工委中国科学院国家自然科学基金委员会 政府特殊津贴国家自然科学基金长江学者国家人事部百千万人才工程国家杰出青年科学基金 国际大地测量与地球物理联合会 中国科学技术协会国务院学位委员会 国务院学位委员会    地球物理学报 地震学报 中国地震局 中国地球物理学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会 中国地震学会

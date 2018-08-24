@@ -1,0 +1,19 @@
+勾明，男，吉林长岭人，1972.12年生，博士研究生，副教授，中共党员。
+姓名：勾明
+职称：副教授
+荣誉：专业学位硕士生导师
+研究方向：对称群和精确解
+1992.9—1996.7 西北大学数学系攻读本科学位
+1999.9—2002.7 西北大学数学系攻读硕士学位
+2004.9—2007.11 攻读博士学位
+1996年七月 本科毕业留校任教至今
+西北大学博士科研基金项目，偏微分方程对称群，2008.1-2010，主持。
+陕西省教育厅专项科研计划项目，拟线性热方程的群分叶法和函数变量分离解，2011. 7 –2013.7 ，主持。
+西北大学校内科研基金项目，期权定价模型的对称分析，2010.1-2012.1，主持。
+Gouming,Quchangzheng ,“Functional Separable Solutions of Nonlinear Heat Equationsin on-Newtonian Fluids” ，Communication in Theoretical Physics ，2008 Vol.49 No.2 ，（SCI收录）
+Wanglizhen,Gouming,Quchangzheng,“Conditional Lie-Backlund Symmetries of Hamilton--Jacobi Equations” ，Chinese Physics Letter ，Dec. 3, 2007; 24 (12) ，（ SCI收录）
+勾明，王丽真， “非线性反应-扩散方程的分离变量解”，西北大学学报（自然科学版），2007年12月，第37卷 第6期
+勾明，“拟线性波方程的函数分离变量解”，兰州大学学报（自然科学版），2009年2月，第45卷 第1期
+勾明，“风险度量模型的研究”，纯粹数学与应用数学，2002 第18卷 第4期
+勾明、王丽真、屈长征，Hamilton-Jacobi方程的对称约化和精确解 ，工程数学学报，Dec.2010，，Vol.27 No. 6
+    偏微分方程   西北大学数学系           

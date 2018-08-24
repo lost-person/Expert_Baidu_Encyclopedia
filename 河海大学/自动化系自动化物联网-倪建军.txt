@@ -1,0 +1,31 @@
+倪建军，1978年出生，安徽黄山人，教授
+，博士生导师
+。河海大学物联网工程学院教授，博士生导师
+。系国家自然科学基金评审专家、国家国际科技合作专项评审专家、国家科技奖励评审专家、江苏省科技项目评审专家、水利部科技专家
+、常州市科技咨询专家
+、IEEE会员、ACM会员、中国计算机学会高级会员、中国人工智能学会高级会员、常州市“831工程”中青年骨干人才、江苏省“333工程”中青年科学技术带头人，担任20余个国内外期刊的编委、客座编辑或审稿专家。主要研究方向为多机器人系统、信息获取与处理、复杂系统建模与控制、水利信息化等，先后在IEEE Transactions on Neural Networks、IEEE Transactions on Automation Science and Engineering等国内外期刊和国际会议发表论文100多篇，其中SCI、EI收录50余篇，申请软件著作权8项、申请发明专利近30项（已授权18项，部分已经转化），出版学术专著2部。参加和主持过多项科研项目，已完成的主要有：国家自然科学基金项目、江苏省自然科学基金项目、国家重点实验室开放研究基金项目、水利部“948”计划项目、常州市科技攻关项目以及10多项企业科技攻关课题。目前在研项目主要有：国家自然科学基金项目、中央高校基本科研业务费专项资金资助项目、江苏省科技成果转化专项资金项目、江苏省水利科技项目以及其他各类项目二十余项，成果获上海市科技进步奖1项。· 2014年5月-至今，河海大学，物联网工程学院，教授
+，博士生导师
+· 2010年9月-2016年12月，河海大学，常州校区科技与国际合作部，兼职副部长
+· 2015年7月-2015年8月，英国埃塞克斯大学，访问学者
+· 2008年5月-2014年4月，河海大学，物联网工程学院，副教授
+· 2008年8月-2008年10月，西藏农牧学院，工程学院，援藏教师
+· 2009年11月-2010年11月，加拿大圭尔夫大学，访问学者
+· 2005年7月-2008年4月，河海大学，计算机与信息工程学院，讲师担任国际期刊《International journal of complex systems》副主编
+；担任国际期刊《Computational Intelligence and Neuroscience》客座编辑
+；担任《IEEE Transactions on Neural Networks and Learning Systems》、《IEEE Transactions on Instrumentation and Measurement》、《International Journal of Robotics and Automation》、《China Communications》等SCI期刊审稿人；担任《中国图象图形学报》、《深圳大学学报理工版》等中文核心期刊审稿人。[1] 国家自然科学基金项目：“基于仿生视觉感知建模的水下构筑物裂缝检测方法研究”, 2016.1-2019.12[2] 国家自然科学基金项目：“仿动物空间认知的多机器人协作目标搜索方法研究”， 2013.1-2015.12[3]国家自然科学基金项目：“基于智能滑模控制器的微陀螺仪自适应控制理论与方法研究”，2011.1-2013.12[4] 国家自然科学基金项目：“跨流域调水的复杂适应性与多Agent系统建模及仿真”，2005.1-2007.12[5] 江苏省自然科学基金项目：“基于生物刺激神经网络的多机器人联合搜救方法研究”，2012.7-2015.6[6] 江苏省自然科学基金项目：“三轴微陀螺传感器建模与控制的关键技术研究”，2010.7-2013.6[7] 江苏省自然科学基金项目：“网络环境下多传感器管理与数据融合应用研究”，2003.7-2005.6[8] 江苏省水利科技项目：“基于物联网的水源地水质污染监控系统研究”，2015.7-2017.6[9] 江苏省科技成果转化项目：“基于物联网的智能燃气输配设备及管控平台研发及产业化”，2015.4-2018.3[10] 上海市国内科技合作项目：“水源地水质污染无线远程监控技术及系统”，2012.12-2014.6[11] 江苏省输配电装备技术重点实验室开放基金项目：“基于核主元分析的高压断路器故障诊断研究”，2010.9-2011.9[12] 科技攻关项目：“新北区水利信息综合平台研发”，2014.10-2016.10[13] 科技攻关项目：“梳棉机智能匀整仪设计与开发”，2011.3-2011.7[14] 科技攻关项目：“大屏监控动态画面设计与开发”，2013.1-2013.7[15] 科技攻关项目：“苏州市城市中心区防洪工程集控系统”，2011.9-2012.4[16] 企业科技攻关项目：“常州市河道湖泊管理处泵闸站管理系统业务软件平台”，2014.6-2015.5[1] Jianjun Ni, Liuying Wu, Xinnan Fan and Simon X. Yang. Bio-inspired Intelligent Algorithm and Its Applications for Mobile Robot Control: A Survey, Computational Intelligence and Neuroscience, 2016, Vol. 2016, Article ID 3810903 (SCI/EI检索)
+[2] Jianjun Ni, Minghua Liu, Li Ren, and Simon X. Yang. A Multiagent Q-Learning-Based Optimal Allocation Approach for Urban Water Resource Management System, IEEE Transactions on Automation Science and engineering, 2014, 11(1): 204-214 (SCI/EI检索)
+[3] Jianjun Ni, Chuanbiao Zhang, Li Ren and Simon X. Yang. Abrupt Event Monitoring for Water Environment System Based on KPCA and SVM, IEEE Transactions on Instrumentation and Measurement, 2012,61(4): 980-989 (SCI/EI检索)
+[4] Jianjun Ni, and Simon X. Yang. Bioinspired Neural Network for Real-Time Cooperative Hunting by Multirobots in Unknown Environments, IEEE Transactions on Neural Networks, 2011, 22(12): 2062-2077 (SCI/EI检索)
+[5] Jianjun Ni, Chuanbiao Zhang, and Simon X. Yang. An Adaptive Approach Based on KPCA and SVM for Real-Time Fault Diagnosis of HVCBs. IEEE Transactions on Power Delivery, 2011, 26(3): 1960 – 1971 (SCI/EI检索)
+[6] Jianjun Ni, Xiaofang Yang, Junfeng Chen, and Simon X. Yang. Dynamic bioinspired neural network for multi-robot formation control in unknown environments, International Journal of Robotics and Automation, 2015, 30(3):256-266 (SCI/EI检索)
+[7] Jianjun Ni, WenboWu, Jinrong Shen, and Xinnan Fan. An Improved VFF Approach for Robot Path Planning in Unknown and Dynamic Environments, Mathematical Problems in Engineering, 2014, vol.2014, Article number: 461237 (SCI/EI检索)
+[8] Jianjun Ni, Chu Wang, Xinnan Fan, and Simon X. Yang. A Bioinspired Neural Model Based Extended Kalman Filter for Robot SLAM, Mathematical Problems in Engineering, 2014, vol.2014, Article number: 905826 (SCI/EI检索)
+[9] Jianjun Ni, Li Ren, Minghua Liu, and Daqi Zhu. A multiagent dynamic assessment approach for water quality based on improved Q-learning algorithm, Mathematical Problems in Engineering, 2013, vol.2013, Article number: 812032 (SCI/EI检索)
+[10] Jianjun Ni, and Simon X. Yang. A Fuzzy-Logic Based Chaos GA for Cooperative Foraging of Multi-Robots in Unknown Environments, International Journal of Robotics and Automation, 2012, 27(1): 15-30 (SCI/EI检索)
+[1] 倪建军, 任黎著. 复杂系统控制与决策中的智能计算, 北京：国防工业出版社，2013.10
+[2] 倪建军著. 复杂系统多Agent 建模与控制的理论及应用研究. 北京: 电子工业出版社, 2011.92015年，获常州市第十三次自然科学优秀科技论文三等奖
+2015年，获河海大学本科毕业设计优秀指导教师称号2013年，获常州市第十二次自然科学优秀科技论文二等奖
+2013年，指导学生获第三届全国大学生物联网创新应用设计大赛三等奖
+2013年，指导学生获全国大学生电子竞赛江苏省赛区一等奖
+2013年，指导研究生获河海大学优秀硕士学位论文2013年，获河海大学本科毕业设计优秀指导教师称号2012年，指导学生获全国大学生电子竞赛江苏省赛区二等奖2011年，获河海大学常州校区“英才计划”优秀指导教师称号2009年，指导学生获第四届全国大学生“飞思卡尔”杯智能汽车竞赛全国一等奖
+2009年，指导学生获全国大学生电子竞赛江苏省赛区二等奖2008年，获河海大学青年岗位能手称号                              

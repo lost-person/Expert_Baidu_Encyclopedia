@@ -1,0 +1,64 @@
+李从东，1962年11月05日出生，管理学博士。一级特聘教授，博士生导师。
+校区管委会执行主任。
+曾任院长、/创院院长。
+主要从事现代工业工程、企业改造方法学、组织系统设计、集成化管理与企业信息化、医疗服务管理和药事管理等方面的研究。
+主持或主要参与了40多项国家级、省部级或横向委托科研课题，出版专著（或教材）4部，发表学术论文110余篇，部分论文被、收录。
+现任管委会执行主任。曾任院长、院长（全国第一家应急管理学院——暨南大学应急管理学院创院院长）。兼任的学术和社会职务有：天津大学、郑州大学、广西大学、辽宁工程技术大学、山东师范大学、河北工程大学、河南农业大学、广东商学院、山东工商学院、湛江师范学院兼职教授。工业工程分会副理事长、中国工业工程专家（认证）。成员、副组长。副会长。广东省人民政府第二届突发事件应急管理专家。广州市人民政府决策咨询专家。副理事长、副会长、广东省技术经济与管理现代化研究会副理事长、副会长、副会长、广东省企业管理现代化创新成果评审委员会委员。
+
+李从东,, 刘子先,等. 基于过程和成本动因理论的成本控制问题研究[J]. 系统工程理论与实践, 1999, 19(3):88-93.
+李从东, 杨文生. 基于CIMS的企业管理重构[J]. 中国机械工程, 1999, 10(8):874-877.
+张洪亮, 李从东. 新世纪天津滨海新区产业发展策略[J]. 天津大学学报(社会科学版), 2002, 4(4):350-353.
+Gui-Chun L I, Cong-Dong L I, Long-Zhu L I. Study on Supply Chain Performance Measurement Target Systems and Measurement Methods[J]. Journal of Industrial Engineering & Engineering Management, 2004, 18(1):104-106.
+Cong-Dong L I, Zhang H L. The ERP System Based on BOX and Feedforword Cost Control[J]. Computer Integrated Manufacturing Systems, 2004, 10(5):528-531.
+李贵春, 李从东, 李龙洙. 供应链绩效评价指标体系与评价方法研究[J]. 管理工程学报, 2004, 18(1):104-106.
+李从东, 张洪亮. 基于BOX和前馈成本控制的新型ERP体系[J]. 计算机集成制造系统, 2004, 10(5):528-531.
+Hong D U, Cong-Dong L I, Xiao-Yu L I. Knowledge Transfer Architecture for ERP Implementation[J]. Journal of Industrial Engineering & Engineering Management, 2005, 19(2):110-113.
+Li C D, Tang Y L, Zhang H L, et al. ABC method based on generalized work centers and its application[J]. Computer Integrated Manufacturing Systems, 2005, 11(2):228-232.
+李从东, 汤勇力, 张洪亮,等. 基于广义工作中心的作业成本法及应用[J]. 计算机集成制造系统, 2005, 11(2):0-0.
+杜红, 李从东, 李晓宇. 面向ERP实施的知识转移体系研究[J]. 管理工程学报, 2005, 19(2):110-113.
+肖冰, 李从东, 汤勇力. 中小企业集群复杂网络的结构与其资源整合能力的关系[J]. 科技管理研究, 2009(11):361-363.
+Jiang C, Li C. Social Benefits Evaluation of Reverse Logistics—Case of the Automobile Recall System[C]// Second International Seminar on Business and Information Management. 2010:288-294.
+Li C, Zhou Q, Tang Y. SMEs Cluster Resource Integration Capability Classification Based on SOM Neural Network[C]/ IEEE the, International Conference on Industrial Engineering and Engineering Management. 2010:1587-1590.
+李从东, 谢天, 汤勇力,等. 面向云制造服务的语义X列表知识表达与推理体系[J]. 计算机集成制造系统, 2012, 18(7):1469-1484.
+Zhu Y, Li C. Decision Model of the Best Investment Opportunity in Coal Mine Project Based On Real Option[J]. Telkomnika Indonesian Journal of Electrical Engineering, 2013, 11(7).
+Li C D, Li J, Liao C, et al. The workflow selection reasoning framework of collaborative manufacturing system based on SWRL[C]// Conference Anthology, IEEE. IEEE, 2013:1-7.
+Li C D, Xie T, Tang Y L. GMVN oriented S-BOX knowledge expression and reasoning framework[J]. Journal of Intelligent Manufacturing, 2014, 25(5):993-1011.
+Li C, Hong Y, School M, et al. Modeling Method for Social Emotional Stability Facing Emergency[J]. Journal of Intelligence, 2014.
+李从东, 洪宇翔. 面向突发事件的社会情绪稳定性建模方法研究[J]. 情报杂志, 2014(1):146-151.
+李从东, 曹策俊, 杨琴,等. BOX理论在多阶段应急资源调度中的应用研究——以应急响应阶段为例[J]. 中国安全科学学报, 2014, 24(7):159-165.
+洪宇翔, 李从东. 面向社会稳定风险治理的社会情绪共同体研究[J]. 情报杂志, 2015(4):116-121.
+谢天, 李从东, 汤勇力,等. 面向突发性制造需求的跨领域语义X列表集成方法[J]. 计算机集成制造系统, 2015, 21(4):1063-1076.
+洪宇翔, 李从东, 谢天. 基于X列表的社会情绪图式模型研究[J]. 系统科学学报, 2016(2):96-100.
+李从东, 陈海荣, 谢天. 基于语义X列表的可重构药品价值链知识模型[J]. 工业工程, 2016, 19(5):106-114.
+李从东, 邓原, 原智,等. 基于动态信息的级联失效负载重分配策略[J]. 华南理工大学学报 (自然科学版), 2016, 44(5):22-28.
+李从东, 原智峰, 邓原,等. 面向级联失效的复杂网络动态增边策略[J]. 计算机应用研究, 2016, 33(8):2324-2327.
+李从东, 陈海荣, 谢天. 基于Petri网的药品闭环价值链系统建模与仿真[J]. 计算机集成制造系统, 2017, 23(2):433-445.
+曹策俊,李从东,杨琴,王玉,刘桔.模拟植物生长算法在组合优化问题中的应用:研究进展[J].技术经济,2017,5:127-136
+Cao C, Li C, Yang Q, et al. A novel multi-objective programming model of relief distribution for sustainable disaster supply chain in large-scale natural disasters[J]. Journal of Cleaner Production, 2018, 174.
+曾路, 汤勇力, 李从东. 产业技术路线图:探索战略性新兴产业培育路径[M]. 科学出版社, 2014.王玉, 李从东, 林杰. 客户需求驱动的动态定制生产系统[M]. 科学出版社, 2014.
+汤勇力, 李从东. [M]. 科学出版社, 2011.施图本,李从东. 项目管理:过程、方法与效益(第2版)——国外大学优秀教材·工业工程系列[M]. 清华大学出版社, 2006.
+主编，现代工业经济学，，1990，32.副主编，技术经济学，南开大学出版社，1990，8郑力，李从东“”第一分册，清华大学出版社2001年，面向制造企业整体管理效益提高的中国式工业工程技术体系研究与应用，获中国机械工业科学技术二等奖（排名第二）。 2004年，深部矿井大型抢险救灾联合排水系统的开发与应用研究，获河南省科技进步二等奖（排名第二，排名第一为本人指导的博士生）管理经济学、工业工程学、运作管理、管理学、工业经济学、企业管理案例和管理概论现任暨南大学、天津大学、东北大学、河北工业大学EMBA核心课《》主讲教授；暨南大学、广西大学、中山大学EDP总裁班核心课《运营管理》主讲教授。
+2009.01-2010.01 2008年度广东省软科学课题《中小企业集群复杂网络资源整合能力研究》，主持人2009.01-2011.12, 2008年度广东省省部产学研项目《广东省产业技术路线图方法与制定研究》，主持人2007.10-2009.11,承接并主持广东省自然科学基金项目《面向中小企业多核集群的多层次网络资源计划体系（7005962）》，项目负责人。
+2007.12-2013.7,承接并主持广东省哲学社会科学“十一五”规划项目《现代治理结构下公立非营利医院成本发生与补偿机制（07004）》，项目负责人。
+国家十五课题“ERP快速实施方法学及ERP重构技术研究－基于X列表的ERP系统重构、改装和快速实施方法”（2003AA413231）；“天津港泥沙回淤与维护疏浚工程中数据挖掘技术应用研究”；国家十五863计划课题“面向多维管理进化的机械工业柔性ERP开发与应用”（2002AA413018）；国家十五863计划课题“基于BOX和前馈成本控制的ERP管理体系研究”（2001AA414130）；中国石油天然气（集团）公司“企业改制总体方案设计”；中国石油天然气股份公司锦州石化分公司“JZ-CIMS工程咨询服务”；国家863/CIMS主题重点应用工程课题——“广东科龙集团CIMS工程——集成化全面成本管理体系” （863-511-910-402）2013.10-2016.04欧盟FP7玛丽居里国际研究人员交流计划 《解析中国企业的技术创新本质》，参与人
+2014.11-2015.12深圳地铁集团、中国中铁、中国水电联合委托课题《基于‘轨道+物业’的城市轨道交通BOT联合体管理模式创新研究》，主持人
+2015.05-2017.04广东省科技计划项目 《面向网络知识互动的产业技术路线图制定与管理过程研究》，参与人
+2015.12-2017.12广东省哲学社会科学“十二五”规划项目 《大数据时代城市公共安全风险演化路径与治理机制研究—基于前馈导控视角》，参与人
+2016-08-20 国家自然科学基金面上项目《基于动态语义X列表互动知识空间的产品持续创新模型及其优化、应用》，主持人
+李从东, 何娟. 职位分析与评价在新建企业中的应用研究[C] 中国机械工程学会第五次工业工程学术会议. 1997.
+李秉光, 李从东. 论科技风险投资中的风险承担与防范[C] 中国机械工程学会第五次工业工程学术会议. 1997.
+李从东, 李中阳, 黄凌. 装配生产线平整化问题研究[C] 新世纪现代工业工程与工程管理国际会议. 2001.
+朱宁, 李从东. IE在政府行政部门的应用探讨[C] 新世纪现代工业工程与工程管理国际会议. 2001.
+李从东. 集成化企业工程系列讲座之一 企业如何“进化”[J]. 中国经济和信息化, 2003(10):34-35.
+李贵春, 李从东, 李龙洙. 大规模定制:企业竞争的新前沿[C] 网络化制造与大规模定制学术会议. 2003.
+李从东. 各行各业,携手同行走出一条中国工业工程应用推广之路——李从东总干事在"工业工程应用与推广"(2004,昆明)会议上的讲话[C] 2004工业工程应用与推广研讨会. 2004.
+李从东, 吴伟强. 制造业国际化的信息支持平台及相关案例研究[C] 第五届中国青年科技企业家管理论坛. 2005.
+张波, 李从东. 顾客满意度的模糊综合评价方法研究[C] 2005中国控制与决策学术年会. 2005.
+李从东, 吴伟强. 制造业国际化信息支持平台绩效评价体系研究[C] 信息系统协会中国分会学术年会. 2005.
+Wu W Q, Cong-Dong L. Study and Case Analysis on the Information Supportive Platform for Manufacturing Internationalization[C] IEEE International Conference on Management of Innovation and Technology. IEEE, 2006:527-531.
+Wu W Q, Cong-Dong L, Huang H Y, et al. Customer-Enterprise Interacting Mechanism Model Based on Fuzzy Theory for Quality Improvement[C] Management of Innovation and Technology, 2006 IEEE International Conference on. IEEE, 2006:441 - 445.
+天津大学暨南大学 暨南大学珠海校区 暨南大学管理学院暨南大学公共管理学院暨南大学应急管理学院  EIISTP 暨南大学珠海校区暨南大学管理学院暨南大学应急管理学院中国机械工程学会中国机械工程学会教育部应急管理咨询专家组广东省应急管理学会广东省系统工程学会广东省商业经济学会广东省职业经理人协会广东省企业培训协会 
+
+
+
+齐二石                               基于X列表的可重构ERP体系研究 天津科学技术出版社工业工程手册运营管理   863计划锦州石化公司设计院                 

@@ -1,0 +1,9 @@
+李廷秋，男，1962年8月28日生，现为特聘教授（）。
+1986年、1989年、1992年获（前身）学士、硕士、博士学位。1993～1994年在从事博士后研究。曾获英国皇家协会K.C.Wong奖学金（1995～1996年）和上海杰出博士后研究奖（1993～1994年）。
+1995年，在上海交通大学任副教授；1995～1998年，在英国伦敦大学学院（UCL）任研究员；1998～2002年，在芬兰赫尔辛基工业大学作为访问科学家；2002～2009年，在比利时根特大学担任高级研究员。现为武汉理工大学交通学院特聘教授（楚天学者）。
+长期以来，主要致力于非线性、水波动力学CFD技术的研究和工程应用，是海岸、船舶与海洋工程领域的CFD专家；常年参加相关领域的国际学术研究会。在船舶计算流体力学、水波动力学领域，自主创新、开拓了独特的、先进的计算模式，提出了捕捉复杂自由面的VOF算法，并开发高效求解Navier-Stokes方程程序。
+水波动力学，CFD，船舶与海洋工程的计算方法。
+1 Li, T., Troch, P. and De Rouck, J. Wave overtopping over a sea dike. Journal Computational Physics, 2004，198: 686-726.2 Li, T., Troch, P. and De Rouck, J. Interactions of breaking waves with a current over cut cells. Journal Computational Physics, 2007, 223: 865-697.3 Li, T. Computation of turbulence free-surface flows around modern ships. Int.J.Numer.Meth.Fluids, 2003,43:407-430.4 Li, T. and He, W. Numerical simulation of wind effects on wave overtopping by a two-phase solver, Vol.4, 21th International Offshore and Polar Engineering Conference, 2011,USA.5 李廷秋，出入水瞬间及液面晃荡的数值模拟，全国船舶与海洋工程CFD专题研讨会论文集，上海，20106 李廷秋，大涡模拟风浪中动物体的流固耦合问题，第二十三届全国水动力研讨会暨第十届全国水动力学学术会议文集,20117 Tingqiu Li and Tian Fang,Numerical simulation of water waves induced by a moving body,Proceedings of the Seventh International Workshop on Ship Hydrodynamics,September 16-19, 2011, Shanghai, China
+专项基金（51072241），2011.01至2011.12
+国家自然科学基金面上项目（51179142），2012.01至2015.12
+武汉理工大学交通学院楚天学者 武汉理工大学武汉水运工程学院上海交通大学     国家自然科学基金  

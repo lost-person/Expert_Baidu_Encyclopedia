@@ -1,0 +1,22 @@
+方莉，女，副教授。2004年获硕士学位，2009年获基础数学专业博士学位。2004年开始在工作。
+姓名：方莉
+职称：副教授
+荣誉：专业学位硕士生导师
+2004.7-今  讲师
+2010.12-今  博士后
+2005.9-2009.7 博士
+2001.9-2004.7  硕士
+1997.9-2001.7  大学
+国家自然科学基金数学专项，量子系统与C*-代数上的完全正映射（11026134），2011.1-2011.12，主持。
+陕西省教育厅科研计划项目，算子代数上非线性保持映射的研究（09JK741），2009-2011，主持。
+方莉，杜鸿科,算子n次方根的惟一性，数学学报，2005，48（6）：1131-1136.
+，Guoxing Ji，Linear maps preserving products of positive matrices，Linear Algebra and its Applications，2006，419：601–611.
+Li Fang, Guoxing Ji, Yongfeng Pang, Maps preserving the idempotency of products of operators, Linear Algebra and its Applications，2007，426：40–52.
+Meili Wang , Li Fang, Guoxing Ji, Linear maps preserving idempotency of products or triple Jordan products of operators, Linear Algebra and its Applications，2008，429：181–189.
+王美丽,方莉, 吉国兴,关于满足 的算子, 西北大学学报(自然科学版),2008,38(2)：203-206.
+方莉,白维祖，保持幂等算子乘积或约当三乘积非零幂等性的映射,山东大学学报(理学版),2010,45(12)：98-105.
+FANG Li, Linear maps preserving the idempotency of Jordan products of operators, Electronic Journal of Linear Algebra, 2011,22: 767-779.
+方莉，杜鸿科，Young’s Inequality for Positive Operators，数学研究与评论，2011,31(5): 915-922.
+方莉,张海燕,关于Hilbert空间上算子乘积有限和的奇异值不等式，数学物理学报，2011,31(5): 1385-1392.
+承担课程：主讲《》、《》、《》等课程。
+西北大学数学系    西北大学数学系 西北大学 陕西师范大学数学与信息科学学院 陕西师范大学数学与信息科学学院 陕西师范大学数学与信息科学学院            高等数学实变函数泛函分析 

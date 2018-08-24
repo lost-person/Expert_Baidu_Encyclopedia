@@ -1,0 +1,20 @@
+叶树亮，1973年生，安徽人，哈尔滨工业大学工学博士，教授，学科。任产品安全测试技术与仪器浙江省工程实验室主任，08年入选浙江省新世纪151人才工程第二层次。主要研究方向为化工产品及工艺安全检测技术与仪器、零部件无损检测技术与设备、精密测量中部件信号处理。近五年主持国家级项目3项、发表论文50余篇、授权发明专利多项，作为项目负责人获浙江省科学技术奖二等奖1项、石油和化学工业联合会科技进步奖三等奖1项，作为参与人获科技兴检奖三等奖、国防科学技术奖一等奖2次。1991.09~1995.07：，，工学学士1997.09~1999.07：，，工学硕士2001.03~2005.04：，精密仪器与机械专业，工学博士
+1998.08-2001.02，东北林业大学机电一体化研究所，工业在线传感技术2005.08~2006.10，，任传感器技术研究室主任2005.09~2005.12，德国联邦物理研究院（PTB），访问学者2006.11-迄今，，教师
+2013.03-迄今，化工产品安全测试技术与仪器浙江省工程实验室，主任
+2014.02-迄今，大学工业与商贸计量技术研究所，所长
+理事
+理事
+计量仪器专业委员会委员公共安全化学专业委员会委员
+全国危险化学品管理标准化技术委员会（TC251）委员
+面向化工产品安全管理及化工工艺过程安全测试领域的难点和热点问题，开展前瞻性研究、攻克关键和共性技术、研制关键部件与仪器。致力于研究先进无损检测新技术并应用于生产制造企业，推动我国工业零部件质量提升。主要研究方向为主动热成像检测和电磁检测，以及综合电磁和热学原理的新检测方法。超精密定位、自动光学检测和光栅信号高速处理方面研究，重点就超精密定位误差模型与补偿方法、基于影像法的小模数齿轮检测技术、高速高倍光栅细分电路开展工作。国家重大科学仪器设备开发专项，集成自主探测器的分析型工业热像仪开发和应用，2013YQ470767，5786万，2014.07-2018.06，第一技术负责人国家公益性行业科研专项，化学品物理危害检测方法评价及标准装置研制，201310102，253万，2013.01-2014.12，主持国家公益性行业科研专项，生物安全柜检测校准方法的研究，201110045-2，34万，2011.01-2012.12，主持, Song J, Zhang B, et al. Development of high-precision high-frequency phase-shifting circuit[C]//Sixth International Symposium on Precision Engineering Measurements and Instrumentation. International Society for Optics and Photonics, 2010: 75441C-75441C-7., Gao P. A novel technique of phase-locked interference positioning and phase discrimination[C]//5th International Symposium on Advanced Optical Manufacturing and Testing Technologies. International Society for Optics and Photonics, 2010: 765702-765702-6.（EI收录）王晓娜, 沈海珍, 张炜, . 结合三角几何约束的局部自相关性图像拼接算法研究[J]. 光电工程, 2015,04:32-37.
+WANG Xiaona,WANG Xiaoning,HOU Dexin, Surface crack imaging based on delayed temperature difference at symmetric points by laser spot thermography[J]. Instrumentation, 2014,02:30-37.
+侯德鑫, 孙晓莹, . 感应热成像中的激励不均匀性及其分离方法[J]. 仪器仪表学报, 2014,07:1466-1475.
+杨遂军, 张炜, 傅琳, . 基于粗糙集的多传感器联合燃爆辨识技术[J]. 仪器仪表学报,2014,06:1254-1260.
+徐浩, 侯德鑫, 邱建, . 铁氧体裂纹检测自相关处理与多特征辨识方法[J]. 仪器仪表学报, 2014,35(1): 117-124.
+Liu S, Xue Z, , et al. Characteristic evaluation and experimental analysis of the ultrahigh precision three-dimensional scanning probe[C]//International Symposium on Precision Engineering Measurement and Instrumentation 2012. International Society for Optics and Photonics, 2013: 87592M-87592M-8.（EI收录）Xu H, Hou D, Qiu J, . Extracting crack signal of magnetic ring based on MAX262[C]//International Symposium on Precision Engineering Measurement and Instrumentation 2012. International Society for Optics and Photonics, 2013: 875905-875905-7.（EI收录）Hou D, Qiu J, . Wireless communication in the airflow verification system of biological safety cabinet[C]//International Symposium on Precision Engineering Measurement and Instrumentation 2012. International Society for Optics and Photonics, 2013: 87591R-87591R-6.基于印刷电子技术的薄膜热电偶制备方法，发明专利，授权，ZL 201310378379.5高电阻率铁磁材料缺陷检测方法，发明专利，授权，ZL 201210357928.6一种采用振型频率组合的工件缺陷类型音频检测方法，发明专利，授权，ZL 200910154676.5
+基于外差式激光干涉仪的纳米静态锁定定位方法，发明专利，授权，ZL 201010295455.2
+国家质检总局科技兴检奖三等奖，化学品生命周期中物理危险特性检测装备研发及产业应用，2015
+省科学技术奖二等奖，危险化学品生命周期中燃爆特性检测技术及应用，1202069-1，2012石油与化工联合会科技进步三等奖，支撑TDG实施的危险化学品分级鉴定仪器的研制，2012JBR0258-3-1，2012
+国防科学技术奖一等奖，基准型圆柱度测量仪，2005GFJ1047-5，2005国防科学技术奖一等奖，惯性器件非连续圆柱形状超精密测量仪，2002GFJ048-8，2002省高校2011-2012年“三育人”先进个人，2012省优秀科技工作者，2013
+省“新世纪151人才工程”第二层次培养人员，2008
+黄山中国计量学院仪器科学与技术化工国家质检总局东北林业大学工业自动化东北林业大学控制理论与控制工程哈尔滨工业大学 哈尔滨工业大学超精密光电仪器工程研究所中国计量学院计量测试工程学院  中国计量 中国仪器仪表学会 中国仪器仪表学会分析仪器分会 中国计量测试学会中国化学会             

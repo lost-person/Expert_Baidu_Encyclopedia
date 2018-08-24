@@ -1,0 +1,5 @@
+赵玉壮，男，北京理工大学机械与车辆学院车辆工程讲师/硕导。
+车辆动力学及其控制；半主动悬架连续阻尼调节机理及其控制策略研究；空气/油气悬架车高控制机理及其控制策略研究；
+[1]Yuzhuang Zhao, Sizhong Chen, Taehyun Shim. Investigation of Trailer Yaw Motion Control Using Active Front Steer and Differential Brake[C]. SAE Technical Papers, SAE 2011-01-0985.　　[2]Sizhong Chen and Yuzhuang Zhao. Investigation of semi-active hydro-pneumatic suspension control using neural network based sliding mode method[C]. 2011 International Conference on Advanced Computer Control, Harbin, China, 2011:256-260.
+“整车高维非线性振动状态观测算法研究”　　——国家自然科学基金-青年基金　　“耦合工况下的空气悬架车高估计算法研究”　　——北京理工大学基础研究基金
+    

@@ -1,0 +1,5 @@
+我国著名数学家，二级教授，博士生导师，黑龙江省计算数学学会理事长，国家科学技术奖评审专家。现任教于青岛滨海学院。
+1961－1966年：毕业于数学专业获学士学位1978－1981年：毕业于数学专业获硕士学位1981－1988年：毕业于哈尔滨工业大学数学专业获博士学位1986年：哈尔滨工业大学理学院（系）副教授1988年：哈尔滨工业大学理学院（系）教授1997－目前：理学院数学系基础数学博士生导师
+基础数学1.多项式插值逼近。在Hermite-Fejer多项式的5种最重要的形式中，本人给了3种多项式的最佳逼近阶。2.再生核空间及其应用。给出了线性算子方程精确解表示，近期在再生核空间中讨论了非线性算子方程精确解的表示，特别是给出形如AuBu+Cu=f二次非线性算子方程精确解的表示及其算法。3.小波理论及其应用。小波理论中引入了分式滤波器的概念和有关这方面的应用。4.P-adic分析。将应用与计算调和分析引入到P-adic数域中，为P-adic分析的应用提供新的分析工具。逼近论；非线性数值分析；图象处理；密码学
+[1]Cui minggen，Filtering on the basis of Wavelet theory，Ukr Acad. Sci. Ookl Math.（乌克兰科学院报告），1（1998），64-70[2]Kuang Zheng，Cui Minggen，Rational filter Wavelets，J .of Math. Analysis and Appl. 239（1999），227-244[3]Chun-li li and Cui Minggen，How to solve the equation AuBu+Cu=f，Appl. Math. and comput. 133（2002）， 643-653[4]Cui Minggen and Guanghong Gao，on the Wavelet transform in the field of P-adic numbers，13（2002），162-168[5]Cui Minggen，Fourier transform and Wavelet analysis，KYUNG MOON Publishers，2001，1-224信息论基础----本科生非线性数值分析----数学系专业研究生小波分析----数学系专业研究生、工科研究生数值分析----工科研究生现代数学基础----工科研究生
+ 黑龙江大学哈尔滨工业大学哈尔滨工业大学（威海）   

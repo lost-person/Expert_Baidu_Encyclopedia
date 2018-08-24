@@ -1,0 +1,56 @@
+李子刚，男，教授
+，北京大学“百人计划”特聘研究员
+，博士生导师
+，课题组长
+。美国博士，博士后，研究方向涉及多肽化学生物学、蛋白质工程、人类疾病治疗方法、有机合成、有机金属化学等领域的工作，近年来在《Science Advances》、《Nature Chemical Biology》、《Cell Chemical Biology》、《Proc. Natl. Acad. Sci.》、《J. Am. Chem. Soc.》、《Angew. Chem. Int. Ed. 》、《J. Med. Chem.》、《Chemical Science》、《Theranostics》、《Chemical Reviews》等国际顶级学术期刊发表论文多篇。
+2010年起 北京大学， 化学生物学与生物技术学院，特聘研究员、教授
+2009-2010 ， 化学与化学生物学系，博士后
+
+2004-2008 ， 化学系，博士2001-2004 杜兰大学， 化学系，硕士
+
+1996-2001 中国科学技术大学， 神经科学和生物物理系，学士
+
+2017 拜耳学者奖
+2016 广东特支计划百千万工程领军人才
+
+
+2013 深圳市杰出青年基金奖
+2012 深圳市海外高层次人才
+2010 北京大学“百人计划”特聘研究员
+2010 美国国家癌症中心博士后奖金
+
+2008 芝加哥大学Harper毕业论文奖
+
+李子刚教授课题组致力于在和生物交叉领域用化学方法解决问题。研究领域涉及稳定的方法学研究、治疗性靶点研究、微生物毒力及抗感染治疗研究和多肽自组装材料研究等方面。
+蛋白-蛋白相互作用 (s) 通常被视为药物发现的非药物性靶点，大多数PPIs包括少于15个氨基酸残基的短螺旋多肽，通过化学手段将多肽稳定在某一固定的稳定多肽是重要的调节PPI的代表性化合物。
+李子刚教授课题组的相关研究关注多肽工程战略，致力于发展新型多肽螺旋构象稳定方法，以解释稳定多肽的二级构象对其生物物理性能的影响。与此同时我们通过化学稳定的多肽来研究重要蛋白靶点的生物功能和作用机制，为探索更加有效的药物前体奠定基础。
+
+李子刚教授课题组的一个研究方向是基于不同治疗性的特征(如：-α, USP 30, Raf, LSD1, , HDAC1, IDE等靶点)，设计和开发新的稳定多肽。
+
+
+李子刚教授研究小组的一个研究方向是关注人类重要病原微生物的毒力，利用结构生物学或计算化学手段及高通量药物筛选方法对小分子库进行筛选，针对人类病原体重要靶标蛋白开发一些小分子抑制剂用于抵抗感染。
+李子刚教授团队的一个研究方向是采用化学方法设计与合成具有特殊结构的短肽，并诱导其形成规则有序的纳米结构，开发更为便捷的组装体系，以探索制备更加环境友好、性质独特的生物纳米材料。
+Kuan Hu,‡ Yixiang Jiang,‡ Wei Xiong, Hu Li, Pei-Yu Zhang, Feng Yin, Qianling Zhang, Hao Geng, Fan Jiang,* Zhou Li,* Xinwei Wang,* and Zigang Li* “Tuning peptide self-assembly by an in-tether chiral center” ,4, doi: 10.1126/sciadv.aar5907
+Xiaodong Shi, Rongtong Zhao, Yixiang Jiang, Hui Zhao, Yuan Tian, Yanhong Jiang, Jingxu Li, Weirong Qin, Feng Yin*, Zigang Li* “Reversible stapling of unprotected peptides via chemoselective methionine bis-alkylation/dealkylation ” , 9, 3227–3232.
+Mingsheng Xie, Hui Zhao, Qisong Liu, Yujia Zhu, Feng Yin, Yujie Liang, Yanhong Jiang, Dongyuan Wang, Kuan Hu, Xuan Qin, Zichen Wang, Yujie Wu, Naihan Xu, Xiyang Ye* , Tao Wang* , and Zigang Li* “Structural Basis of Inhibition of ERα-Coactivator Interaction by High-Aﬃnity N‑Terminus Isoaspartic Acid Tethered Helical Peptides” ; 60, 8731–8740.
+Yanhong Jiang,† Qiwen Deng,† Hui Zhao, Mingsheng Xie, Longjian Chen, Feng Yin, Xuan Qin, Weihao Zheng, Yongjuan Zhao* and Zigang Li* “Development of stabilized peptide-based PROTACs against estrogen receptor α” , 13 (3), pp 628–635.
+
+Kuan Hu,† Feng Yin1,† Mengyin Yu, Chengjie Sun, Jingxu Li, Yujie Liang, Wenjun Li, Mingsheng Xie, Yuanzhi Lao, Wei Liang* , Zigang Li* “In-tether chiral center induced helical peptide modulators target p53-MDM2/MDMX and inhibit tumor growth in stem-like cancer cell” ; 7, 4566-4576.
+Yuan Tian, Xiangze Zeng, Jingxu Li, Yanhong Jiang, Hui Zhao, Dongyuan Wang, XuhuiHuang* and Zigang Li* “Achieving enhanced cell penetration of short conformationally constrained peptides through amphiphilicity tuning” , 8, 7576–7581.
+Dan Yang, Huasen Wang, Chengjie Sun, Hui Zhao, Kuan Hu, Weirong Qin, Rui Ma, Feng Yin, Xuan Qin, Qianling Zhang, Yongye Liang* and Zigang Li “Development of a high quantum yield dye for tumor imaging”  , 8, 6322–6326.
+Yin, F.; Hu, K.; Chen Y.; Yu, M.; Wang, D.; Wang, Q.; Yong, K. T.; Lu, F.; Liang, Y.; Li, Z. “SiRNA Delivery with PEGylated Graphene Oxide Nanosheets for Combined Photothermal and Genetherapy for Pancreatic Cancer” , 7, 1133.
+Zheng, W.; Cai, X.; Xie, M.; Liang, Y.; Wang, T.; Li, Z. “Structure-Based Identification of a Potent Inhibitor Targeting Stp1-Mediated Virulence Regulation in Staphylococcus aureus”  , 23, 1002.
+Zhao, H.; Liu, Q. S.; Geng, H.; Tian, Y.; Cheng, M.; Jiang, Y. H.; Xie, M. S.; Niu, X. G.; Jiang, F.; Zhang, Y. O.; Lao, Y. Z.; Wu, Y. D.; Xu, N. H.; Li, Z. “Crosslinked Aspartic Acids as Helix-Nucleating Templates”  , 55, 12088.
+Yuan, F.; Deng, Y. Y.; Zhou, W. Y.; Zhang, M.; Li, Z. “A simple and novel method for the quantitative detection of 5-hydroxymethylcytosine using carbon nanotube field-effect transistors”  , 9, 1701.
+Tian, Y.; Li, J. X.; Zhao, H.; Zeng, X. Z.; Wang, D. Y.; Liu, Q. S.; Niu, X. G.; Huang, X. H.; Xu, N. H.; Li, Z. “Stapling of unprotected helical peptides via photoinduced intramolecular thiol-yne hydrothiolation”  , 7, 3325.
+Hu, K.; Geng, H.; Zhang, Q.; Liu, Q.; Xie, M.; Sun, C.; Li, W.; Lin, H.; Jiang, F.; Wang, T.; Wu, Y. D.; Li, Z. “An In-tether Chiral Center Modulates the Helicity, Cell Permeability, and Target Binding Affinity of a Peptide” Angew. Chem. Int. Ed. , 55, 8013.
+Zhang, Q. Z.; Jiang, F.; Zhao, B. C.; Lin, H. C.; Tian, Y.; Xie, M. S.; Bai, G. Y.; Gilbert, A. M.; Goetz, G. H.; Liras, S.; Mathiowetz, A. A.; Price, D. A.; Song, K.; Tu, M. H.; Wu, Y. J.; Wang, T.; Flanagan, M. E.; Wu, Y. D.; Li, Z. G. “Chiral Sulfoxide-Induced Single Turn Peptide alpha-Helicity”  , 6, 38573.
+Zhao, W.; Qian, H.; Li, Z.; Sun, J. “Catalytic Ring Expansion of Cyclic Hemiaminals for the Synthesis of Medium-Ring Lactams”  , 54, 10005.
+Zhao, W.; Li, Z.; Sun. J. “A new strategy for efficient synthesis of medium and large ring lactones without high dilution or slow addition” , 135, 4680.
+Cai, S.; Zhao, X.; Wang, X.; Liu, Q.; Li, Z.; Wang, D. Z.; “Visible-light-promoted C-C bond cleavage: photocatalytic generation of iminium ions and amino radicals”  , 51, 8050.Yang, S. D.; Li, Z.; Han, X.; He, C. “Platinum (II)-Catalyzed Intramolecular Cyclization of o-Substituted Aryl Alkynes through sp(3) C-H Activation”  , 48, 3999.
+Li, Z.; Brouwer, C; He, C. “Gold-catalyzed organic transformations”, 108, 3239.
+Chen, H.; Hu, J.; Chen, P. R.; Lan, L. F.; Li, Z.; Hicks, L. M.; Dinner, A. R.; He, C. “The Pseudomonas aeruginosa multidrug efflux regulator MexR uses an oxidation-sensing mechanism”  , 105, 13586.
+Chang, S.; Bray, S.M.; Li, Z.; Zarnescu, D. C.; He, C.; Jin, P.; Warren, S. T. “Identification of small molecules rescuing fragile X syndrome phenotypes in Drosophila”  , 4, 256.
+Li, Z.; Capretto, D. A.; Rahaman R.; He, C. “Gold(III)-catalyzed nitrene insertion into aromatic and benzylic C-H groups”  , 129, 12058.
+Li, Z.; Capretto, D. A.; Rahaman R.; He, C. “Silver-catalyzed intermolecular amination of C-H groups”  , 46, 5184.
+北京大学化学生物学与生物技术学院  北京大学深圳研究生院  芝加哥大学哈佛大学  哈佛大学  芝加哥大学               化学生物学多肽二级结构 PPI构象   药物靶点ERp53   病原微生物                         

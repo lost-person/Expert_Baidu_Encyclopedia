@@ -1,0 +1,36 @@
+蔡伟伟，1980年11月出生，福建省人，闽江特聘教授，。2002年毕业于物理系，2002年至2006年于跟随导师、攻读博士学位，于2006年至2007年期间赴机械工程系访问学者。2007年至2010年在美国做博士后。2010年回国到厦门大学物理系工作，2013年至今任厦门大学物理系主任。
+蔡伟伟，男，汉族，1980年出生于福建省漳州市，厦门大学闽江特聘教授，博士生导师，物理系主任，专家。2002年毕业于厦门大学物理系，获物理学学士学位，2006年获中国科学院物理研究所博士学位。主要从事等二维半导体材料的制备、表征和应用研究。并获国家基金委青年科学基金、国家基金委重大研究计划培育项目的重大支持
+。现担任厦门大学物理系系主任。蔡伟伟，1980年出生于福建省漳州市。2002年毕业于厦门大学物理系物理学专业，2006年于中国科学院物理研究所获得博士学位。于2006年至2007年期间赴美国西北大学机械工程系访问学者。
+2007年至2010年在美国德克萨斯大学奥斯汀分校跟随RodneyS.Ruoff教授做博士后研究
+。2010年回国到厦门大学物理系工作，2013年任物理系主任。蔡伟伟教授主要研究领域为超大面积石墨烯制备、石墨烯热运输表征、石墨烯及其应用和还原在储能器件中的应用等。
+共发表文章60余篇，其中包括，
+子刊，等国际知名期刊。
+文章总引用次数超过6000余次。在国内外知名会议上应邀做大会报告多次。蔡伟伟教授还主持国家自然科学基金委青年科学基金项目、国家自然科学基金委重大研究计划培育项目等4项国家级、省级课题，以及3项企业横向课题。2013年，蔡伟伟入选首届中央组织部“”
+，以及福建省“”
+。成为厦门大学物理系史上最年轻的系主任。
+1998年9月-2002年7月 厦门大学物理系 理学学士学位；2002年9月-2006年12月 中国科学院物理研究所 理学博士学位；2006年12月-2007年9月 美国西北大学 访问学者；2007年9月-2010年4月 美国德州大学Austin分校 博士后；2010年-至今 厦门大学物理系 闽江特聘教授，博士生导师，物理系系主任。
+蔡伟伟教授主要从事石墨烯相关的材料制备、表征和应用研究，包括：
+（1）超大面积石墨烯的可控制备；（2）热输运表征；（3）石墨烯场效应晶体管及其应用；（4）还原氧化石墨烯及其在储能器件中的应用。
+（1）“闽江学者”特聘教授启动项目：石墨烯相关研究；（2）国家基金委青年科学基金：同位素石墨烯热输运研究；（3）国家基金委重大研究计划培育项目：超大规模柔性高速石墨烯射频晶体管关键技术研究；（4）教育部博士点基金新教师类；（5）福建省自然科学基金项目杰出青年基金；（6）横向课题：作为透明电极的石墨烯生长动力学研究；（7）横向课题：石墨烯制备技术；（8）人才项目：首批“青年拔尖人才支持计划”
+
+, Piner R D, Stadermann F J, et al. Synthesis and solid-state NMR structural characterization of 13C-labeled graphite oxide[J]. Science, 2008, 321(5897): 1815-1817.
+Li X,, An J, et al. Large-area synthesis of high-quality and uniform graphene films on copper foils[J]. Science, 2009, 324(5932): 1312-1314.
+Li X,, Colombo L, et al. Evolution of graphene growth on Ni and Cu by carbon isotope labeling[J]. Nano letters, 2009, 9(12): 4268-4272.
+, Zhu Y, Li X, et al. Large area few-layer graphene/graphite films as transparent thin conducting electrodes[J]. Applied Physics Letters, 2009, 95(12): 123115.
+Huang Y Y, Beal C M,, et al. Micro‐Raman spectroscopy of algae: Composition analysis and fluorescence background behavior[J]. Biotechnology and bioengineering, 2010, 105(5): 889-898.
+Zhu Y, Murali S,, et al. Graphene and graphene oxide: synthesis, properties, and applications[J]. Advanced materials, 2010, 22(35): 3906-3924.
+Chen S,, Chen D, et al. Adsorption/desorption and electrically controlled flipping of ammonia molecules on graphene[J]. New Journal of Physics, 2010, 12(12): 125011.
+Zhu, Y., Murali, S., Stoller, M. D., Ganesh, K. J.,., Ferreira, P. J., ... & Ruoff, R. S. (2011). Carbon-based supercapacitors produced by activation of graphene.,(6037), 1537-1541.
+Chen S,, Piner R D, et al. Synthesis and characterization of large-area graphene and graphite films on commercial Cu–Ni alloy foils[J]. Nano letters, 2011, 11(9): 3519-3525.
+Park, S., Hu, Y., Hwang, J. O., Lee, E. S., Casabianca, L. B.,., ... & Ruoff, R. S. (2012). Chemical structures of hydrazine-treated graphene oxide and generation of aromatic nitrogen doping.,, 638.
+Ren Y, Chen S,, et al. Controlling the electrical transport properties of graphene by in situ metal deposition[J]. Applied Physics Letters, 2010, 97(5): 053107.
+Chen, S., Li, Q., Zhang, Q., Qu, Y., Ji, H., Ruoff, R. S., &. (2012). Thermal conductivity measurements of suspended graphene with and without wrinkles by micro-Raman mapping.,(36), 365701.
+, Moore A L, Zhu Y, et al. Thermal transport in suspended and supported monolayer graphene grown by chemical vapor deposition[J]. Nano letters, 2010, 10(5): 1645-1651.
+Chen, S., Wu, Q., Mishra, C., Kang, J., Zhang, H., Cho, K.,., ... & Ruoff, R. S. (2012). Thermal conductivity of isotopically modified graphene.,(3), 203-207.
+Chen S, Moore A L,, et al. Raman measurements of thermal transport in suspended monolayer graphene of variable sizes in vacuum and gaseous environments[J]. ACS nano, 2010, 5(1): 321-328.
+Chen, S., Brown, L., Levendorf, M.,., Ju, S. Y., Edgeworth, J., ... & Ruoff, R. S. (2011). Oxidation resistance of graphene-coated Cu and Cu/Ni alloy.,(2), 1321-1327.
+漳州市博士生导师厦门大学中国科学院物理研究所陈东敏薛其坤美国西北大学德克萨斯大学奥斯汀分校 材料物理凝聚态物理石墨烯   场效应晶体管氧化石墨烯 Science NatureNano Letters 青年拔尖人才支持计划 百人计划   
+
+
+
+                   

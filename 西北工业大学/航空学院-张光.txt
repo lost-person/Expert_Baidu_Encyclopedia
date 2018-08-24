@@ -1,0 +1,7 @@
+张光，男，1963年6月生，西北工业大学教授/硕导。学科专业：固体力学。
+1、材料及结构的动态力学行为2、生物材料的力学行为及模型3、结构疲劳、断裂、可靠性分析
+1981-1985，西北工业大学锻压工艺与设备专业学士学位1996-1999，西北工业大学固体力学专业硕士学位1999-2005，西北工业大学固体力学专业博士学位1985-1994，西北工业大学机械系讲师(1991)1994-2011,西北工业大学力学与土木建筑学院副教授（2000）、教授（2009）2011-，西北工业大学航空学院教授
+1、Connectivity and shape effects on effective properties of piezoelectric-polymeric composites，International Journal of Engineering Science，2010 (48) 1 SCI/EI2、A 3D skeletal muscle model coupled with active contraction of muscle fibres and hyperelastic behavior，Journalof Biomechanics，2009 (42) 7SCI/EI3、On plastic anisotropy of constitutive model for rate-dependent single crystal，Applied mathematics and mechanics2005（26）121-130SCI/EI4、Numerical simulation of non-planar plastic anisotropy of cold rolling polycrystalline materials，Acta Mechanica Solida Sinica,2005（18）13-20SCI/EI5、On analysis of the elasto-viscoplastic response of single crystals with anisotropic damage: constitutive modelling and computational aspects，International Journalfor numerical methods in engineering2004 (3) 61 SCI/EI
+1、镍基单晶高温合金晶体滑移应变梯度塑性变形与损伤，国家自然基金，2004-20062、单晶高温合金涡轮叶片的损伤演化与尺度相关的晶体滑移本构模型，航空基础科学基金2002-2004
+1、材料力学，本科生课程，54学时2、线性代数，本科生课程，40学时3、材料力学行为的计算模拟，研究生课程，40学时4、计算塑性力学，研究生课程，40学时
+      

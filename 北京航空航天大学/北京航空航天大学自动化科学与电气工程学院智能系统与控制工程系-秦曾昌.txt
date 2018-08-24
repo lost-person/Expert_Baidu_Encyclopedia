@@ -1,0 +1,11 @@
+秦曾昌（1979.10- ），北京航空航天大学自动化学院副教授 ，英国布里斯托大学 (University of Bristol) 计算机系硕士， 布里斯托大学工程数学系的人工智能博士。北京航空航天大学自动化学院副教授
+。 2005年10月到2006年1月任英国布里斯托(Bristol)大学工程数学系讲师，主要从事高年级本科的人工智能和数据建模的教学
+。2006年2月到2008年2月在美国加州大学伯克利分校(University of California, Berkeley)电子与计算机系(EECS)任英国电信特聘博士后研究员(BT Fellow)。在模糊逻辑的创始人Lotfi Zadeh的研究组 (BISC) 从事文本挖掘和智能搜索的研究。并在其间任英国电信研究院智能系统试验室访问研究员(Intelligent Systems Lab, British Telecommunications Research Ipswich)。2008 年3月到英国牛津的Optimor Lab任研究员，并兼任牛津大学（University of Oxford）统计系访问研究人员.2007年11月曾参加央视创业秀《赢在中国》，进入前108名。2009年入选教育部新世纪优秀人才支持计划
+。2010年在美国卡内基梅隆大学(CMU)机器人所
+做访问学者。2016年起担任果壳网科学顾问
+2017年关于人工智能的观点入选Agreelist
+主要学术著作:《Uncertainty Modeling for Data Mining》
+(秦曾昌、汤永川 著)《Integrated Uncertainty in Knowledge Modelling and Decision Making》
+(Zengchang Qin, Van-Nam Huynh 编著)科普译作：《活人能捐献心脏吗》
+（朱方、秦曾昌 译）,《地球上有从不犯错的人吗》
+（朱方、秦曾昌 译）          
